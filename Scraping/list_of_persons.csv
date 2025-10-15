@@ -1,0 +1,1582 @@
+idx,id,name,role,movie_title,movie_id
+1,1104,Frank Darabont,Director,The Shawshank Redemption,111161
+2,175,Stephen King,Writer,The Shawshank Redemption,111161
+3,1104,Frank Darabont,Writer,The Shawshank Redemption,111161
+4,209,Tim Robbins,Star,The Shawshank Redemption,111161
+5,151,Morgan Freeman,Star,The Shawshank Redemption,111161
+6,348409,Bob Gunton,Star,The Shawshank Redemption,111161
+7,338,Francis Ford Coppola,Director,The Godfather,68646
+8,701374,Mario Puzo,Writer,The Godfather,68646
+9,338,Francis Ford Coppola,Writer,The Godfather,68646
+10,8,Marlon Brando,Star,The Godfather,68646
+11,199,Al Pacino,Star,The Godfather,68646
+12,1001,James Caan,Star,The Godfather,68646
+13,634240,Christopher Nolan,Director,The Dark Knight,468569
+14,634300,Jonathan Nolan,Writer,The Dark Knight,468569
+15,634240,Christopher Nolan,Writer,The Dark Knight,468569
+16,275286,David S. Goyer,Writer,The Dark Knight,468569
+17,288,Christian Bale,Star,The Dark Knight,468569
+18,5132,Heath Ledger,Star,The Dark Knight,468569
+19,1173,Aaron Eckhart,Star,The Dark Knight,468569
+20,338,Francis Ford Coppola,Director,The Godfather Part II,71562
+21,338,Francis Ford Coppola,Writer,The Godfather Part II,71562
+22,701374,Mario Puzo,Writer,The Godfather Part II,71562
+23,199,Al Pacino,Star,The Godfather Part II,71562
+24,134,Robert De Niro,Star,The Godfather Part II,71562
+25,380,Robert Duvall,Star,The Godfather Part II,71562
+26,1486,Sidney Lumet,Director,12 Angry Men,50083
+27,741627,Reginald Rose,Writer,12 Angry Men,50083
+28,20,Henry Fonda,Star,12 Angry Men,50083
+29,2011,Lee J. Cobb,Star,12 Angry Men,50083
+30,842,Martin Balsam,Star,12 Angry Men,50083
+31,1392,Peter Jackson,Director,The Lord of the Rings: The Return of the King,167260
+32,866058,J.R.R. Tolkien,Writer,The Lord of the Rings: The Return of the King,167260
+33,909638,Fran Walsh,Writer,The Lord of the Rings: The Return of the King,167260
+34,101991,Philippa Boyens,Writer,The Lord of the Rings: The Return of the King,167260
+35,704,Elijah Wood,Star,The Lord of the Rings: The Return of the King,167260
+36,1557,Viggo Mortensen,Star,The Lord of the Rings: The Return of the King,167260
+37,5212,Ian McKellen,Star,The Lord of the Rings: The Return of the King,167260
+38,229,Steven Spielberg,Director,Schindler's List,108052
+39,447745,Thomas Keneally,Writer,Schindler's List,108052
+40,1873,Steven Zaillian,Writer,Schindler's List,108052
+41,553,Liam Neeson,Star,Schindler's List,108052
+42,146,Ralph Fiennes,Star,Schindler's List,108052
+43,1426,Ben Kingsley,Star,Schindler's List,108052
+44,1392,Peter Jackson,Director,The Lord of the Rings: The Fellowship of the Ring,120737
+45,866058,J.R.R. Tolkien,Writer,The Lord of the Rings: The Fellowship of the Ring,120737
+46,909638,Fran Walsh,Writer,The Lord of the Rings: The Fellowship of the Ring,120737
+47,101991,Philippa Boyens,Writer,The Lord of the Rings: The Fellowship of the Ring,120737
+48,704,Elijah Wood,Star,The Lord of the Rings: The Fellowship of the Ring,120737
+49,5212,Ian McKellen,Star,The Lord of the Rings: The Fellowship of the Ring,120737
+50,89217,Orlando Bloom,Star,The Lord of the Rings: The Fellowship of the Ring,120737
+51,233,Quentin Tarantino,Director,Pulp Fiction,110912
+52,233,Quentin Tarantino,Writer,Pulp Fiction,110912
+53,812,Roger Avary,Writer,Pulp Fiction,110912
+54,237,John Travolta,Star,Pulp Fiction,110912
+55,235,Uma Thurman,Star,Pulp Fiction,110912
+56,168,Samuel L. Jackson,Star,Pulp Fiction,110912
+57,1466,Sergio Leone,Director,"Il buono, il brutto, il cattivo",60196
+58,898812,Luciano Vincenzoni,Writer,"Il buono, il brutto, il cattivo",60196
+59,1466,Sergio Leone,Writer,"Il buono, il brutto, il cattivo",60196
+60,408488,Agenore Incrocci,Writer,"Il buono, il brutto, il cattivo",60196
+61,142,Clint Eastwood,Star,"Il buono, il brutto, il cattivo",60196
+62,908919,Eli Wallach,Star,"Il buono, il brutto, il cattivo",60196
+63,1812,Lee Van Cleef,Star,"Il buono, il brutto, il cattivo",60196
+64,709,Robert Zemeckis,Director,Forrest Gump,109830
+65,343165,Winston Groom,Writer,Forrest Gump,109830
+66,744839,Eric Roth,Writer,Forrest Gump,109830
+67,158,Tom Hanks,Star,Forrest Gump,109830
+68,705,Robin Wright,Star,Forrest Gump,109830
+69,641,Gary Sinise,Star,Forrest Gump,109830
+70,1392,Peter Jackson,Director,The Lord of the Rings: The Two Towers,167261
+71,866058,J.R.R. Tolkien,Writer,The Lord of the Rings: The Two Towers,167261
+72,909638,Fran Walsh,Writer,The Lord of the Rings: The Two Towers,167261
+73,101991,Philippa Boyens,Writer,The Lord of the Rings: The Two Towers,167261
+74,704,Elijah Wood,Star,The Lord of the Rings: The Two Towers,167261
+75,5212,Ian McKellen,Star,The Lord of the Rings: The Two Towers,167261
+76,1557,Viggo Mortensen,Star,The Lord of the Rings: The Two Towers,167261
+77,399,David Fincher,Director,Fight Club,137523
+78,657333,Chuck Palahniuk,Writer,Fight Club,137523
+79,880243,Jim Uhls,Writer,Fight Club,137523
+80,93,Brad Pitt,Star,Fight Club,137523
+81,1570,Edward Norton,Star,Fight Club,137523
+82,1533,Meat Loaf,Star,Fight Club,137523
+83,634240,Christopher Nolan,Director,Inception,1375666
+84,634240,Christopher Nolan,Writer,Inception,1375666
+85,138,Leonardo DiCaprio,Star,Inception,1375666
+86,330687,Joseph Gordon-Levitt,Star,Inception,1375666
+87,680983,Elliot Page,Star,Inception,1375666
+88,449984,Irvin Kershner,Director,Star Wars: Episode V - The Empire Strikes Back,80684
+89,102824,Leigh Brackett,Writer,Star Wars: Episode V - The Empire Strikes Back,80684
+90,1410,Lawrence Kasdan,Writer,Star Wars: Episode V - The Empire Strikes Back,80684
+91,184,George Lucas,Writer,Star Wars: Episode V - The Empire Strikes Back,80684
+92,434,Mark Hamill,Star,Star Wars: Episode V - The Empire Strikes Back,80684
+93,148,Harrison Ford,Star,Star Wars: Episode V - The Empire Strikes Back,80684
+94,402,Carrie Fisher,Star,Star Wars: Episode V - The Empire Strikes Back,80684
+95,905154,Lana Wachowski,Director,The Matrix,133093
+96,905152,Lilly Wachowski,Director,The Matrix,133093
+97,905152,Lilly Wachowski,Writer,The Matrix,133093
+98,905154,Lana Wachowski,Writer,The Matrix,133093
+99,206,Keanu Reeves,Star,The Matrix,133093
+100,401,Laurence Fishburne,Star,The Matrix,133093
+101,5251,Carrie-Anne Moss,Star,The Matrix,133093
+102,217,Martin Scorsese,Director,GoodFellas,99685
+103,683380,Nicholas Pileggi,Writer,GoodFellas,99685
+104,217,Martin Scorsese,Writer,GoodFellas,99685
+105,134,Robert De Niro,Star,GoodFellas,99685
+106,501,Ray Liotta,Star,GoodFellas,99685
+107,582,Joe Pesci,Star,GoodFellas,99685
+108,634240,Christopher Nolan,Director,Interstellar,816692
+109,634300,Jonathan Nolan,Writer,Interstellar,816692
+110,634240,Christopher Nolan,Writer,Interstellar,816692
+111,190,Matthew McConaughey,Star,Interstellar,816692
+112,4266,Anne Hathaway,Star,Interstellar,816692
+113,1567113,Jessica Chastain,Star,Interstellar,816692
+114,1232,Milos Forman,Director,One Flew Over the Cuckoo's Nest,73486
+115,369142,Lawrence Hauben,Writer,One Flew Over the Cuckoo's Nest,73486
+116,325743,Bo Goldman,Writer,One Flew Over the Cuckoo's Nest,73486
+117,450181,Ken Kesey,Writer,One Flew Over the Cuckoo's Nest,73486
+118,197,Jack Nicholson,Star,One Flew Over the Cuckoo's Nest,73486
+119,1221,Louise Fletcher,Star,One Flew Over the Cuckoo's Nest,73486
+120,77720,Michael Berryman,Star,One Flew Over the Cuckoo's Nest,73486
+121,399,David Fincher,Director,Se7en,114369
+122,1825,Andrew Kevin Walker,Writer,Se7en,114369
+123,151,Morgan Freeman,Star,Se7en,114369
+124,93,Brad Pitt,Star,Se7en,114369
+125,228,Kevin Spacey,Star,Se7en,114369
+126,1008,Frank Capra,Director,It's a Wonderful Life,38650
+127,329304,Frances Goodrich,Writer,It's a Wonderful Life,38650
+128,352443,Albert Hackett,Writer,It's a Wonderful Life,38650
+129,1008,Frank Capra,Writer,It's a Wonderful Life,38650
+130,71,James Stewart,Star,It's a Wonderful Life,38650
+131,1656,Donna Reed,Star,It's a Wonderful Life,38650
+132,859,Lionel Barrymore,Star,It's a Wonderful Life,38650
+133,1129,Jonathan Demme,Director,The Silence of the Lambs,102926
+134,365383,Thomas Harris,Writer,The Silence of the Lambs,102926
+135,848217,Ted Tally,Writer,The Silence of the Lambs,102926
+136,149,Jodie Foster,Star,The Silence of the Lambs,102926
+137,164,Anthony Hopkins,Star,The Silence of the Lambs,102926
+138,1277,Scott Glenn,Star,The Silence of the Lambs,102926
+139,41,Akira Kurosawa,Director,Shichinin no samurai,47478
+140,41,Akira Kurosawa,Writer,Shichinin no samurai,47478
+141,368074,Shinobu Hashimoto,Writer,Shichinin no samurai,47478
+142,644823,Hideo Oguni,Writer,Shichinin no samurai,47478
+143,1536,Toshirô Mifune,Star,Shichinin no samurai,47478
+144,793766,Takashi Shimura,Star,Shichinin no samurai,47478
+145,875477,Keiko Tsushima,Star,Shichinin no samurai,47478
+146,229,Steven Spielberg,Director,Saving Private Ryan,120815
+147,734441,Robert Rodat,Writer,Saving Private Ryan,120815
+148,158,Tom Hanks,Star,Saving Private Ryan,120815
+149,354,Matt Damon,Star,Saving Private Ryan,120815
+150,1744,Tom Sizemore,Star,Saving Private Ryan,120815
+151,1104,Frank Darabont,Director,The Green Mile,120689
+152,175,Stephen King,Writer,The Green Mile,120689
+153,1104,Frank Darabont,Writer,The Green Mile,120689
+154,158,Tom Hanks,Star,The Green Mile,120689
+155,3817,Michael Clarke Duncan,Star,The Green Mile,120689
+156,1556,David Morse,Star,The Green Mile,120689
+157,576987,Fernando Meirelles,Director,Cidade de Deus,317248
+158,526199,Kátia Lund,Director,Cidade de Deus,317248
+159,1130251,Bráulio Mantovani,Writer,Cidade de Deus,317248
+160,513130,Paulo Lins,Writer,Cidade de Deus,317248
+161,1179105,Alexandre Rodrigues,Star,Cidade de Deus,317248
+162,1129884,Leandro Firmino,Star,Cidade de Deus,317248
+163,618690,Matheus Nachtergaele,Star,Cidade de Deus,317248
+164,905,Roberto Benigni,Director,La vita è bella,118799
+165,148437,Vincenzo Cerami,Writer,La vita è bella,118799
+166,905,Roberto Benigni,Writer,La vita è bella,118799
+167,905,Roberto Benigni,Star,La vita è bella,118799
+168,971,Nicoletta Braschi,Star,La vita è bella,118799
+169,134493,Giorgio Cantarini,Star,La vita è bella,118799
+170,116,James Cameron,Director,Terminator 2: Judgment Day,103064
+171,116,James Cameron,Writer,Terminator 2: Judgment Day,103064
+172,936537,William Wisher,Writer,Terminator 2: Judgment Day,103064
+173,216,Arnold Schwarzenegger,Star,Terminator 2: Judgment Day,103064
+174,157,Linda Hamilton,Star,Terminator 2: Judgment Day,103064
+175,411,Edward Furlong,Star,Terminator 2: Judgment Day,103064
+176,184,George Lucas,Director,Star Wars,76759
+177,184,George Lucas,Writer,Star Wars,76759
+178,434,Mark Hamill,Star,Star Wars,76759
+179,148,Harrison Ford,Star,Star Wars,76759
+180,402,Carrie Fisher,Star,Star Wars,76759
+181,709,Robert Zemeckis,Director,Back to the Future,88763
+182,709,Robert Zemeckis,Writer,Back to the Future,88763
+183,301826,Bob Gale,Writer,Back to the Future,88763
+184,150,Michael J. Fox,Star,Back to the Future,88763
+185,502,Christopher Lloyd,Star,Back to the Future,88763
+186,670,Lea Thompson,Star,Back to the Future,88763
+187,594503,Hayao Miyazaki,Director,Sen to Chihiro no kamikakushi,245429
+188,594503,Hayao Miyazaki,Writer,Sen to Chihiro no kamikakushi,245429
+189,153738,Daveigh Chase,Star,Sen to Chihiro no kamikakushi,245429
+190,687189,Suzanne Pleshette,Star,Sen to Chihiro no kamikakushi,245429
+191,997115,Miyu Irino,Star,Sen to Chihiro no kamikakushi,245429
+192,591,Roman Polanski,Director,The Pianist,253474
+193,367838,Ronald Harwood,Writer,The Pianist,253474
+194,844262,Wladyslaw Szpilman,Writer,The Pianist,253474
+195,4778,Adrien Brody,Star,The Pianist,253474
+196,470981,Thomas Kretschmann,Star,The Pianist,253474
+197,277975,Frank Finlay,Star,The Pianist,253474
+198,631,Ridley Scott,Director,Gladiator,172495
+199,291905,David Franzoni,Writer,Gladiator,172495
+200,517589,John Logan,Writer,Gladiator,172495
+201,629933,William Nicholson,Writer,Gladiator,172495
+202,128,Russell Crowe,Star,Gladiator,172495
+203,1618,Joaquin Phoenix,Star,Gladiator,172495
+204,1567,Connie Nielsen,Star,Gladiator,172495
+205,94435,Bong Joon Ho,Director,Gisaengchung,6751668
+206,94435,Bong Joon Ho,Writer,Gisaengchung,6751668
+207,8243301,Han Jin-won,Writer,Gisaengchung,6751668
+208,814280,Song Kang-ho,Star,Gisaengchung,6751668
+209,1310525,Lee Sun-kyun,Star,Gisaengchung,6751668
+210,1856097,Cho Yeo-jeong,Star,Gisaengchung,6751668
+211,33,Alfred Hitchcock,Director,Psycho,54215
+212,825010,Joseph Stefano,Writer,Psycho,54215
+213,88645,Robert Bloch,Writer,Psycho,54215
+214,578,Anthony Perkins,Star,Psycho,54215
+215,1463,Janet Leigh,Star,Psycho,54215
+216,587256,Vera Miles,Star,Psycho,54215
+217,21249,Roger Allers,Director,The Lion King,110357
+218,591450,Rob Minkoff,Director,The Lion King,110357
+219,575293,Irene Mecchi,Writer,The Lion King,110357
+220,731271,Jonathan Roberts,Writer,The Lion King,110357
+221,941314,Linda Woolverton,Writer,The Lion King,110357
+222,111,Matthew Broderick,Star,The Lion King,110357
+223,460,Jeremy Irons,Star,The Lion King,110357
+224,469,James Earl Jones,Star,The Lion King,110357
+225,847223,Isao Takahata,Director,Hotaru no haka,95327
+226,636435,Akiyuki Nosaka,Writer,Hotaru no haka,95327
+227,847223,Isao Takahata,Writer,Hotaru no haka,95327
+228,851302,Tsutomu Tatsumi,Star,Hotaru no haka,95327
+229,794186,Ayano Shiraishi,Star,Hotaru no haka,95327
+230,945312,Akemi Yamaguchi,Star,Hotaru no haka,95327
+231,217,Martin Scorsese,Director,The Departed,407887
+232,1184258,William Monahan,Writer,The Departed,407887
+233,538320,Alan Mak,Writer,The Departed,407887
+234,159039,Felix Chong,Writer,The Departed,407887
+235,138,Leonardo DiCaprio,Star,The Departed,407887
+236,354,Matt Damon,Star,The Departed,407887
+237,197,Jack Nicholson,Star,The Departed,407887
+238,3227090,Damien Chazelle,Director,Whiplash,2582802
+239,3227090,Damien Chazelle,Writer,Whiplash,2582802
+240,1886602,Miles Teller,Star,Whiplash,2582802
+241,799777,J.K. Simmons,Star,Whiplash,2582802
+242,2552034,Melissa Benoist,Star,Whiplash,2582802
+243,462030,Masaki Kobayashi,Director,Seppuku,56058
+244,847668,Yasuhiko Takiguchi,Writer,Seppuku,56058
+245,368074,Shinobu Hashimoto,Writer,Seppuku,56058
+246,619938,Tatsuya Nakadai,Star,Seppuku,56058
+247,410968,Akira Ishihama,Star,Seppuku,56058
+248,412615,Shima Iwashita,Star,Seppuku,56058
+249,634240,Christopher Nolan,Director,The Prestige,482571
+250,634300,Jonathan Nolan,Writer,The Prestige,482571
+251,634240,Christopher Nolan,Writer,The Prestige,482571
+252,1793993,Christopher Priest,Writer,The Prestige,482571
+253,288,Christian Bale,Star,The Prestige,482571
+254,413168,Hugh Jackman,Star,The Prestige,482571
+255,424060,Scarlett Johansson,Star,The Prestige,482571
+256,443411,Tony Kaye,Director,American History X,120586
+257,571346,David McKenna,Writer,American History X,120586
+258,1570,Edward Norton,Star,American History X,120586
+259,411,Edward Furlong,Star,American History X,120586
+260,350,Beverly D'Angelo,Star,American History X,120586
+261,108,Luc Besson,Director,Léon,110413
+262,108,Luc Besson,Writer,Léon,110413
+263,606,Jean Reno,Star,Léon,110413
+264,198,Gary Oldman,Star,Léon,110413
+265,204,Natalie Portman,Star,Léon,110413
+266,1690966,Joaquim Dos Santos,Director,Spider-Man: Across the Spider-Verse,9362722
+267,5358492,Kemp Powers,Director,Spider-Man: Across the Spider-Verse,9362722
+268,1042511,Justin K. Thompson,Director,Spider-Man: Across the Spider-Verse,9362722
+269,520488,Phil Lord,Writer,Spider-Man: Across the Spider-Verse,9362722
+270,588087,Christopher Miller,Writer,Spider-Man: Across the Spider-Verse,9362722
+271,1709264,Dave Callaham,Writer,Spider-Man: Across the Spider-Verse,9362722
+272,4271336,Shameik Moore,Star,Spider-Man: Across the Spider-Verse,9362722
+273,2794962,Hailee Steinfeld,Star,Spider-Man: Across the Spider-Verse,9362722
+274,3109964,Brian Tyree Henry,Star,Spider-Man: Across the Spider-Verse,9362722
+275,2031,Michael Curtiz,Director,Casablanca,34583
+276,16909158,Philip G. Epstein,Writer,Casablanca,34583
+277,258493,Julius J. Epstein,Writer,Casablanca,34583
+278,462321,Howard Koch,Writer,Casablanca,34583
+279,7,Humphrey Bogart,Star,Casablanca,34583
+280,6,Ingrid Bergman,Star,Casablanca,34583
+281,2134,Paul Henreid,Star,Casablanca,34583
+282,868153,Giuseppe Tornatore,Director,Nuovo Cinema Paradiso,95765
+283,868153,Giuseppe Tornatore,Writer,Nuovo Cinema Paradiso,95765
+284,660031,Vanna Paoli,Writer,Nuovo Cinema Paradiso,95765
+285,634159,Philippe Noiret,Star,Nuovo Cinema Paradiso,95765
+286,134073,Enzo Cannavale,Star,Nuovo Cinema Paradiso,95765
+287,41066,Antonella Attili,Star,Nuovo Cinema Paradiso,95765
+288,619923,Olivier Nakache,Director,Intouchables,1675434
+289,865918,Éric Toledano,Director,Intouchables,1675434
+290,619923,Olivier Nakache,Writer,Intouchables,1675434
+291,865918,Éric Toledano,Writer,Intouchables,1675434
+292,4778840,Philippe Pozzo di Borgo,Writer,Intouchables,1675434
+293,167388,François Cluzet,Star,Intouchables,1675434
+294,1082477,Omar Sy,Star,Intouchables,1675434
+295,494504,Anne Le Ny,Star,Intouchables,1675434
+296,1741,Bryan Singer,Director,The Usual Suspects,114814
+297,3160,Christopher McQuarrie,Writer,The Usual Suspects,114814
+298,228,Kevin Spacey,Star,The Usual Suspects,114814
+299,321,Gabriel Byrne,Star,The Usual Suspects,114814
+300,1590,Chazz Palminteri,Star,The Usual Suspects,114814
+301,631,Ridley Scott,Director,Alien,78748
+302,639321,Dan O'Bannon,Writer,Alien,78748
+303,795953,Ronald Shusett,Writer,Alien,78748
+304,244,Sigourney Weaver,Star,Alien,78748
+305,643,Tom Skerritt,Star,Alien,78748
+306,457,John Hurt,Star,Alien,78748
+307,122,Charles Chaplin,Director,Modern Times,27977
+308,122,Charles Chaplin,Writer,Modern Times,27977
+309,122,Charles Chaplin,Star,Modern Times,27977
+310,2104,Paulette Goddard,Star,Modern Times,27977
+311,74788,Henry Bergman,Star,Modern Times,27977
+312,33,Alfred Hitchcock,Director,Rear Window,47396
+313,371088,John Michael Hayes,Writer,Rear Window,47396
+314,941280,Cornell Woolrich,Writer,Rear Window,47396
+315,71,James Stewart,Star,Rear Window,47396
+316,38,Grace Kelly,Star,Rear Window,47396
+317,179819,Wendell Corey,Star,Rear Window,47396
+318,233,Quentin Tarantino,Director,Django Unchained,1853728
+319,233,Quentin Tarantino,Writer,Django Unchained,1853728
+320,4937,Jamie Foxx,Star,Django Unchained,1853728
+321,910607,Christoph Waltz,Star,Django Unchained,1853728
+322,138,Leonardo DiCaprio,Star,Django Unchained,1853728
+323,1466,Sergio Leone,Director,C'era una volta il West,64116
+324,6872,Sergio Donati,Writer,C'era una volta il West,64116
+325,1466,Sergio Leone,Writer,C'era una volta il West,64116
+326,783,Dario Argento,Writer,C'era una volta il West,64116
+327,20,Henry Fonda,Star,C'era una volta il West,64116
+328,314,Charles Bronson,Star,C'era una volta il West,64116
+329,1012,Claudia Cardinale,Star,C'era una volta il West,64116
+330,122,Charles Chaplin,Director,City Lights,21749
+331,122,Charles Chaplin,Writer,City Lights,21749
+332,139714,Harry Carr,Writer,City Lights,21749
+333,188357,Harry Crocker,Writer,City Lights,21749
+334,122,Charles Chaplin,Star,City Lights,21749
+335,156039,Virginia Cherrill,Star,City Lights,21749
+336,5681967,Florence Lee,Star,City Lights,21749
+337,338,Francis Ford Coppola,Director,Apocalypse Now,78788
+338,587518,John Milius,Writer,Apocalypse Now,78788
+339,338,Francis Ford Coppola,Writer,Apocalypse Now,78788
+340,380282,Michael Herr,Writer,Apocalypse Now,78788
+341,640,Martin Sheen,Star,Apocalypse Now,78788
+342,8,Marlon Brando,Star,Apocalypse Now,78788
+343,380,Robert Duvall,Star,Apocalypse Now,78788
+344,4056,Andrew Stanton,Director,WALL·E,910970
+345,4056,Andrew Stanton,Writer,WALL·E,910970
+346,230032,Pete Docter,Writer,WALL·E,910970
+347,714114,Jim Reardon,Writer,WALL·E,910970
+348,123785,Ben Burtt,Star,WALL·E,910970
+349,2264184,Elissa Knight,Star,WALL·E,910970
+350,307531,Jeff Garlin,Star,WALL·E,910970
+351,634240,Christopher Nolan,Director,Memento,209144
+352,634240,Christopher Nolan,Writer,Memento,209144
+353,634300,Jonathan Nolan,Writer,Memento,209144
+354,1602,Guy Pearce,Star,Memento,209144
+355,5251,Carrie-Anne Moss,Star,Memento,209144
+356,1592,Joe Pantoliano,Star,Memento,209144
+357,898288,Denis Villeneuve,Director,Dune: Part Two,15239678
+358,898288,Denis Villeneuve,Writer,Dune: Part Two,15239678
+359,3123612,Jon Spaihts,Writer,Dune: Part Two,15239678
+360,378541,Frank Herbert,Writer,Dune: Part Two,15239678
+361,3154303,Timothée Chalamet,Star,Dune: Part Two,15239678
+362,3918035,Zendaya,Star,Dune: Part Two,15239678
+363,272581,Rebecca Ferguson,Star,Dune: Part Two,15239678
+364,229,Steven Spielberg,Director,Raiders of the Lost Ark,82971
+365,1410,Lawrence Kasdan,Writer,Raiders of the Lost Ark,82971
+366,184,George Lucas,Writer,Raiders of the Lost Ark,82971
+367,442241,Philip Kaufman,Writer,Raiders of the Lost Ark,82971
+368,148,Harrison Ford,Star,Raiders of the Lost Ark,82971
+369,261,Karen Allen,Star,Raiders of the Lost Ark,82971
+370,293550,Paul Freeman,Star,Raiders of the Lost Ark,82971
+371,751577,Anthony Russo,Director,Avengers: Infinity War,4154756
+372,751648,Joe Russo,Director,Avengers: Infinity War,4154756
+373,1321655,Christopher Markus,Writer,Avengers: Infinity War,4154756
+374,1321656,Stephen McFeely,Writer,Avengers: Infinity War,4154756
+375,498278,Stan Lee,Writer,Avengers: Infinity War,4154756
+376,375,Robert Downey Jr.,Star,Avengers: Infinity War,4154756
+377,1165110,Chris Hemsworth,Star,Avengers: Infinity War,4154756
+378,749263,Mark Ruffalo,Star,Avengers: Infinity War,4154756
+379,3697,Florian Henckel von Donnersmarck,Director,Das Leben der Anderen,405094
+380,3697,Florian Henckel von Donnersmarck,Writer,Das Leben der Anderen,405094
+381,618057,Ulrich Mühe,Star,Das Leben der Anderen,405094
+382,311476,Martina Gedeck,Star,Das Leben der Anderen,405094
+383,462407,Sebastian Koch,Star,Das Leben der Anderen,405094
+384,697,Billy Wilder,Director,Sunset Blvd.,43014
+385,102818,Charles Brackett,Writer,Sunset Blvd.,43014
+386,697,Billy Wilder,Writer,Sunset Blvd.,43014
+387,551261,D.M. Marshman Jr.,Writer,Sunset Blvd.,43014
+388,34,William Holden,Star,Sunset Blvd.,43014
+389,841797,Gloria Swanson,Star,Sunset Blvd.,43014
+390,2233,Erich von Stroheim,Star,Sunset Blvd.,43014
+391,2130108,Bob Persichetti,Director,Spider-Man: Into the Spider-Verse,4633694
+392,709056,Peter Ramsey,Director,Spider-Man: Into the Spider-Verse,4633694
+393,745247,Rodney Rothman,Director,Spider-Man: Into the Spider-Verse,4633694
+394,520488,Phil Lord,Writer,Spider-Man: Into the Spider-Verse,4633694
+395,745247,Rodney Rothman,Writer,Spider-Man: Into the Spider-Verse,4633694
+396,4271336,Shameik Moore,Star,Spider-Man: Into the Spider-Verse,4633694
+397,2159926,Jake Johnson,Star,Spider-Man: Into the Spider-Verse,4633694
+398,2794962,Hailee Steinfeld,Star,Spider-Man: Into the Spider-Verse,4633694
+399,697,Billy Wilder,Director,Witness for the Prosecution,51201
+400,2005,Agatha Christie,Writer,Witness for the Prosecution,51201
+401,697,Billy Wilder,Writer,Witness for the Prosecution,51201
+402,475823,Harry Kurnitz,Writer,Witness for the Prosecution,51201
+403,61,Tyrone Power,Star,Witness for the Prosecution,51201
+404,17,Marlene Dietrich,Star,Witness for the Prosecution,51201
+405,1452,Charles Laughton,Star,Witness for the Prosecution,51201
+406,40,Stanley Kubrick,Director,Paths of Glory,50825
+407,40,Stanley Kubrick,Writer,Paths of Glory,50825
+408,932229,Calder Willingham,Writer,Paths of Glory,50825
+409,860292,Jim Thompson,Writer,Paths of Glory,50825
+410,18,Kirk Douglas,Star,Paths of Glory,50825
+411,576127,Ralph Meeker,Star,Paths of Glory,50825
+412,579663,Adolphe Menjou,Star,Paths of Glory,50825
+413,40,Stanley Kubrick,Director,The Shining,81505
+414,175,Stephen King,Writer,The Shining,81505
+415,40,Stanley Kubrick,Writer,The Shining,81505
+416,424956,Diane Johnson,Writer,The Shining,81505
+417,197,Jack Nicholson,Star,The Shining,81505
+418,1167,Shelley Duvall,Star,The Shining,81505
+419,515950,Danny Lloyd,Star,The Shining,81505
+420,122,Charles Chaplin,Director,The Great Dictator,32553
+421,122,Charles Chaplin,Writer,The Great Dictator,32553
+422,122,Charles Chaplin,Star,The Great Dictator,32553
+423,2104,Paulette Goddard,Star,The Great Dictator,32553
+424,642988,Jack Oakie,Star,The Great Dictator,32553
+425,233,Quentin Tarantino,Director,Inglourious Basterds,361748
+426,233,Quentin Tarantino,Writer,Inglourious Basterds,361748
+427,93,Brad Pitt,Star,Inglourious Basterds,361748
+428,1208167,Diane Kruger,Star,Inglourious Basterds,361748
+429,744834,Eli Roth,Star,Inglourious Basterds,361748
+430,6765,Vidhu Vinod Chopra,Director,12th Fail,23849204
+431,6765,Vidhu Vinod Chopra,Writer,12th Fail,23849204
+432,8402629,Jaskunwar Kohli,Writer,12th Fail,23849204
+433,15090267,Anurag Pathak,Writer,12th Fail,23849204
+434,5447706,Vikrant Massey,Star,12th Fail,23849204
+435,10791162,Medha Shankr,Star,12th Fail,23849204
+436,8910763,Anant Joshi,Star,12th Fail,23849204
+437,116,James Cameron,Director,Aliens,90605
+438,116,James Cameron,Writer,Aliens,90605
+439,318429,David Giler,Writer,Aliens,90605
+440,1353,Walter Hill,Writer,Aliens,90605
+441,244,Sigourney Weaver,Star,Aliens,90605
+442,299,Michael Biehn,Star,Aliens,90605
+443,1343,Carrie Henn,Star,Aliens,90605
+444,634240,Christopher Nolan,Director,The Dark Knight Rises,1345836
+445,634300,Jonathan Nolan,Writer,The Dark Knight Rises,1345836
+446,634240,Christopher Nolan,Writer,The Dark Knight Rises,1345836
+447,275286,David S. Goyer,Writer,The Dark Knight Rises,1345836
+448,288,Christian Bale,Star,The Dark Knight Rises,1345836
+449,362766,Tom Hardy,Star,The Dark Knight Rises,1345836
+450,4266,Anne Hathaway,Star,The Dark Knight Rises,1345836
+451,881279,Lee Unkrich,Director,Coco,2380307
+452,2937122,Adrian Molina,Director,Coco,2380307
+453,881279,Lee Unkrich,Writer,Coco,2380307
+454,441735,Jason Katz,Writer,Coco,2380307
+455,17690,Matthew Aldrich,Writer,Coco,2380307
+456,5645519,Anthony Gonzalez,Star,Coco,2380307
+457,305558,Gael García Bernal,Star,Coco,2380307
+458,973,Benjamin Bratt,Star,Coco,2380307
+459,1232,Milos Forman,Director,Amadeus,86879
+460,787323,Peter Shaffer,Writer,Amadeus,86879
+461,537004,Zdenek Mahler,Writer,Amadeus,86879
+462,719,F. Murray Abraham,Star,Amadeus,86879
+463,1371,Tom Hulce,Star,Amadeus,86879
+464,931,Elizabeth Berridge,Star,Amadeus,86879
+465,751577,Anthony Russo,Director,Avengers: Endgame,4154796
+466,751648,Joe Russo,Director,Avengers: Endgame,4154796
+467,1321655,Christopher Markus,Writer,Avengers: Endgame,4154796
+468,1321656,Stephen McFeely,Writer,Avengers: Endgame,4154796
+469,498278,Stan Lee,Writer,Avengers: Endgame,4154796
+470,375,Robert Downey Jr.,Star,Avengers: Endgame,4154796
+471,262635,Chris Evans,Star,Avengers: Endgame,4154796
+472,749263,Mark Ruffalo,Star,Avengers: Endgame,4154796
+473,1814,Gus Van Sant,Director,Good Will Hunting,119217
+474,354,Matt Damon,Writer,Good Will Hunting,119217
+475,255,Ben Affleck,Writer,Good Will Hunting,119217
+476,245,Robin Williams,Star,Good Will Hunting,119217
+477,354,Matt Damon,Star,Good Will Hunting,119217
+478,255,Ben Affleck,Star,Good Will Hunting,119217
+479,41,Akira Kurosawa,Director,Tengoku to jigoku,57565
+480,644823,Hideo Oguni,Writer,Tengoku to jigoku,57565
+481,452878,Ryûzô Kikushima,Writer,Tengoku to jigoku,57565
+482,386750,Eijirô Hisaita,Writer,Tengoku to jigoku,57565
+483,1536,Toshirô Mifune,Star,Tengoku to jigoku,57565
+484,755403,Yutaka Sada,Star,Tengoku to jigoku,57565
+485,619938,Tatsuya Nakadai,Star,Tengoku to jigoku,57565
+486,5124,John Lasseter,Director,Toy Story,114709
+487,5124,John Lasseter,Writer,Toy Story,114709
+488,230032,Pete Docter,Writer,Toy Story,114709
+489,4056,Andrew Stanton,Writer,Toy Story,114709
+490,158,Tom Hanks,Star,Toy Story,114709
+491,741,Tim Allen,Star,Toy Story,114709
+492,725543,Don Rickles,Star,Toy Story,114709
+493,661791,Park Chan-wook,Director,Oldeuboi,364569
+494,1628380,Garon Tsuchiya,Writer,Oldeuboi,364569
+495,2057405,Nobuaki Minegishi,Writer,Oldeuboi,364569
+496,661791,Park Chan-wook,Writer,Oldeuboi,364569
+497,158856,Choi Min-sik,Star,Oldeuboi,364569
+498,949167,Yoo Ji-tae,Star,Oldeuboi,364569
+499,1367246,Kang Hye-jeong,Star,Oldeuboi,364569
+500,40,Stanley Kubrick,Director,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,57012
+501,40,Stanley Kubrick,Writer,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,57012
+502,816143,Terry Southern,Writer,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,57012
+503,313570,Peter George,Writer,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,57012
+504,634,Peter Sellers,Star,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,57012
+505,1715,George C. Scott,Star,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,57012
+506,1330,Sterling Hayden,Star,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,57012
+507,583,Wolfgang Petersen,Director,Das Boot,82096
+508,583,Wolfgang Petersen,Writer,Das Boot,82096
+509,118164,Lothar G. Buchheim,Writer,Das Boot,82096
+510,1638,Jürgen Prochnow,Star,Das Boot,82096
+511,344963,Herbert Grönemeyer,Star,Das Boot,82096
+512,921044,Klaus Wennemann,Star,Das Boot,82096
+513,154,Mel Gibson,Director,Braveheart,112573
+514,908824,Randall Wallace,Writer,Braveheart,112573
+515,154,Mel Gibson,Star,Braveheart,112573
+516,521,Sophie Marceau,Star,Braveheart,112573
+517,1526,Patrick McGoohan,Star,Braveheart,112573
+518,1396121,Makoto Shinkai,Director,Kimi no Na wa.,5311514
+519,1396121,Makoto Shinkai,Writer,Kimi no Na wa.,5311514
+520,1126340,Ryûnosuke Kamiki,Star,Kimi no Na wa.,5311514
+521,4759838,Mone Kamishiraishi,Star,Kimi no Na wa.,5311514
+522,6954008,Ryo Narita,Star,Kimi no Na wa.,5311514
+523,594503,Hayao Miyazaki,Director,Mononoke-hime,119698
+524,594503,Hayao Miyazaki,Writer,Mononoke-hime,119698
+525,559444,Yôji Matsuda,Star,Mononoke-hime,119698
+526,410942,Yuriko Ishida,Star,Mononoke-hime,119698
+527,849100,Yûko Tanaka,Star,Mononoke-hime,119698
+528,5222,Sam Mendes,Director,American Beauty,169547
+529,50332,Alan Ball,Writer,American Beauty,169547
+530,228,Kevin Spacey,Star,American Beauty,169547
+531,906,Annette Bening,Star,American Beauty,169547
+532,301,Thora Birch,Star,American Beauty,169547
+533,386246,Rajkumar Hirani,Director,3 Idiots,1187043
+534,430785,Abhijat Joshi,Writer,3 Idiots,1187043
+535,386246,Rajkumar Hirani,Writer,3 Idiots,1187043
+536,6765,Vidhu Vinod Chopra,Writer,3 Idiots,1187043
+537,451148,Aamir Khan,Star,3 Idiots,1187043
+538,534856,Madhavan,Star,3 Idiots,1187043
+539,1587175,Mona Singh,Star,3 Idiots,1187043
+540,680846,Todd Phillips,Director,Joker,7286456
+541,680846,Todd Phillips,Writer,Joker,7286456
+542,798788,Scott Silver,Writer,Joker,7286456
+543,4170,Bob Kane,Writer,Joker,7286456
+544,1618,Joaquin Phoenix,Star,Joker,7286456
+545,134,Robert De Niro,Star,Joker,7286456
+546,5939164,Zazie Beetz,Star,Joker,7286456
+547,1701024,Nadine Labaki,Director,Capharnaüm,8267604
+548,1701024,Nadine Labaki,Writer,Capharnaüm,8267604
+549,2764802,Jihad Hojeily,Writer,Capharnaüm,8267604
+550,9878616,Michelle Keserwany,Writer,Capharnaüm,8267604
+551,9862858,Zain Al Rafeea,Star,Capharnaüm,8267604
+552,9862859,Yordanos Shiferaw,Star,Capharnaüm,8267604
+553,9862860,Boluwatife Treasure Bankole,Star,Capharnaüm,8267604
+554,1466,Sergio Leone,Director,Once Upon a Time in America,87843
+555,340580,Harry Grey,Writer,Once Upon a Time in America,87843
+556,73053,Leonardo Benvenuti,Writer,Once Upon a Time in America,87843
+557,207401,Piero De Bernardi,Writer,Once Upon a Time in America,87843
+558,134,Robert De Niro,Star,Once Upon a Time in America,87843
+559,249,James Woods,Star,Once Upon a Time in America,87843
+560,1527,Elizabeth McGovern,Star,Once Upon a Time in America,87843
+561,2045,Stanley Donen,Director,Singin' in the Rain,45152
+562,37,Gene Kelly,Director,Singin' in the Rain,45152
+563,173679,Betty Comden,Writer,Singin' in the Rain,45152
+564,337582,Adolph Green,Writer,Singin' in the Rain,45152
+565,37,Gene Kelly,Star,Singin' in the Rain,45152
+566,640307,Donald O'Connor,Star,Singin' in the Rain,45152
+567,1666,Debbie Reynolds,Star,Singin' in the Rain,45152
+568,459552,Elem Klimov,Director,Idi i smotri,91251
+569,10696,Ales Adamovich,Writer,Idi i smotri,91251
+570,459552,Elem Klimov,Writer,Idi i smotri,91251
+571,470385,Aleksey Kravchenko,Star,Idi i smotri,91251
+572,592500,Olga Mironova,Star,Idi i smotri,91251
+573,490708,Liubomiras Laucevicius,Star,Idi i smotri,91251
+574,4716,Darren Aronofsky,Director,Requiem for a Dream,180093
+575,782968,Hubert Selby Jr.,Writer,Requiem for a Dream,180093
+576,4716,Darren Aronofsky,Writer,Requiem for a Dream,180093
+577,995,Ellen Burstyn,Star,Requiem for a Dream,180093
+578,1467,Jared Leto,Star,Requiem for a Dream,180093
+579,124,Jennifer Connelly,Star,Requiem for a Dream,180093
+580,549658,Richard Marquand,Director,Star Wars: Episode VI - Return of the Jedi,86190
+581,1410,Lawrence Kasdan,Writer,Star Wars: Episode VI - Return of the Jedi,86190
+582,184,George Lucas,Writer,Star Wars: Episode VI - Return of the Jedi,86190
+583,434,Mark Hamill,Star,Star Wars: Episode VI - Return of the Jedi,86190
+584,148,Harrison Ford,Star,Star Wars: Episode VI - Return of the Jedi,86190
+585,402,Carrie Fisher,Star,Star Wars: Episode VI - Return of the Jedi,86190
+586,881279,Lee Unkrich,Director,Toy Story 3,435761
+587,5124,John Lasseter,Writer,Toy Story 3,435761
+588,4056,Andrew Stanton,Writer,Toy Story 3,435761
+589,881279,Lee Unkrich,Writer,Toy Story 3,435761
+590,158,Tom Hanks,Star,Toy Story 3,435761
+591,741,Tim Allen,Star,Toy Story 3,435761
+592,349,Joan Cusack,Star,Toy Story 3,435761
+593,899121,Thomas Vinterberg,Director,Jagten,2106476
+594,899121,Thomas Vinterberg,Writer,Jagten,2106476
+595,2105585,Tobias Lindholm,Writer,Jagten,2106476
+596,586568,Mads Mikkelsen,Star,Jagten,2106476
+597,488917,Thomas Bo Larsen,Star,Jagten,2106476
+598,5038871,Annika Wedderkopp,Star,Jagten,2106476
+599,41,Akira Kurosawa,Director,Ikiru,44741
+600,41,Akira Kurosawa,Writer,Ikiru,44741
+601,368074,Shinobu Hashimoto,Writer,Ikiru,44741
+602,644823,Hideo Oguni,Writer,Ikiru,44741
+603,793766,Takashi Shimura,Star,Ikiru,44741
+604,437520,Nobuo Kaneko,Star,Ikiru,44741
+605,385443,Shin'ichi Himori,Star,Ikiru,44741
+606,327273,Michel Gondry,Director,Eternal Sunshine of the Spotless Mind,338013
+607,442109,Charlie Kaufman,Writer,Eternal Sunshine of the Spotless Mind,338013
+608,327273,Michel Gondry,Writer,Eternal Sunshine of the Spotless Mind,338013
+609,1410028,Pierre Bismuth,Writer,Eternal Sunshine of the Spotless Mind,338013
+610,120,Jim Carrey,Star,Eternal Sunshine of the Spotless Mind,338013
+611,701,Kate Winslet,Star,Eternal Sunshine of the Spotless Mind,338013
+612,929489,Tom Wilkinson,Star,Eternal Sunshine of the Spotless Mind,338013
+613,898288,Denis Villeneuve,Director,Incendies,1255953
+614,1416431,Wajdi Mouawad,Writer,Incendies,1255953
+615,898288,Denis Villeneuve,Writer,Incendies,1255953
+616,4034068,Valérie Beaugrand-Champagne,Writer,Incendies,1255953
+617,44073,Lubna Azabal,Star,Incendies,1255953
+618,246386,Mélissa Désormeaux-Poulin,Star,Incendies,1255953
+619,309945,Maxim Gaudette,Star,Incendies,1255953
+620,697,Billy Wilder,Director,The Apartment,53604
+621,697,Billy Wilder,Writer,The Apartment,53604
+622,224634,I.A.L. Diamond,Writer,The Apartment,53604
+623,493,Jack Lemmon,Star,The Apartment,53604
+624,511,Shirley MacLaine,Star,The Apartment,53604
+625,534045,Fred MacMurray,Star,The Apartment,53604
+626,180,David Lean,Director,Lawrence of Arabia,56172
+627,4122,Robert Bolt,Writer,Lawrence of Arabia,56172
+628,933858,Michael Wilson,Writer,Lawrence of Arabia,56172
+629,564,Peter O'Toole,Star,Lawrence of Arabia,56172
+630,27,Alec Guinness,Star,Lawrence of Arabia,56172
+631,63,Anthony Quinn,Star,Lawrence of Arabia,56172
+632,40,Stanley Kubrick,Director,2001: A Space Odyssey,62622
+633,40,Stanley Kubrick,Writer,2001: A Space Odyssey,62622
+634,2009,Arthur C. Clarke,Writer,2001: A Space Odyssey,62622
+635,1158,Keir Dullea,Star,2001: A Space Odyssey,62622
+636,516972,Gary Lockwood,Star,2001: A Space Odyssey,62622
+637,843213,William Sylvester,Star,2001: A Space Odyssey,62622
+638,233,Quentin Tarantino,Director,Reservoir Dogs,105236
+639,233,Quentin Tarantino,Writer,Reservoir Dogs,105236
+640,812,Roger Avary,Writer,Reservoir Dogs,105236
+641,172,Harvey Keitel,Star,Reservoir Dogs,105236
+642,619,Tim Roth,Star,Reservoir Dogs,105236
+643,514,Michael Madsen,Star,Reservoir Dogs,105236
+644,361,Brian De Palma,Director,Scarface,86250
+645,231,Oliver Stone,Writer,Scarface,86250
+646,1328,Howard Hawks,Writer,Scarface,86250
+647,372942,Ben Hecht,Writer,Scarface,86250
+648,199,Al Pacino,Star,Scarface,86250
+649,201,Michelle Pfeiffer,Star,Scarface,86250
+650,874,Steven Bauer,Star,Scarface,86250
+651,520,Michael Mann,Director,Heat,113277
+652,520,Michael Mann,Writer,Heat,113277
+653,199,Al Pacino,Star,Heat,113277
+654,134,Robert De Niro,Star,Heat,113277
+655,174,Val Kilmer,Star,Heat,113277
+656,697,Billy Wilder,Director,Double Indemnity,36775
+657,697,Billy Wilder,Writer,Double Indemnity,36775
+658,151452,Raymond Chandler,Writer,Double Indemnity,36775
+659,128906,James M. Cain,Writer,Double Indemnity,36775
+660,534045,Fred MacMurray,Star,Double Indemnity,36775
+661,1766,Barbara Stanwyck,Star,Double Indemnity,36775
+662,64,Edward G. Robinson,Star,Double Indemnity,36775
+663,33,Alfred Hitchcock,Director,North by Northwest,53125
+664,499626,Ernest Lehman,Writer,North by Northwest,53125
+665,26,Cary Grant,Star,North by Northwest,53125
+666,1693,Eva Marie Saint,Star,North by Northwest,53125
+667,51,James Mason,Star,North by Northwest,53125
+668,230032,Pete Docter,Director,Up,1049413
+669,677037,Bob Peterson,Director,Up,1049413
+670,230032,Pete Docter,Writer,Up,1049413
+671,677037,Bob Peterson,Writer,Up,1049413
+672,565336,Tom McCarthy,Writer,Up,1049413
+673,799,Edward Asner,Star,Up,1049413
+674,2973712,Jordan Nagai,Star,Up,1049413
+675,1652,John Ratzenberger,Star,Up,1049413
+676,485,Fritz Lang,Director,M - Eine Stadt sucht einen Mörder,22100
+677,902376,Thea von Harbou,Writer,M - Eine Stadt sucht einen Mörder,22100
+678,485,Fritz Lang,Writer,M - Eine Stadt sucht einen Mörder,22100
+679,414825,Egon Jacobsohn,Writer,M - Eine Stadt sucht einen Mörder,22100
+680,48,Peter Lorre,Star,M - Eine Stadt sucht einen Mörder,22100
+681,927145,Ellen Widmann,Star,M - Eine Stadt sucht einen Mörder,22100
+682,484737,Inge Landgut,Star,M - Eine Stadt sucht einen Mörder,22100
+683,80,Orson Welles,Director,Citizen Kane,33467
+684,542534,Herman J. Mankiewicz,Writer,Citizen Kane,33467
+685,80,Orson Welles,Writer,Citizen Kane,33467
+686,2144,John Houseman,Writer,Citizen Kane,33467
+687,80,Orson Welles,Star,Citizen Kane,33467
+688,1072,Joseph Cotten,Star,Citizen Kane,33467
+689,173827,Dorothy Comingore,Star,Citizen Kane,33467
+690,40,Stanley Kubrick,Director,Full Metal Jacket,93058
+691,40,Stanley Kubrick,Writer,Full Metal Jacket,93058
+692,380282,Michael Herr,Writer,Full Metal Jacket,93058
+693,368007,Gustav Hasford,Writer,Full Metal Jacket,93058
+694,546,Matthew Modine,Star,Full Metal Jacket,93058
+695,388,R. Lee Ermey,Star,Full Metal Jacket,93058
+696,352,Vincent D'Onofrio,Star,Full Metal Jacket,93058
+697,33,Alfred Hitchcock,Director,Vertigo,52357
+698,178785,Alec Coppel,Writer,Vertigo,52357
+699,853138,Samuel A. Taylor,Writer,Vertigo,52357
+700,92267,Pierre Boileau,Writer,Vertigo,52357
+701,71,James Stewart,Star,Vertigo,52357
+702,1571,Kim Novak,Star,Vertigo,52357
+703,895,Barbara Bel Geddes,Star,Vertigo,52357
+704,466,Jean-Pierre Jeunet,Director,Le fabuleux destin d'Amélie Poulain,211915
+705,491011,Guillaume Laurant,Writer,Le fabuleux destin d'Amélie Poulain,211915
+706,466,Jean-Pierre Jeunet,Writer,Le fabuleux destin d'Amélie Poulain,211915
+707,851582,Audrey Tautou,Star,Le fabuleux destin d'Amélie Poulain,211915
+708,440913,Mathieu Kassovitz,Star,Le fabuleux destin d'Amélie Poulain,211915
+709,749363,Rufus,Star,Le fabuleux destin d'Amélie Poulain,211915
+710,451148,Aamir Khan,Director,Taare Zameen Par,986264
+711,1244760,Amole Gupte,Writer,Taare Zameen Par,986264
+712,2594301,Darsheel Safary,Star,Taare Zameen Par,986264
+713,451148,Aamir Khan,Star,Taare Zameen Par,986264
+714,1538116,Tisca Chopra,Star,Taare Zameen Par,986264
+715,1410815,Asghar Farhadi,Director,Jodaeiye Nader az Simin,1832382
+716,1410815,Asghar Farhadi,Writer,Jodaeiye Nader az Simin,1832382
+717,1818216,Payman Maadi,Star,Jodaeiye Nader az Simin,1832382
+718,368689,Leila Hatami,Star,Jodaeiye Nader az Simin,1832382
+719,4299147,Sareh Bayat,Star,Jodaeiye Nader az Simin,1832382
+720,612322,Robert Mulligan,Director,To Kill a Mockingbird,56592
+721,497369,Harper Lee,Writer,To Kill a Mockingbird,56592
+722,285210,Horton Foote,Writer,To Kill a Mockingbird,56592
+723,60,Gregory Peck,Star,To Kill a Mockingbird,56592
+724,576345,John Megna,Star,To Kill a Mockingbird,56592
+725,653942,Frank Overton,Star,To Kill a Mockingbird,56592
+726,1532,John McTiernan,Director,Die Hard,95016
+727,861636,Roderick Thorp,Writer,Die Hard,95016
+728,835732,Jeb Stuart,Writer,Die Hard,95016
+729,211823,Steven E. de Souza,Writer,Die Hard,95016
+730,246,Bruce Willis,Star,Die Hard,95016
+731,614,Alan Rickman,Star,Die Hard,95016
+732,889,Bonnie Bedelia,Star,Die Hard,95016
+733,1351,George Roy Hill,Director,The Sting,70735
+734,911486,David S. Ward,Writer,The Sting,70735
+735,56,Paul Newman,Star,The Sting,70735
+736,602,Robert Redford,Star,The Sting,70735
+737,1727,Robert Shaw,Star,The Sting,70735
+738,229,Steven Spielberg,Director,Indiana Jones and the Last Crusade,97576
+739,90151,Jeffrey Boam,Writer,Indiana Jones and the Last Crusade,97576
+740,184,George Lucas,Writer,Indiana Jones and the Last Crusade,97576
+741,583675,Menno Meyjes,Writer,Indiana Jones and the Last Crusade,97576
+742,148,Harrison Ford,Star,Indiana Jones and the Last Crusade,97576
+743,125,Sean Connery,Star,Indiana Jones and the Last Crusade,97576
+744,233145,Alison Doody,Star,Indiana Jones and the Last Crusade,97576
+745,40,Stanley Kubrick,Director,A Clockwork Orange,66921
+746,40,Stanley Kubrick,Writer,A Clockwork Orange,66921
+747,121256,Anthony Burgess,Writer,A Clockwork Orange,66921
+748,532,Malcolm McDowell,Star,A Clockwork Orange,66921
+749,535861,Patrick Magee,Star,A Clockwork Orange,66921
+750,60988,Michael Bates,Star,A Clockwork Orange,66921
+751,485,Fritz Lang,Director,Metropolis,17136
+752,902376,Thea von Harbou,Writer,Metropolis,17136
+753,485,Fritz Lang,Writer,Metropolis,17136
+754,375609,Brigitte Helm,Star,Metropolis,17136
+755,2154,Alfred Abel,Star,Metropolis,17136
+756,297054,Gustav Fröhlich,Star,Metropolis,17136
+757,5363,Guy Ritchie,Director,Snatch,208092
+758,5363,Guy Ritchie,Writer,Snatch,208092
+759,5458,Jason Statham,Star,Snatch,208092
+760,93,Brad Pitt,Star,Snatch,208092
+761,334318,Stephen Graham,Star,Snatch,208092
+762,5222,Sam Mendes,Director,1917,8579674
+763,5222,Sam Mendes,Writer,1917,8579674
+764,4880670,Krysty Wilson-Cairns,Writer,1917,8579674
+765,2835616,Dean-Charles Chapman,Star,1917,8579674
+766,1126657,George MacKay,Star,1917,8579674
+767,990547,Daniel Mays,Star,1917,8579674
+768,634240,Christopher Nolan,Director,Oppenheimer,15398776
+769,634240,Christopher Nolan,Writer,Oppenheimer,15398776
+770,3284831,Kai Bird,Writer,Oppenheimer,15398776
+771,2452558,Martin Sherwin,Writer,Oppenheimer,15398776
+772,614165,Cillian Murphy,Star,Oppenheimer,15398776
+773,1289434,Emily Blunt,Star,Oppenheimer,15398776
+774,354,Matt Damon,Star,Oppenheimer,15398776
+775,436,Curtis Hanson,Director,L.A. Confidential,119488
+776,255278,James Ellroy,Writer,L.A. Confidential,119488
+777,1338,Brian Helgeland,Writer,L.A. Confidential,119488
+778,436,Curtis Hanson,Writer,L.A. Confidential,119488
+779,228,Kevin Spacey,Star,L.A. Confidential,119488
+780,128,Russell Crowe,Star,L.A. Confidential,119488
+781,1602,Guy Pearce,Star,L.A. Confidential,119488
+782,386570,Oliver Hirschbiegel,Director,Der Untergang,363163
+783,251536,Bernd Eichinger,Writer,Der Untergang,363163
+784,275264,Joachim Fest,Writer,Der Untergang,363163
+785,432622,Traudl Junge,Writer,Der Untergang,363163
+786,4486,Bruno Ganz,Star,Der Untergang,363163
+787,487884,Alexandra Maria Lara,Star,Der Untergang,363163
+788,559890,Ulrich Matthes,Star,Der Untergang,363163
+789,1120,Vittorio De Sica,Director,Ladri di biciclette,40522
+790,953790,Cesare Zavattini,Writer,Ladri di biciclette,40522
+791,59030,Luigi Bartolini,Writer,Ladri di biciclette,40522
+792,80755,Oreste Biancoli,Writer,Ladri di biciclette,40522
+793,536009,Lamberto Maggiorani,Star,Ladri di biciclette,40522
+794,821543,Enzo Staiola,Star,Ladri di biciclette,40522
+795,136794,Lianella Carell,Star,Ladri di biciclette,40522
+796,4318159,Nitesh Tiwari,Director,Dangal,5074352
+797,6328029,Piyush Gupta,Writer,Dangal,5074352
+798,6328031,Shreyas Jain,Writer,Dangal,5074352
+799,6328030,Nikhil Mehrotra,Writer,Dangal,5074352
+800,451148,Aamir Khan,Star,Dangal,5074352
+801,2799219,Sakshi Tanwar,Star,Dangal,5074352
+802,760778,Fatima Sana Shaikh,Star,Dangal,5074352
+803,217,Martin Scorsese,Director,The Wolf of Wall Street,993846
+804,1010540,Terence Winter,Writer,The Wolf of Wall Street,993846
+805,67789,Jordan Belfort,Writer,The Wolf of Wall Street,993846
+806,138,Leonardo DiCaprio,Star,The Wolf of Wall Street,993846
+807,1706767,Jonah Hill,Star,The Wolf of Wall Street,993846
+808,3053338,Margot Robbie,Star,The Wolf of Wall Street,993846
+809,268380,Peter Farrelly,Director,Green Book,6966692
+810,885014,Nick Vallelonga,Writer,Green Book,6966692
+811,192942,Brian Hayes Currie,Writer,Green Book,6966692
+812,268380,Peter Farrelly,Writer,Green Book,6966692
+813,1557,Viggo Mortensen,Star,Green Book,6966692
+814,991810,Mahershala Ali,Star,Green Book,6966692
+815,4802,Linda Cardellini,Star,Green Book,6966692
+816,1837,Peter Weir,Director,The Truman Show,120382
+817,629272,Andrew Niccol,Writer,The Truman Show,120382
+818,120,Jim Carrey,Star,The Truman Show,120382
+819,438,Ed Harris,Star,The Truman Show,120382
+820,1473,Laura Linney,Star,The Truman Show,120382
+821,2371802,Thomas Kail,Director,Hamilton,8503618
+822,592135,Lin-Manuel Miranda,Writer,Hamilton,8503618
+823,2375857,Ron Chernow,Writer,Hamilton,8503618
+824,592135,Lin-Manuel Miranda,Star,Hamilton,8503618
+825,5623883,Phillipa Soo,Star,Hamilton,8503618
+826,1502434,Leslie Odom Jr.,Star,Hamilton,8503618
+827,217,Martin Scorsese,Director,Taxi Driver,75314
+828,1707,Paul Schrader,Writer,Taxi Driver,75314
+829,134,Robert De Niro,Star,Taxi Driver,75314
+830,149,Jodie Foster,Star,Taxi Driver,75314
+831,1732,Cybill Shepherd,Star,Taxi Driver,75314
+832,634240,Christopher Nolan,Director,Batman Begins,372784
+833,4170,Bob Kane,Writer,Batman Begins,372784
+834,275286,David S. Goyer,Writer,Batman Begins,372784
+835,634240,Christopher Nolan,Writer,Batman Begins,372784
+836,288,Christian Bale,Star,Batman Begins,372784
+837,323,Michael Caine,Star,Batman Begins,372784
+838,913822,Ken Watanabe,Star,Batman Begins,372784
+839,251027,Ertem Egilmez,Director,Hababam Sinifi: Sinifta Kaldi,252488
+840,784149,Sadik Sendil,Writer,Hababam Sinifi: Sinifta Kaldi,252488
+841,407642,Rifat Ilgaz,Writer,Hababam Sinifi: Sinifta Kaldi,252488
+842,654805,Münir Özkul,Star,Hababam Sinifi: Sinifta Kaldi,252488
+843,15081,Tarik Akan,Star,Hababam Sinifi: Sinifta Kaldi,252488
+844,839017,Kemal Sunal,Star,Hababam Sinifi: Sinifta Kaldi,252488
+845,1466,Sergio Leone,Director,Per qualche dollaro in più,59578
+846,1466,Sergio Leone,Writer,Per qualche dollaro in più,59578
+847,607694,Fulvio Morsella,Writer,Per qualche dollaro in più,59578
+848,898812,Luciano Vincenzoni,Writer,Per qualche dollaro in più,59578
+849,142,Clint Eastwood,Star,Per qualche dollaro in più,59578
+850,1812,Lee Van Cleef,Star,Per qualche dollaro in più,59578
+851,2231,Gian Maria Volontè,Star,Per qualche dollaro in più,59578
+852,6452,Stanley Kramer,Director,Judgment at Nuremberg,55031
+853,542631,Abby Mann,Writer,Judgment at Nuremberg,55031
+854,1050,Montgomery Clift,Writer,Judgment at Nuremberg,55031
+855,75,Spencer Tracy,Star,Judgment at Nuremberg,55031
+856,44,Burt Lancaster,Star,Judgment at Nuremberg,55031
+857,1847,Richard Widmark,Star,Judgment at Nuremberg,55031
+858,217,Martin Scorsese,Director,Shutter Island,1130884
+859,436164,Laeta Kalogridis,Writer,Shutter Island,1130884
+860,1212331,Dennis Lehane,Writer,Shutter Island,1130884
+861,138,Leonardo DiCaprio,Star,Shutter Island,1130884
+862,607865,Emily Mortimer,Star,Shutter Island,1130884
+863,749263,Mark Ruffalo,Star,Shutter Island,1130884
+864,697,Billy Wilder,Director,Some Like It Hot,53291
+865,697,Billy Wilder,Writer,Some Like It Hot,53291
+866,224634,I.A.L. Diamond,Writer,Some Like It Hot,53291
+867,858329,Robert Thoeren,Writer,Some Like It Hot,53291
+868,54,Marilyn Monroe,Star,Some Like It Hot,53291
+869,348,Tony Curtis,Star,Some Like It Hot,53291
+870,493,Jack Lemmon,Star,Some Like It Hot,53291
+871,229,Steven Spielberg,Director,Jurassic Park,107290
+872,341,Michael Crichton,Writer,Jurassic Park,107290
+873,462895,David Koepp,Writer,Jurassic Park,107290
+874,554,Sam Neill,Star,Jurassic Park,107290
+875,368,Laura Dern,Star,Jurassic Park,107290
+876,156,Jeff Goldblum,Star,Jurassic Park,107290
+877,122,Charles Chaplin,Director,The Kid,12349
+878,122,Charles Chaplin,Writer,The Kid,12349
+879,122,Charles Chaplin,Star,The Kid,12349
+880,701012,Edna Purviance,Star,The Kid,12349
+881,1067,Jackie Coogan,Star,The Kid,12349
+882,1725469,Florian Zeller,Director,The Father,10272386
+883,358960,Christopher Hampton,Writer,The Father,10272386
+884,1725469,Florian Zeller,Writer,The Father,10272386
+885,164,Anthony Hopkins,Star,The Father,10272386
+886,1469236,Olivia Colman,Star,The Father,10272386
+887,309693,Mark Gatiss,Star,The Father,10272386
+888,759,Paul Thomas Anderson,Director,There Will Be Blood,469494
+889,759,Paul Thomas Anderson,Writer,There Will Be Blood,469494
+890,801737,Upton Sinclair,Writer,There Will Be Blood,469494
+891,358,Daniel Day-Lewis,Star,There Will Be Blood,469494
+892,200452,Paul Dano,Star,There Will Be Blood,469494
+893,1354,Ciarán Hinds,Star,There Will Be Blood,469494
+894,581,Joseph L. Mankiewicz,Director,All About Eve,42192
+895,581,Joseph L. Mankiewicz,Writer,All About Eve,42192
+896,650581,Mary Orr,Writer,All About Eve,42192
+897,12,Bette Davis,Star,All About Eve,42192
+898,879,Anne Baxter,Star,All About Eve,42192
+899,1695,George Sanders,Star,All About Eve,42192
+900,796117,M. Night Shyamalan,Director,The Sixth Sense,167404
+901,796117,M. Night Shyamalan,Writer,The Sixth Sense,167404
+902,246,Bruce Willis,Star,The Sixth Sense,167404
+903,5286,Haley Joel Osment,Star,The Sixth Sense,167404
+904,1057,Toni Collette,Star,The Sixth Sense,167404
+905,41,Akira Kurosawa,Director,Ran,89881
+906,41,Akira Kurosawa,Writer,Ran,89881
+907,644823,Hideo Oguni,Writer,Ran,89881
+908,406836,Masato Ide,Writer,Ran,89881
+909,619938,Tatsuya Nakadai,Star,Ran,89881
+910,855417,Akira Terao,Star,Ran,89881
+911,628704,Jinpachi Nezu,Star,Ran,89881
+912,217,Martin Scorsese,Director,Casino,112641
+913,683380,Nicholas Pileggi,Writer,Casino,112641
+914,217,Martin Scorsese,Writer,Casino,112641
+915,134,Robert De Niro,Star,Casino,112641
+916,232,Sharon Stone,Star,Casino,112641
+917,582,Joe Pesci,Star,Casino,112641
+918,2676052,Joseph Kosinski,Director,Top Gun: Maverick,1745960
+919,143596,Jim Cash,Writer,Top Gun: Maverick,1745960
+920,258390,Jack Epps Jr.,Writer,Top Gun: Maverick,1745960
+921,185976,Peter Craig,Writer,Top Gun: Maverick,1745960
+922,129,Tom Cruise,Star,Top Gun: Maverick,1745960
+923,124,Jennifer Connelly,Star,Top Gun: Maverick,1745960
+924,1886602,Miles Teller,Star,Top Gun: Maverick,1745960
+925,1053,Ethan Coen,Director,No Country for Old Men,477348
+926,1054,Joel Coen,Director,No Country for Old Men,477348
+927,1054,Joel Coen,Writer,No Country for Old Men,477348
+928,1053,Ethan Coen,Writer,No Country for Old Men,477348
+929,565092,Cormac McCarthy,Writer,No Country for Old Men,477348
+930,169,Tommy Lee Jones,Star,No Country for Old Men,477348
+931,849,Javier Bardem,Star,No Country for Old Men,477348
+932,982,Josh Brolin,Star,No Country for Old Men,477348
+933,118,John Carpenter,Director,The Thing,84787
+934,484111,Bill Lancaster,Writer,The Thing,84787
+935,132168,John W. Campbell Jr.,Writer,The Thing,84787
+936,621,Kurt Russell,Star,The Thing,84787
+937,979,Wilford Brimley,Star,The Thing,84787
+938,202966,Keith David,Star,The Thing,84787
+939,142,Clint Eastwood,Director,Unforgiven,105695
+940,672459,David Webb Peoples,Writer,Unforgiven,105695
+941,142,Clint Eastwood,Star,Unforgiven,105695
+942,432,Gene Hackman,Star,Unforgiven,105695
+943,151,Morgan Freeman,Star,Unforgiven,105695
+944,868219,Guillermo del Toro,Director,El laberinto del fauno,457430
+945,868219,Guillermo del Toro,Writer,El laberinto del fauno,457430
+946,1419440,Ivana Baquero,Star,El laberinto del fauno,457430
+947,317725,Ariadna Gil,Star,El laberinto del fauno,457430
+948,530365,Sergi López,Star,El laberinto del fauno,457430
+949,233,Quentin Tarantino,Director,Kill Bill: Vol. 1,266697
+950,233,Quentin Tarantino,Writer,Kill Bill: Vol. 1,266697
+951,235,Uma Thurman,Writer,Kill Bill: Vol. 1,266697
+952,235,Uma Thurman,Star,Kill Bill: Vol. 1,266697
+953,1016,David Carradine,Star,Kill Bill: Vol. 1,266697
+954,435,Daryl Hannah,Star,Kill Bill: Vol. 1,266697
+955,165,Ron Howard,Director,A Beautiful Mind,268978
+956,326040,Akiva Goldsman,Writer,A Beautiful Mind,268978
+957,621586,Sylvia Nasar,Writer,A Beautiful Mind,268978
+958,128,Russell Crowe,Star,A Beautiful Mind,268978
+959,438,Ed Harris,Star,A Beautiful Mind,268978
+960,124,Jennifer Connelly,Star,A Beautiful Mind,268978
+961,898288,Denis Villeneuve,Director,Prisoners,1392214
+962,3360706,Aaron Guzikowski,Writer,Prisoners,1392214
+963,413168,Hugh Jackman,Star,Prisoners,1392214
+964,350453,Jake Gyllenhaal,Star,Prisoners,1392214
+965,205626,Viola Davis,Star,Prisoners,1392214
+966,1379,John Huston,Director,The Treasure of the Sierra Madre,40897
+967,1379,John Huston,Writer,The Treasure of the Sierra Madre,40897
+968,871252,B. Traven,Writer,The Treasure of the Sierra Madre,40897
+969,7,Humphrey Bogart,Star,The Treasure of the Sierra Madre,40897
+970,404158,Walter Huston,Star,The Treasure of the Sierra Madre,40897
+971,392529,Tim Holt,Star,The Treasure of the Sierra Madre,40897
+972,4056,Andrew Stanton,Director,Finding Nemo,266543
+973,881279,Lee Unkrich,Director,Finding Nemo,266543
+974,4056,Andrew Stanton,Writer,Finding Nemo,266543
+975,677037,Bob Peterson,Writer,Finding Nemo,266543
+976,721675,David Reynolds,Writer,Finding Nemo,266543
+977,983,Albert Brooks,Star,Finding Nemo,266543
+978,1122,Ellen DeGeneres,Star,Finding Nemo,266543
+979,1071252,Alexander Gould,Star,Finding Nemo,266543
+980,594503,Hayao Miyazaki,Director,Hauru no ugoku shiro,347149
+981,594503,Hayao Miyazaki,Writer,Hauru no ugoku shiro,347149
+982,1168510,Diana Wynne Jones,Writer,Hauru no ugoku shiro,347149
+983,47962,Chieko Baishô,Star,Hauru no ugoku shiro,347149
+984,454120,Takuya Kimura,Star,Hauru no ugoku shiro,347149
+985,309107,Tatsuya Gashûin,Star,Hauru no ugoku shiro,347149
+986,41,Akira Kurosawa,Director,Yôjinbô,55630
+987,41,Akira Kurosawa,Writer,Yôjinbô,55630
+988,452878,Ryûzô Kikushima,Writer,Yôjinbô,55630
+989,1536,Toshirô Mifune,Star,Yôjinbô,55630
+990,867391,Eijirô Tôno,Star,Yôjinbô,55630
+991,619938,Tatsuya Nakadai,Star,Yôjinbô,55630
+992,320285,Marco Tullio Giordana,Director,La meglio gioventù,346336
+993,677758,Sandro Petraglia,Writer,La meglio gioventù,346336
+994,750048,Stefano Rulli,Writer,La meglio gioventù,346336
+995,516222,Luigi Lo Cascio,Star,La meglio gioventù,346336
+996,94526,Alessio Boni,Star,La meglio gioventù,346336
+997,872910,Jasmine Trinca,Star,La meglio gioventù,346336
+998,836328,John Sturges,Director,The Great Escape,57115
+999,108595,Paul Brickhill,Writer,The Great Escape,57115
+1000,165412,James Clavell,Writer,The Great Escape,57115
+1001,122446,W.R. Burnett,Writer,The Great Escape,57115
+1002,537,Steve McQueen,Star,The Great Escape,57115
+1003,1258,James Garner,Star,The Great Escape,57115
+1004,277,Richard Attenborough,Star,The Great Escape,57115
+1005,416,Terry Gilliam,Director,Monty Python and the Holy Grail,71853
+1006,1402,Terry Jones,Director,Monty Python and the Holy Grail,71853
+1007,1037,Graham Chapman,Writer,Monty Python and the Holy Grail,71853
+1008,92,John Cleese,Writer,Monty Python and the Holy Grail,71853
+1009,1385,Eric Idle,Writer,Monty Python and the Holy Grail,71853
+1010,1037,Graham Chapman,Star,Monty Python and the Holy Grail,71853
+1011,92,John Cleese,Star,Monty Python and the Holy Grail,71853
+1012,1385,Eric Idle,Star,Monty Python and the Holy Grail,71853
+1013,186,David Lynch,Director,The Elephant Man,80678
+1014,212246,Christopher De Vore,Writer,The Elephant Man,80678
+1015,75015,Eric Bergren,Writer,The Elephant Man,80678
+1016,186,David Lynch,Writer,The Elephant Man,80678
+1017,164,Anthony Hopkins,Star,The Elephant Man,80678
+1018,457,John Hurt,Star,The Elephant Man,80678
+1019,843,Anne Bancroft,Star,The Elephant Man,80678
+1020,655053,Sergio Pablos,Director,Klaus,4729430
+1021,3582089,Carlos Martínez López,Director,Klaus,4729430
+1022,655053,Sergio Pablos,Writer,Klaus,4729430
+1023,2700235,Jim Mahoney,Writer,Klaus,4729430
+1024,2082813,Zach Lewis,Writer,Klaus,4729430
+1025,5403,Jason Schwartzman,Star,Klaus,4729430
+1026,799777,J.K. Simmons,Star,Klaus,4729430
+1027,429069,Rashida Jones,Star,Klaus,4729430
+1028,33,Alfred Hitchcock,Director,Dial M for Murder,46912
+1029,461425,Frederick Knott,Writer,Dial M for Murder,46912
+1030,1537,Ray Milland,Star,Dial M for Murder,46912
+1031,38,Grace Kelly,Star,Dial M for Murder,46912
+1032,191950,Robert Cummings,Star,Dial M for Murder,46912
+1033,281808,Victor Fleming,Director,Gone with the Wind,31381
+1034,593565,Margaret Mitchell,Writer,Gone with the Wind,31381
+1035,397608,Sidney Howard,Writer,Gone with the Wind,31381
+1036,308177,Oliver H.P. Garrett,Writer,Gone with the Wind,31381
+1037,22,Clark Gable,Star,Gone with the Wind,31381
+1038,46,Vivien Leigh,Star,Gone with the Wind,31381
+1039,593775,Thomas Mitchell,Star,Gone with the Wind,31381
+1040,2728,Juan José Campanella,Director,El secreto de sus ojos,1305806
+1041,3160078,Eduardo Sacheri,Writer,El secreto de sus ojos,1305806
+1042,2728,Juan José Campanella,Writer,El secreto de sus ojos,1305806
+1043,201857,Ricardo Darín,Star,El secreto de sus ojos,1305806
+1044,897845,Soledad Villamil,Star,El secreto de sus ojos,1305806
+1045,706567,Pablo Rago,Star,El secreto de sus ojos,1305806
+1046,591,Roman Polanski,Director,Chinatown,71315
+1047,1801,Robert Towne,Writer,Chinatown,71315
+1048,591,Roman Polanski,Writer,Chinatown,71315
+1049,197,Jack Nicholson,Star,Chinatown,71315
+1050,1159,Faye Dunaway,Star,Chinatown,71315
+1051,1379,John Huston,Star,Chinatown,71315
+1052,5363,Guy Ritchie,Director,"Lock, Stock and Two Smoking Barrels",120735
+1053,5363,Guy Ritchie,Writer,"Lock, Stock and Two Smoking Barrels",120735
+1054,2076,Jason Flemyng,Star,"Lock, Stock and Two Smoking Barrels",120735
+1055,2077,Dexter Fletcher,Star,"Lock, Stock and Two Smoking Barrels",120735
+1056,602941,Nick Moran,Star,"Lock, Stock and Two Smoking Barrels",120735
+1057,574625,James McTeigue,Director,V for Vendetta,434409
+1058,905152,Lilly Wachowski,Writer,V for Vendetta,434409
+1059,905154,Lana Wachowski,Writer,V for Vendetta,434409
+1060,2331222,David Lloyd,Writer,V for Vendetta,434409
+1061,915989,Hugo Weaving,Star,V for Vendetta,434409
+1062,204,Natalie Portman,Star,V for Vendetta,434409
+1063,1291,Rupert Graves,Star,V for Vendetta,434409
+1064,41,Akira Kurosawa,Director,Rashômon,42876
+1065,15611,Ryûnosuke Akutagawa,Writer,Rashômon,42876
+1066,41,Akira Kurosawa,Writer,Rashômon,42876
+1067,368074,Shinobu Hashimoto,Writer,Rashômon,42876
+1068,1536,Toshirô Mifune,Star,Rashômon,42876
+1069,477553,Machiko Kyô,Star,Rashômon,42876
+1070,605270,Masayuki Mori,Star,Rashômon,42876
+1071,230032,Pete Docter,Director,Inside Out,2096673
+1072,215455,Ronnie Del Carmen,Director,Inside Out,2096673
+1073,230032,Pete Docter,Writer,Inside Out,2096673
+1074,215455,Ronnie Del Carmen,Writer,Inside Out,2096673
+1075,498834,Meg LeFauve,Writer,Inside Out,2096673
+1076,688132,Amy Poehler,Star,Inside Out,2096673
+1077,352778,Bill Hader,Star,Inside Out,2096673
+1078,85400,Lewis Black,Star,Inside Out,2096673
+1079,1732981,Martin McDonagh,Director,"Three Billboards Outside Ebbing, Missouri",5027774
+1080,1732981,Martin McDonagh,Writer,"Three Billboards Outside Ebbing, Missouri",5027774
+1081,531,Frances McDormand,Star,"Three Billboards Outside Ebbing, Missouri",5027774
+1082,437,Woody Harrelson,Star,"Three Billboards Outside Ebbing, Missouri",5027774
+1083,5377,Sam Rockwell,Star,"Three Billboards Outside Ebbing, Missouri",5027774
+1084,229,Steven Spielberg,Director,Catch Me If You Can,264464
+1085,7646,Frank Abagnale Jr.,Writer,Catch Me If You Can,264464
+1086,1127221,Stan Redding,Writer,Catch Me If You Can,264464
+1087,622288,Jeff Nathanson,Writer,Catch Me If You Can,264464
+1088,138,Leonardo DiCaprio,Star,Catch Me If You Can,264464
+1089,158,Tom Hanks,Star,Catch Me If You Can,264464
+1090,686,Christopher Walken,Star,Catch Me If You Can,264464
+1091,965,Danny Boyle,Director,Trainspotting,117951
+1092,920543,Irvine Welsh,Writer,Trainspotting,117951
+1093,388076,John Hodge,Writer,Trainspotting,117951
+1094,191,Ewan McGregor,Star,Trainspotting,117951
+1095,1971,Ewen Bremner,Star,Trainspotting,117951
+1096,1538,Jonny Lee Miller,Star,Trainspotting,117951
+1097,180,David Lean,Director,The Bridge on the River Kwai,50212
+1098,99541,Pierre Boulle,Writer,The Bridge on the River Kwai,50212
+1099,286025,Carl Foreman,Writer,The Bridge on the River Kwai,50212
+1100,933858,Michael Wilson,Writer,The Bridge on the River Kwai,50212
+1101,34,William Holden,Star,The Bridge on the River Kwai,50212
+1102,27,Alec Guinness,Star,The Bridge on the River Kwai,50212
+1103,370144,Jack Hawkins,Star,The Bridge on the River Kwai,50212
+1104,217,Martin Scorsese,Director,Raging Bull,81398
+1105,483766,Jake LaMotta,Writer,Raging Bull,81398
+1106,141734,Joseph Carter,Writer,Raging Bull,81398
+1107,678014,Peter Savage,Writer,Raging Bull,81398
+1108,134,Robert De Niro,Star,Raging Bull,81398
+1109,1550,Cathy Moriarty,Star,Raging Bull,81398
+1110,582,Joe Pesci,Star,Raging Bull,81398
+1111,946734,David Yates,Director,Harry Potter and the Deathly Hallows: Part 2,1201607
+1112,460141,Steve Kloves,Writer,Harry Potter and the Deathly Hallows: Part 2,1201607
+1113,746830,J.K. Rowling,Writer,Harry Potter and the Deathly Hallows: Part 2,1201607
+1114,705356,Daniel Radcliffe,Star,Harry Potter and the Deathly Hallows: Part 2,1201607
+1115,914612,Emma Watson,Star,Harry Potter and the Deathly Hallows: Part 2,1201607
+1116,342488,Rupert Grint,Star,Harry Potter and the Deathly Hallows: Part 2,1201607
+1117,1054,Joel Coen,Director,Fargo,116282
+1118,1053,Ethan Coen,Director,Fargo,116282
+1119,1053,Ethan Coen,Writer,Fargo,116282
+1120,1054,Joel Coen,Writer,Fargo,116282
+1121,513,William H. Macy,Star,Fargo,116282
+1122,531,Frances McDormand,Star,Fargo,116282
+1123,114,Steve Buscemi,Star,Fargo,116282
+1124,761498,Chris Sanders,Director,The Wild Robot,29623480
+1125,761498,Chris Sanders,Writer,The Wild Robot,29623480
+1126,2464094,Peter Brown,Writer,The Wild Robot,29623480
+1127,2143282,Lupita Nyong'o,Star,The Wild Robot,29623480
+1128,50959,Pedro Pascal,Star,The Wild Robot,29623480
+1129,5598573,Kit Connor,Star,The Wild Robot,29623480
+1130,640334,Gavin O'Connor,Director,Warrior,1291584
+1131,640334,Gavin O'Connor,Writer,Warrior,1291584
+1132,3294574,Anthony Tambakis,Writer,Warrior,1291584
+1133,233561,Cliff Dorfman,Writer,Warrior,1291584
+1134,362766,Tom Hardy,Star,Warrior,1291584
+1135,560,Nick Nolte,Star,Warrior,1291584
+1136,249291,Joel Edgerton,Star,Warrior,1291584
+1137,1837,Peter Weir,Director,Dead Poets Society,97165
+1138,776114,Tom Schulman,Writer,Dead Poets Society,97165
+1139,245,Robin Williams,Star,Dead Poets Society,97165
+1140,494,Robert Sean Leonard,Star,Dead Poets Society,97165
+1141,160,Ethan Hawke,Star,Dead Poets Society,97165
+1142,142,Clint Eastwood,Director,Million Dollar Baby,405159
+1143,353673,Paul Haggis,Writer,Million Dollar Baby,405159
+1144,101801,F.X. Toole,Writer,Million Dollar Baby,405159
+1145,5476,Hilary Swank,Star,Million Dollar Baby,405159
+1146,142,Clint Eastwood,Star,Million Dollar Baby,405159
+1147,151,Morgan Freeman,Star,Million Dollar Baby,405159
+1148,943758,William Wyler,Director,Ben-Hur,52618
+1149,908753,Lew Wallace,Writer,Ben-Hur,52618
+1150,876562,Karl Tunberg,Writer,Ben-Hur,52618
+1151,683,Gore Vidal,Writer,Ben-Hur,52618
+1152,32,Charlton Heston,Star,Ben-Hur,52618
+1153,370144,Jack Hawkins,Star,Ben-Hur,52618
+1154,963,Stephen Boyd,Star,Ben-Hur,52618
+1155,142,Clint Eastwood,Director,Gran Torino,1205489
+1156,1010405,Nick Schenk,Writer,Gran Torino,1205489
+1157,3164738,Dave Johannson,Writer,Gran Torino,1205489
+1158,142,Clint Eastwood,Star,Gran Torino,1205489
+1159,3057402,Bee Vang,Star,Gran Torino,1205489
+1160,1542291,Christopher Carley,Star,Gran Torino,1205489
+1161,4306,George Miller,Director,Mad Max: Fury Road,1392190
+1162,4306,George Miller,Writer,Mad Max: Fury Road,1392190
+1163,565068,Brendan McCarthy,Writer,Mad Max: Fury Road,1392190
+1164,490147,Nick Lathouris,Writer,Mad Max: Fury Road,1392190
+1165,362766,Tom Hardy,Star,Mad Max: Fury Road,1392190
+1166,234,Charlize Theron,Star,Mad Max: Fury Road,1392190
+1167,396558,Nicholas Hoult,Star,Mad Max: Fury Road,1392190
+1168,40,Stanley Kubrick,Director,Barry Lyndon,72684
+1169,40,Stanley Kubrick,Writer,Barry Lyndon,72684
+1170,856842,William Makepeace Thackeray,Writer,Barry Lyndon,72684
+1171,641939,Ryan O'Neal,Star,Barry Lyndon,72684
+1172,1943,Marisa Berenson,Star,Barry Lyndon,72684
+1173,535861,Patrick Magee,Star,Barry Lyndon,72684
+1174,594503,Hayao Miyazaki,Director,Tonari no Totoro,96283
+1175,594503,Hayao Miyazaki,Writer,Tonari no Totoro,96283
+1176,847054,Hitoshi Takagi,Star,Tonari no Totoro,96283
+1177,383022,Noriko Hidaka,Star,Tonari no Totoro,96283
+1178,757076,Chika Sakamoto,Star,Tonari no Totoro,96283
+1179,6498,Majid Majidi,Director,Bacheha-ye aseman,118849
+1180,6498,Majid Majidi,Writer,Bacheha-ye aseman,118849
+1181,619870,Reza Naji,Star,Bacheha-ye aseman,118849
+1182,268488,Amir Farrokh Hashemian,Star,Bacheha-ye aseman,118849
+1183,781245,Bahare Seddiqi,Star,Bacheha-ye aseman,118849
+1184,154,Mel Gibson,Director,Hacksaw Ridge,2119532
+1185,770938,Robert Schenkkan,Writer,Hacksaw Ridge,2119532
+1186,460795,Andrew Knight,Writer,Hacksaw Ridge,2119532
+1187,1940449,Andrew Garfield,Star,Hacksaw Ridge,2119532
+1188,941777,Sam Worthington,Star,Hacksaw Ridge,2119532
+1189,3478396,Luke Bracey,Star,Hacksaw Ridge,2119532
+1190,27572,Wes Anderson,Director,The Grand Budapest Hotel,2278388
+1191,959003,Stefan Zweig,Writer,The Grand Budapest Hotel,2278388
+1192,27572,Wes Anderson,Writer,The Grand Budapest Hotel,2278388
+1193,2450453,Hugo Guinness,Writer,The Grand Budapest Hotel,2278388
+1194,146,Ralph Fiennes,Star,The Grand Budapest Hotel,2278388
+1195,719,F. Murray Abraham,Star,The Grand Budapest Hotel,2278388
+1196,23832,Mathieu Amalric,Star,The Grand Budapest Hotel,2278388
+1197,2588606,Steve McQueen,Director,12 Years a Slave,2024544
+1198,725983,John Ridley,Writer,12 Years a Slave,2024544
+1199,1185849,Solomon Northup,Writer,12 Years a Slave,2024544
+1200,252230,Chiwetel Ejiofor,Star,12 Years a Slave,2024544
+1201,931324,Michael Kenneth Williams,Star,12 Years a Slave,2024544
+1202,1055413,Michael Fassbender,Star,12 Years a Slave,2024544
+1203,500,Richard Linklater,Director,Before Sunrise,112471
+1204,500,Richard Linklater,Writer,Before Sunrise,112471
+1205,471811,Kim Krizan,Writer,Before Sunrise,112471
+1206,160,Ethan Hawke,Star,Before Sunrise,112471
+1207,365,Julie Delpy,Star,Before Sunrise,112471
+1208,248600,Andrea Eckert,Star,Before Sunrise,112471
+1209,1218281,Jon Watts,Director,Spider-Man: No Way Home,10872600
+1210,571344,Chris McKenna,Writer,Spider-Man: No Way Home,10872600
+1211,1273099,Erik Sommers,Writer,Spider-Man: No Way Home,10872600
+1212,498278,Stan Lee,Writer,Spider-Man: No Way Home,10872600
+1213,4043618,Tom Holland,Star,Spider-Man: No Way Home,10872600
+1214,3918035,Zendaya,Star,Spider-Man: No Way Home,10872600
+1215,1212722,Benedict Cumberbatch,Star,Spider-Man: No Way Home,10872600
+1216,631,Ridley Scott,Director,Blade Runner,83658
+1217,266684,Hampton Fancher,Writer,Blade Runner,83658
+1218,672459,David Webb Peoples,Writer,Blade Runner,83658
+1219,1140,Philip K. Dick,Writer,Blade Runner,83658
+1220,148,Harrison Ford,Star,Blade Runner,83658
+1221,442,Rutger Hauer,Star,Blade Runner,83658
+1222,707,Sean Young,Star,Blade Runner,83658
+1223,94435,Bong Joon Ho,Director,Salinui chueok,353969
+1224,94435,Bong Joon Ho,Writer,Salinui chueok,353969
+1225,1323286,Kwang-rim Kim,Writer,Salinui chueok,353969
+1226,1646563,Sung-bo Shim,Writer,Salinui chueok,353969
+1227,814280,Song Kang-ho,Star,Salinui chueok,353969
+1228,1235292,Kim Sang-kyung,Star,Salinui chueok,353969
+1229,1323287,Kim Roe-ha,Star,Salinui chueok,353969
+1230,83348,Brad Bird,Director,Ratatouille,382932
+1231,684342,Jan Pinkava,Director,Ratatouille,382932
+1232,83348,Brad Bird,Writer,Ratatouille,382932
+1233,684342,Jan Pinkava,Writer,Ratatouille,382932
+1234,135296,Jim Capobianco,Writer,Ratatouille,382932
+1235,4951,Brad Garrett,Star,Ratatouille,382932
+1236,738918,Lou Romano,Star,Ratatouille,382932
+1237,652663,Patton Oswalt,Star,Ratatouille,382932
+1238,399,David Fincher,Director,Gone Girl,2267998
+1239,5058839,Gillian Flynn,Writer,Gone Girl,2267998
+1240,255,Ben Affleck,Star,Gone Girl,2267998
+1241,683253,Rosamund Pike,Star,Gone Girl,2267998
+1242,439,Neil Patrick Harris,Star,Gone Girl,2267998
+1243,213450,Dean DeBlois,Director,How to Train Your Dragon,892769
+1244,761498,Chris Sanders,Director,How to Train Your Dragon,892769
+1245,204030,William Davies,Writer,How to Train Your Dragon,892769
+1246,213450,Dean DeBlois,Writer,How to Train Your Dragon,892769
+1247,761498,Chris Sanders,Writer,How to Train Your Dragon,892769
+1248,59431,Jay Baruchel,Star,How to Train Your Dragon,892769
+1249,124930,Gerard Butler,Star,How to Train Your Dragon,892769
+1250,2395586,Christopher Mintz-Plasse,Star,How to Train Your Dragon,892769
+1251,230032,Pete Docter,Director,"Monsters, Inc.",198781
+1252,798899,David Silverman,Director,"Monsters, Inc.",198781
+1253,881279,Lee Unkrich,Director,"Monsters, Inc.",198781
+1254,230032,Pete Docter,Writer,"Monsters, Inc.",198781
+1255,191717,Jill Culton,Writer,"Monsters, Inc.",198781
+1256,682066,Jeff Pidgeon,Writer,"Monsters, Inc.",198781
+1257,345,Billy Crystal,Star,"Monsters, Inc.",198781
+1258,422,John Goodman,Star,"Monsters, Inc.",198781
+1259,316701,Mary Gibbs,Star,"Monsters, Inc.",198781
+1260,229,Steven Spielberg,Director,Jaws,73195
+1261,1940,Peter Benchley,Writer,Jaws,73195
+1262,331956,Carl Gottlieb,Writer,Jaws,73195
+1263,1702,Roy Scheider,Star,Jaws,73195
+1264,1727,Robert Shaw,Star,Jaws,73195
+1265,377,Richard Dreyfuss,Star,Jaws,73195
+1266,6487,Jim Sheridan,Director,In the Name of the Father,107207
+1267,174840,Gerry Conlon,Writer,In the Name of the Father,107207
+1268,313623,Terry George,Writer,In the Name of the Father,107207
+1269,6487,Jim Sheridan,Writer,In the Name of the Father,107207
+1270,358,Daniel Day-Lewis,Star,In the Name of the Father,107207
+1271,592,Pete Postlethwaite,Star,In the Name of the Father,107207
+1272,188949,Alison Crosbie,Star,In the Name of the Father,107207
+1273,1167933,Damián Szifron,Director,Relatos salvajes,3011894
+1274,2265326,Julian Loyola,Writer,Relatos salvajes,3011894
+1275,1167933,Damián Szifron,Writer,Relatos salvajes,3011894
+1276,1238855,Germán Servidio,Writer,Relatos salvajes,3011894
+1277,334882,Darío Grandinetti,Star,Relatos salvajes,3011894
+1278,555404,María Marull,Star,Relatos salvajes,3011894
+1279,897640,Mónica Villa,Star,Relatos salvajes,3011894
+1280,122,Charles Chaplin,Director,The Gold Rush,15864
+1281,122,Charles Chaplin,Writer,The Gold Rush,15864
+1282,122,Charles Chaplin,Star,The Gold Rush,15864
+1283,841501,Mack Swain,Star,The Gold Rush,15864
+1284,615306,Tom Murray,Star,The Gold Rush,15864
+1285,3506,James Mangold,Director,Ford v Ferrari,1950186
+1286,125336,Jez Butterworth,Writer,Ford v Ferrari,1950186
+1287,3890871,John-Henry Butterworth,Writer,Ford v Ferrari,1950186
+1288,445669,Jason Keller,Writer,Ford v Ferrari,1950186
+1289,354,Matt Damon,Star,Ford v Ferrari,1950186
+1290,288,Christian Bale,Star,Ford v Ferrari,1950186
+1291,1256532,Jon Bernthal,Star,Ford v Ferrari,1950186
+1292,36,Buster Keaton,Director,Sherlock Jr.,15324
+1293,369841,Jean C. Havez,Writer,Sherlock Jr.,15324
+1294,593477,Joseph A. Mitchell,Writer,Sherlock Jr.,15324
+1295,115669,Clyde Bruckman,Writer,Sherlock Jr.,15324
+1296,36,Buster Keaton,Star,Sherlock Jr.,15324
+1297,570230,Kathryn McGuire,Star,Sherlock Jr.,15324
+1298,444172,Joe Keaton,Star,Sherlock Jr.,15324
+1299,254178,Adam Elliot,Director,Mary and Max.,978762
+1300,254178,Adam Elliot,Writer,Mary and Max.,978762
+1301,1057,Toni Collette,Star,Mary and Max.,978762
+1302,450,Philip Seymour Hoffman,Star,Mary and Max.,978762
+1303,51509,Eric Bana,Star,Mary and Max.,978762
+1304,1047,Michael Cimino,Director,The Deer Hunter,77416
+1305,1047,Michael Cimino,Writer,The Deer Hunter,77416
+1306,913346,Deric Washburn,Writer,The Deer Hunter,77416
+1307,307311,Louis Garfinkle,Writer,The Deer Hunter,77416
+1308,134,Robert De Niro,Star,The Deer Hunter,77416
+1309,686,Christopher Walken,Star,The Deer Hunter,77416
+1310,1030,John Cazale,Star,The Deer Hunter,77416
+1311,115669,Clyde Bruckman,Director,The General,17925
+1312,36,Buster Keaton,Director,The General,17925
+1313,36,Buster Keaton,Writer,The General,17925
+1314,115669,Clyde Bruckman,Writer,The General,17925
+1315,90213,Al Boasberg,Writer,The General,17925
+1316,36,Buster Keaton,Star,The General,17925
+1317,533045,Marion Mack,Star,The General,17925
+1318,147070,Glen Cavender,Star,The General,17925
+1319,167241,Henri-Georges Clouzot,Director,Le salaire de la peur,46268
+1320,36062,Georges Arnaud,Writer,Le salaire de la peur,46268
+1321,167241,Henri-Georges Clouzot,Writer,Le salaire de la peur,46268
+1322,167242,Jérôme Géronimi,Writer,Le salaire de la peur,46268
+1323,598971,Yves Montand,Star,Le salaire de la peur,46268
+1324,889024,Charles Vanel,Star,Le salaire de la peur,46268
+1325,886870,Peter van Eyck,Star,Le salaire de la peur,46268
+1326,1008,Frank Capra,Director,Mr. Smith Goes to Washington,31679
+1327,118227,Sidney Buchman,Writer,Mr. Smith Goes to Washington,31679
+1328,287931,Lewis R. Foster,Writer,Mr. Smith Goes to Washington,31679
+1329,175333,Myles Connolly,Writer,Mr. Smith Goes to Washington,31679
+1330,71,James Stewart,Star,Mr. Smith Goes to Washington,31679
+1331,795,Jean Arthur,Star,Mr. Smith Goes to Washington,31679
+1332,1647,Claude Rains,Star,Mr. Smith Goes to Washington,31679
+1333,3506,James Mangold,Director,Logan,3315342
+1334,3506,James Mangold,Writer,Logan,3315342
+1335,291082,Scott Frank,Writer,Logan,3315342
+1336,338169,Michael Green,Writer,Logan,3315342
+1337,413168,Hugh Jackman,Star,Logan,3315342
+1338,1772,Patrick Stewart,Star,Logan,3315342
+1339,6748436,Dafne Keen,Star,Logan,3315342
+1340,1415,Elia Kazan,Director,On the Waterfront,47296
+1341,775977,Budd Schulberg,Writer,On the Waterfront,47296
+1342,425711,Malcolm Johnson,Writer,On the Waterfront,47296
+1343,802563,Robert Siodmak,Writer,On the Waterfront,47296
+1344,8,Marlon Brando,Star,On the Waterfront,47296
+1345,1500,Karl Malden,Star,On the Waterfront,47296
+1346,2011,Lee J. Cobb,Star,On the Waterfront,47296
+1347,814,John G. Avildsen,Director,Rocky,75148
+1348,230,Sylvester Stallone,Writer,Rocky,75148
+1349,230,Sylvester Stallone,Star,Rocky,75148
+1350,1735,Talia Shire,Star,Rocky,75148
+1351,949350,Burt Young,Star,Rocky,75148
+1352,5,Ingmar Bergman,Director,Smultronstället,50986
+1353,5,Ingmar Bergman,Writer,Smultronstället,50986
+1354,803705,Victor Sjöström,Star,Smultronstället,50986
+1355,761,Bibi Andersson,Star,Smultronstället,50986
+1356,862026,Ingrid Thulin,Star,Smultronstället,50986
+1357,654868,Yasujirô Ozu,Director,Tôkyô monogatari,46438
+1358,633792,Kôgo Noda,Writer,Tôkyô monogatari,46438
+1359,654868,Yasujirô Ozu,Writer,Tôkyô monogatari,46438
+1360,753479,Chishû Ryû,Star,Tôkyô monogatari,46438
+1361,383261,Chieko Higashiyama,Star,Tôkyô monogatari,46438
+1362,945522,Sô Yamamura,Star,Tôkyô monogatari,46438
+1363,715346,Carol Reed,Director,The Third Man,41959
+1364,1294,Graham Greene,Writer,The Third Man,41959
+1365,80,Orson Welles,Writer,The Third Man,41959
+1366,466099,Alexander Korda,Writer,The Third Man,41959
+1367,80,Orson Welles,Star,The Third Man,41959
+1368,1072,Joseph Cotten,Star,The Third Man,41959
+1369,885098,Alida Valli,Star,The Third Man,41959
+1370,1417038,Haruo Sotozaki,Director,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,32820897
+1371,2137662,Hikaru Kondô,Director,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,32820897
+1372,10281577,Koyoharu Gotouge,Writer,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,32820897
+1373,2137662,Hikaru Kondô,Writer,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,32820897
+1374,6450743,Zach Aguilar,Star,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,32820897
+1375,2876104,Ryan Bartley,Star,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,32820897
+1376,97765,Johnny Yong Bosch,Star,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,32820897
+1377,565336,Tom McCarthy,Director,Spotlight,1895587
+1378,1802857,Josh Singer,Writer,Spotlight,1895587
+1379,565336,Tom McCarthy,Writer,Spotlight,1895587
+1380,749263,Mark Ruffalo,Star,Spotlight,1895587
+1381,474,Michael Keaton,Star,Spotlight,1895587
+1382,1046097,Rachel McAdams,Star,Spotlight,1895587
+1383,9204865,Nithilan Saminathan,Director,Maharaja,26548265
+1384,9204865,Nithilan Saminathan,Writer,Maharaja,26548265
+1385,4043111,Vijay Sethupathi,Star,Maharaja,26548265
+1386,440604,Anurag Kashyap,Star,Maharaja,26548265
+1387,1952830,Mamta Mohandas,Star,Maharaja,26548265
+1388,893659,Gore Verbinski,Director,Pirates of the Caribbean: The Curse of the Black Pearl,325980
+1389,254645,Ted Elliott,Writer,Pirates of the Caribbean: The Curse of the Black Pearl,325980
+1390,744429,Terry Rossio,Writer,Pirates of the Caribbean: The Curse of the Black Pearl,325980
+1391,64181,Stuart Beattie,Writer,Pirates of the Caribbean: The Curse of the Black Pearl,325980
+1392,136,Johnny Depp,Star,Pirates of the Caribbean: The Curse of the Black Pearl,325980
+1393,1691,Geoffrey Rush,Star,Pirates of the Caribbean: The Curse of the Black Pearl,325980
+1394,89217,Orlando Bloom,Star,Pirates of the Caribbean: The Curse of the Black Pearl,325980
+1395,116,James Cameron,Director,The Terminator,88247
+1396,116,James Cameron,Writer,The Terminator,88247
+1397,5036,Gale Anne Hurd,Writer,The Terminator,88247
+1398,936537,William Wisher,Writer,The Terminator,88247
+1399,216,Arnold Schwarzenegger,Star,The Terminator,88247
+1400,157,Linda Hamilton,Star,The Terminator,88247
+1401,299,Michael Biehn,Star,The Terminator,88247
+1402,440913,Mathieu Kassovitz,Director,La haine,113247
+1403,440913,Mathieu Kassovitz,Writer,La haine,113247
+1404,1993,Vincent Cassel,Star,La haine,113247
+1405,468003,Hubert Koundé,Star,La haine,113247
+1406,846548,Saïd Taghmaoui,Star,La haine,113247
+1407,1054,Joel Coen,Director,The Big Lebowski,118715
+1408,1053,Ethan Coen,Director,The Big Lebowski,118715
+1409,1053,Ethan Coen,Writer,The Big Lebowski,118715
+1410,1054,Joel Coen,Writer,The Big Lebowski,118715
+1411,313,Jeff Bridges,Star,The Big Lebowski,118715
+1412,422,John Goodman,Star,The Big Lebowski,118715
+1413,194,Julianne Moore,Star,The Big Lebowski,118715
+1414,4377096,T.J. Gnanavel,Director,Jai Bhim,15097216
+1415,4377096,T.J. Gnanavel,Writer,Jai Bhim,15097216
+1416,13222819,Rajendra Sapre,Writer,Jai Bhim,15097216
+1417,1421814,Suriya,Star,Jai Bhim,15097216
+1418,7934649,Lijo Mol Jose,Star,Jai Bhim,15097216
+1419,8904193,Manikandan K.,Star,Jai Bhim,15097216
+1420,5,Ingmar Bergman,Director,Det sjunde inseglet,50976
+1421,5,Ingmar Bergman,Writer,Det sjunde inseglet,50976
+1422,1884,Max von Sydow,Star,Det sjunde inseglet,50976
+1423,85038,Gunnar Björnstrand,Star,Det sjunde inseglet,50976
+1424,252345,Bengt Ekerot,Star,Det sjunde inseglet,50976
+1425,1049433,Lenny Abrahamson,Director,Room,3170832
+1426,1480980,Emma Donoghue,Writer,Room,3170832
+1427,488953,Brie Larson,Star,Room,3170832
+1428,5016878,Jacob Tremblay,Star,Room,3170832
+1429,108703,Sean Bridgers,Star,Room,3170832
+1430,313623,Terry George,Director,Hotel Rwanda,395169
+1431,669311,Keir Pearson,Writer,Hotel Rwanda,395169
+1432,313623,Terry George,Writer,Hotel Rwanda,395169
+1433,332,Don Cheadle,Star,Hotel Rwanda,395169
+1434,645683,Sophie Okonedo,Star,Hotel Rwanda,395169
+1435,1618,Joaquin Phoenix,Star,Hotel Rwanda,395169
+1436,231,Oliver Stone,Director,Platoon,91763
+1437,231,Oliver Stone,Writer,Platoon,91763
+1438,221,Charlie Sheen,Star,Platoon,91763
+1439,297,Tom Berenger,Star,Platoon,91763
+1440,353,Willem Dafoe,Star,Platoon,91763
+1441,943758,William Wyler,Director,The Best Years of Our Lives,36868
+1442,792845,Robert E. Sherwood,Writer,The Best Years of Our Lives,36868
+1443,437969,MacKinlay Kantor,Writer,The Best Years of Our Lives,36868
+1444,1485,Myrna Loy,Star,The Best Years of Our Lives,36868
+1445,763,Dana Andrews,Star,The Best Years of Our Lives,36868
+1446,545298,Fredric March,Star,The Best Years of Our Lives,36868
+1447,500,Richard Linklater,Director,Before Sunset,381681
+1448,500,Richard Linklater,Writer,Before Sunset,381681
+1449,365,Julie Delpy,Writer,Before Sunset,381681
+1450,160,Ethan Hawke,Writer,Before Sunset,381681
+1451,160,Ethan Hawke,Star,Before Sunset,381681
+1452,365,Julie Delpy,Star,Before Sunset,381681
+1453,229943,Vernon Dobtcheff,Star,Before Sunset,381681
+1454,936404,Robert Wise,Director,The Sound of Music,59742
+1455,403346,Georg Hurdalek,Writer,The Sound of Music,59742
+1456,512231,Howard Lindsay,Writer,The Sound of Music,59742
+1457,189496,Russel Crouse,Writer,The Sound of Music,59742
+1458,267,Julie Andrews,Star,The Sound of Music,59742
+1459,1626,Christopher Plummer,Star,The Sound of Music,59742
+1460,662223,Eleanor Parker,Star,The Sound of Music,59742
+1461,1243,William Friedkin,Director,The Exorcist,70047
+1462,87861,William Peter Blatty,Writer,The Exorcist,70047
+1463,995,Ellen Burstyn,Star,The Exorcist,70047
+1464,1884,Max von Sydow,Star,The Exorcist,70047
+1465,304,Linda Blair,Star,The Exorcist,70047
+1466,83348,Brad Bird,Director,The Incredibles,317705
+1467,83348,Brad Bird,Writer,The Incredibles,317705
+1468,5266,Craig T. Nelson,Star,The Incredibles,317705
+1469,168,Samuel L. Jackson,Star,The Incredibles,317705
+1470,456,Holly Hunter,Star,The Incredibles,317705
+1471,2120,Lasse Hallström,Director,Hachi: A Dog's Tale,1028532
+1472,2124742,Stephen P. Lindsey,Writer,Hachi: A Dog's Tale,1028532
+1473,793881,Kaneto Shindô,Writer,Hachi: A Dog's Tale,1028532
+1474,152,Richard Gere,Star,Hachi: A Dog's Tale,1028532
+1475,260,Joan Allen,Star,Hachi: A Dog's Tale,1028532
+1476,846480,Cary-Hiroyuki Tagawa,Star,Hachi: A Dog's Tale,1028532
+1477,165,Ron Howard,Director,Rush,1979320
+1478,604948,Peter Morgan,Writer,Rush,1979320
+1479,117709,Daniel Brühl,Star,Rush,1979320
+1480,1165110,Chris Hemsworth,Star,Rush,1979320
+1481,1312575,Olivia Wilde,Star,Rush,1979320
+1482,281808,Victor Fleming,Director,The Wizard of Oz,32138
+1483,2030,George Cukor,Director,The Wizard of Oz,32138
+1484,851537,Norman Taurog,Director,The Wizard of Oz,32138
+1485,486538,Noel Langley,Writer,The Wizard of Oz,32138
+1486,753249,Florence Ryerson,Writer,The Wizard of Oz,32138
+1487,941138,Edgar Allan Woolf,Writer,The Wizard of Oz,32138
+1488,23,Judy Garland,Star,The Wizard of Oz,32138
+1489,604656,Frank Morgan,Star,The Wizard of Oz,32138
+1490,1961,Ray Bolger,Star,The Wizard of Oz,32138
+1491,2210720,Naoko Yamada,Director,Koe no Katachi,5323662
+1492,7835741,Yoshitoki Ôima,Writer,Koe no Katachi,5323662
+1493,1027089,Reiko Yoshida,Writer,Koe no Katachi,5323662
+1494,997115,Miyu Irino,Star,Koe no Katachi,5323662
+1495,2977461,Saori Hayami,Star,Koe no Katachi,5323662
+1496,2976492,Aoi Yûki,Star,Koe no Katachi,5323662
+1497,3433,Carl Theodor Dreyer,Director,La passion de Jeanne d'Arc,19254
+1498,217865,Joseph Delteil,Writer,La passion de Jeanne d'Arc,19254
+1499,3433,Carl Theodor Dreyer,Writer,La passion de Jeanne d'Arc,19254
+1500,266029,Maria Falconetti,Star,La passion de Jeanne d'Arc,19254
+1501,798564,Eugene Silvain,Star,La passion de Jeanne d'Arc,19254
+1502,75551,André Berley,Star,La passion de Jeanne d'Arc,19254
+1503,1661,Rob Reiner,Director,Stand by Me,92005
+1504,175,Stephen King,Writer,Stand by Me,92005
+1505,317279,Raynold Gideon,Writer,Stand by Me,92005
+1506,262595,Bruce A. Evans,Writer,Stand by Me,92005
+1507,696,Wil Wheaton,Star,Stand by Me,92005
+1508,203,River Phoenix,Star,Stand by Me,92005
+1509,397,Corey Feldman,Star,Stand by Me,92005
+1510,83348,Brad Bird,Director,The Iron Giant,129167
+1511,564827,Tim McCanlies,Writer,The Iron Giant,129167
+1512,83348,Brad Bird,Writer,The Iron Giant,129167
+1513,400954,Ted Hughes,Writer,The Iron Giant,129167
+1514,547349,Eli Marienthal,Star,The Iron Giant,129167
+1515,1065,Harry Connick Jr.,Star,The Iron Giant,129167
+1516,98,Jennifer Aniston,Star,The Iron Giant,129167
+1517,1463981,Çagan Irmak,Director,Babam ve Oglum,476735
+1518,1463981,Çagan Irmak,Writer,Babam ve Oglum,476735
+1519,1002038,Çetin Tekindor,Star,Babam ve Oglum,476735
+1520,476334,Fikret Kuskan,Star,Babam ve Oglum,476735
+1521,406157,Hümeyra,Star,Babam ve Oglum,476735
+1522,661791,Park Chan-wook,Director,Ah-ga-ssi,4016934
+1523,1258797,Sarah Waters,Writer,Ah-ga-ssi,4016934
+1524,1941029,Chung Seo-kyung,Writer,Ah-ga-ssi,4016934
+1525,661791,Park Chan-wook,Writer,Ah-ga-ssi,4016934
+1526,1195119,Kim Min-hee,Star,Ah-ga-ssi,4016934
+1527,1978402,Ha Jung-woo,Star,Ah-ga-ssi,4016934
+1528,2437361,Cho Jin-woong,Star,Ah-ga-ssi,4016934
+1529,1486,Sidney Lumet,Director,Network,74958
+1530,154665,Paddy Chayefsky,Writer,Network,74958
+1531,1159,Faye Dunaway,Star,Network,74958
+1532,34,William Holden,Star,Network,74958
+1533,2075,Peter Finch,Star,Network,74958
+1534,690597,Gillo Pontecorvo,Director,La battaglia di Algeri,58946
+1535,758357,Franco Solinas,Writer,La battaglia di Algeri,58946
+1536,690597,Gillo Pontecorvo,Writer,La battaglia di Algeri,58946
+1537,352835,Brahim Hadjadj,Star,La battaglia di Algeri,58946
+1538,552483,Jean Martin,Star,La battaglia di Algeri,58946
+1539,754272,Yacef Saadi,Star,La battaglia di Algeri,58946
+1540,1417038,Haruo Sotozaki,Director,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,11032374
+1541,10281577,Koyoharu Gotouge,Writer,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,11032374
+1542,5137121,Natsuki Hanae,Star,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,11032374
+1543,6981978,Akari Kitô,Star,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,11032374
+1544,4303311,Yoshitsugu Matsuoka,Star,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,11032374
+1545,406,John Ford,Director,The Grapes of Wrath,32551
+1546,425913,Nunnally Johnson,Writer,The Grapes of Wrath,32551
+1547,825705,John Steinbeck,Writer,The Grapes of Wrath,32551
+1548,20,Henry Fonda,Star,The Grapes of Wrath,32551
+1549,2034,Jane Darwell,Star,The Grapes of Wrath,32551
+1550,1017,John Carradine,Star,The Grapes of Wrath,32551
+1551,523932,Ernst Lubitsch,Director,To Be or Not to Be,35446
+1552,501872,Melchior Lengyel,Writer,To Be or Not to Be,35446
+1553,562372,Edwin Justus Mayer,Writer,To Be or Not to Be,35446
+1554,523932,Ernst Lubitsch,Writer,To Be or Not to Be,35446
+1555,1479,Carole Lombard,Star,To Be or Not to Be,35446
+1556,912,Jack Benny,Star,To Be or Not to Be,35446
+1557,821041,Robert Stack,Star,To Be or Not to Be,35446
+1558,440604,Anurag Kashyap,Director,Gangs of Wasseypur,1954470
+1559,4556524,Akhilesh Jaiswal,Writer,Gangs of Wasseypur,1954470
+1560,440604,Anurag Kashyap,Writer,Gangs of Wasseypur,1954470
+1561,4556473,Sachin K. Ladia,Writer,Gangs of Wasseypur,1954470
+1562,48075,Manoj Bajpayee,Star,Gangs of Wasseypur,1954470
+1563,1596350,Nawazuddin Siddiqui,Star,Gangs of Wasseypur,1954470
+1564,223606,Tigmanshu Dhulia,Star,Gangs of Wasseypur,1954470
+1565,576,Sean Penn,Director,Into the Wild,758758
+1566,576,Sean Penn,Writer,Into the Wild,758758
+1567,1040556,Jon Krakauer,Writer,Into the Wild,758758
+1568,386472,Emile Hirsch,Star,Into the Wild,758758
+1569,681,Vince Vaughn,Star,Into the Wild,758758
+1570,1416,Catherine Keener,Star,Into the Wild,758758
+1571,1417038,Haruo Sotozaki,Director,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,16492678
+1572,10281577,Koyoharu Gotouge,Writer,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,16492678
+1573,5137121,Natsuki Hanae,Star,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,16492678
+1574,6981978,Akari Kitô,Star,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,16492678
+1575,1683003,Hiro Shimono,Star,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,16492678
+1576,853238,Tate Taylor,Director,The Help,1454029
+1577,853238,Tate Taylor,Writer,The Help,1454029
+1578,3543826,Kathryn Stockett,Writer,The Help,1454029
+1579,205626,Viola Davis,Star,The Help,1454029
+1580,1297015,Emma Stone,Star,The Help,1454029
+1581,818055,Octavia Spencer,Star,The Help,1454029

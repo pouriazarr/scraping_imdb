@@ -1,0 +1,1645 @@
+movie_id,title,year,certificate,runtime,genre,gross_us_canada,idx
+111161,The Shawshank Redemption,1994,R,142,Epic,28767189,1
+111161,The Shawshank Redemption,1994,R,142,Period Drama,28767189,1
+111161,The Shawshank Redemption,1994,R,142,Prison Drama,28767189,1
+111161,The Shawshank Redemption,1994,R,142,Drama,28767189,1
+68646,The Godfather,1972,R,175,Epic,136381073,2
+68646,The Godfather,1972,R,175,Gangster,136381073,2
+68646,The Godfather,1972,R,175,Tragedy,136381073,2
+68646,The Godfather,1972,R,175,Crime,136381073,2
+68646,The Godfather,1972,R,175,Drama,136381073,2
+468569,The Dark Knight,2008,PG-13,152,Action Epic,534987076,3
+468569,The Dark Knight,2008,PG-13,152,Epic,534987076,3
+468569,The Dark Knight,2008,PG-13,152,Superhero,534987076,3
+468569,The Dark Knight,2008,PG-13,152,Tragedy,534987076,3
+468569,The Dark Knight,2008,PG-13,152,Action,534987076,3
+468569,The Dark Knight,2008,PG-13,152,Crime,534987076,3
+468569,The Dark Knight,2008,PG-13,152,Drama,534987076,3
+468569,The Dark Knight,2008,PG-13,152,Thriller,534987076,3
+71562,The Godfather Part II,1974,R,202,Epic,47834595,4
+71562,The Godfather Part II,1974,R,202,Gangster,47834595,4
+71562,The Godfather Part II,1974,R,202,Tragedy,47834595,4
+71562,The Godfather Part II,1974,R,202,Crime,47834595,4
+71562,The Godfather Part II,1974,R,202,Drama,47834595,4
+50083,12 Angry Men,1957,Approved,96,Legal Drama,,5
+50083,12 Angry Men,1957,Approved,96,Psychological Drama,,5
+50083,12 Angry Men,1957,Approved,96,Crime,,5
+50083,12 Angry Men,1957,Approved,96,Drama,,5
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Action Epic,381878219,6
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Adventure Epic,381878219,6
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Epic,381878219,6
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Fantasy Epic,381878219,6
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Mountain Adventure,381878219,6
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Quest,381878219,6
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Sword & Sorcery,381878219,6
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Tragedy,381878219,6
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Adventure,381878219,6
+167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,Drama,381878219,6
+108052,Schindler's List,1993,R,195,Docudrama,96898818,7
+108052,Schindler's List,1993,R,195,Epic,96898818,7
+108052,Schindler's List,1993,R,195,Historical Epic,96898818,7
+108052,Schindler's List,1993,R,195,Period Drama,96898818,7
+108052,Schindler's List,1993,R,195,Prison Drama,96898818,7
+108052,Schindler's List,1993,R,195,Tragedy,96898818,7
+108052,Schindler's List,1993,R,195,Biography,96898818,7
+108052,Schindler's List,1993,R,195,Drama,96898818,7
+108052,Schindler's List,1993,R,195,History,96898818,7
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Action Epic,319372078,8
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Adventure Epic,319372078,8
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Dark Fantasy,319372078,8
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Epic,319372078,8
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Fantasy Epic,319372078,8
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Quest,319372078,8
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Sword & Sorcery,319372078,8
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Adventure,319372078,8
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Drama,319372078,8
+120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,Fantasy,319372078,8
+110912,Pulp Fiction,1994,R,154,Dark Comedy,107928762,9
+110912,Pulp Fiction,1994,R,154,Drug Crime,107928762,9
+110912,Pulp Fiction,1994,R,154,Gangster,107928762,9
+110912,Pulp Fiction,1994,R,154,Crime,107928762,9
+110912,Pulp Fiction,1994,R,154,Drama,107928762,9
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Action Epic,25100000,10
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Adventure Epic,25100000,10
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Dark Comedy,25100000,10
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Desert Adventure,25100000,10
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Epic,25100000,10
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Period Drama,25100000,10
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Quest,25100000,10
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Spaghetti Western,25100000,10
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Western Epic,25100000,10
+60196,"Il buono, il brutto, il cattivo",1966,R,178,Adventure,25100000,10
+109830,Forrest Gump,1994,PG-13,142,Epic,330455270,11
+109830,Forrest Gump,1994,PG-13,142,Period Drama,330455270,11
+109830,Forrest Gump,1994,PG-13,142,Drama,330455270,11
+109830,Forrest Gump,1994,PG-13,142,Romance,330455270,11
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Action Epic,345518923,12
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Adventure Epic,345518923,12
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Dark Fantasy,345518923,12
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Epic,345518923,12
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Fantasy Epic,345518923,12
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Quest,345518923,12
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Sword & Sorcery,345518923,12
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Adventure,345518923,12
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Drama,345518923,12
+167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,Fantasy,345518923,12
+137523,Fight Club,1999,R,139,Dark Comedy,37030102,13
+137523,Fight Club,1999,R,139,Psychological Drama,37030102,13
+137523,Fight Club,1999,R,139,Psychological Thriller,37030102,13
+137523,Fight Club,1999,R,139,Workplace Drama,37030102,13
+137523,Fight Club,1999,R,139,Crime,37030102,13
+137523,Fight Club,1999,R,139,Drama,37030102,13
+137523,Fight Club,1999,R,139,Thriller,37030102,13
+1375666,Inception,2010,PG-13,148,Action Epic,292587330,14
+1375666,Inception,2010,PG-13,148,Adventure Epic,292587330,14
+1375666,Inception,2010,PG-13,148,Epic,292587330,14
+1375666,Inception,2010,PG-13,148,Psychological Thriller,292587330,14
+1375666,Inception,2010,PG-13,148,Sci-Fi Epic,292587330,14
+1375666,Inception,2010,PG-13,148,Action,292587330,14
+1375666,Inception,2010,PG-13,148,Adventure,292587330,14
+1375666,Inception,2010,PG-13,148,Sci-Fi,292587330,14
+1375666,Inception,2010,PG-13,148,Thriller,292587330,14
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Action Epic,292753960,15
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Adventure Epic,292753960,15
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Dark Fantasy,292753960,15
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Dystopian Sci-Fi,292753960,15
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Epic,292753960,15
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Fantasy Epic,292753960,15
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Quest,292753960,15
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Sci-Fi Epic,292753960,15
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Space Sci-Fi,292753960,15
+80684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,Sword & Sorcery,292753960,15
+133093,The Matrix,1999,R,136,Action Epic,172076928,16
+133093,The Matrix,1999,R,136,Artificial Intelligence,172076928,16
+133093,The Matrix,1999,R,136,Cyberpunk,172076928,16
+133093,The Matrix,1999,R,136,Dystopian Sci-Fi,172076928,16
+133093,The Matrix,1999,R,136,Gun Fu,172076928,16
+133093,The Matrix,1999,R,136,Martial Arts,172076928,16
+133093,The Matrix,1999,R,136,Sci-Fi Epic,172076928,16
+133093,The Matrix,1999,R,136,Action,172076928,16
+133093,The Matrix,1999,R,136,Sci-Fi,172076928,16
+99685,GoodFellas,1990,R,145,Docudrama,46909721,17
+99685,GoodFellas,1990,R,145,Gangster,46909721,17
+99685,GoodFellas,1990,R,145,True Crime,46909721,17
+99685,GoodFellas,1990,R,145,Biography,46909721,17
+99685,GoodFellas,1990,R,145,Crime,46909721,17
+99685,GoodFellas,1990,R,145,Drama,46909721,17
+816692,Interstellar,2014,PG-13,169,Adventure Epic,203227580,18
+816692,Interstellar,2014,PG-13,169,Epic,203227580,18
+816692,Interstellar,2014,PG-13,169,Psychological Drama,203227580,18
+816692,Interstellar,2014,PG-13,169,Quest,203227580,18
+816692,Interstellar,2014,PG-13,169,Sci-Fi Epic,203227580,18
+816692,Interstellar,2014,PG-13,169,Space Sci-Fi,203227580,18
+816692,Interstellar,2014,PG-13,169,Time Travel,203227580,18
+816692,Interstellar,2014,PG-13,169,Adventure,203227580,18
+816692,Interstellar,2014,PG-13,169,Drama,203227580,18
+816692,Interstellar,2014,PG-13,169,Sci-Fi,203227580,18
+73486,One Flew Over the Cuckoo's Nest,1975,R,133,Medical Drama,108981275,19
+73486,One Flew Over the Cuckoo's Nest,1975,R,133,Psychological Drama,108981275,19
+73486,One Flew Over the Cuckoo's Nest,1975,R,133,Drama,108981275,19
+114369,Se7en,1995,R,127,Cop Drama,101040643,20
+114369,Se7en,1995,R,127,Hard-boiled Detective,101040643,20
+114369,Se7en,1995,R,127,Police Procedural,101040643,20
+114369,Se7en,1995,R,127,Psychological Drama,101040643,20
+114369,Se7en,1995,R,127,Psychological Thriller,101040643,20
+114369,Se7en,1995,R,127,Serial Killer,101040643,20
+114369,Se7en,1995,R,127,Tragedy,101040643,20
+114369,Se7en,1995,R,127,Crime,101040643,20
+114369,Se7en,1995,R,127,Drama,101040643,20
+114369,Se7en,1995,R,127,Mystery,101040643,20
+38650,It's a Wonderful Life,1946,PG,130,Feel-Good Romance,1483643,21
+38650,It's a Wonderful Life,1946,PG,130,Holiday Family,1483643,21
+38650,It's a Wonderful Life,1946,PG,130,Holiday Romance,1483643,21
+38650,It's a Wonderful Life,1946,PG,130,Psychological Drama,1483643,21
+38650,It's a Wonderful Life,1946,PG,130,Supernatural Fantasy,1483643,21
+38650,It's a Wonderful Life,1946,PG,130,Drama,1483643,21
+38650,It's a Wonderful Life,1946,PG,130,Family,1483643,21
+38650,It's a Wonderful Life,1946,PG,130,Fantasy,1483643,21
+38650,It's a Wonderful Life,1946,PG,130,Holiday,1483643,21
+38650,It's a Wonderful Life,1946,PG,130,Romance,1483643,21
+102926,The Silence of the Lambs,1991,R,118,Police Procedural,130742922,22
+102926,The Silence of the Lambs,1991,R,118,Psychological Drama,130742922,22
+102926,The Silence of the Lambs,1991,R,118,Psychological Horror,130742922,22
+102926,The Silence of the Lambs,1991,R,118,Psychological Thriller,130742922,22
+102926,The Silence of the Lambs,1991,R,118,Serial Killer,130742922,22
+102926,The Silence of the Lambs,1991,R,118,Crime,130742922,22
+102926,The Silence of the Lambs,1991,R,118,Drama,130742922,22
+102926,The Silence of the Lambs,1991,R,118,Horror,130742922,22
+102926,The Silence of the Lambs,1991,R,118,Thriller,130742922,22
+47478,Shichinin no samurai,1954,Not Rated,207,Action Epic,820278,23
+47478,Shichinin no samurai,1954,Not Rated,207,Epic,820278,23
+47478,Shichinin no samurai,1954,Not Rated,207,Period Drama,820278,23
+47478,Shichinin no samurai,1954,Not Rated,207,Samurai,820278,23
+47478,Shichinin no samurai,1954,Not Rated,207,Action,820278,23
+47478,Shichinin no samurai,1954,Not Rated,207,Drama,820278,23
+120815,Saving Private Ryan,1998,R,169,Epic,217049603,24
+120815,Saving Private Ryan,1998,R,169,Period Drama,217049603,24
+120815,Saving Private Ryan,1998,R,169,Psychological Drama,217049603,24
+120815,Saving Private Ryan,1998,R,169,Tragedy,217049603,24
+120815,Saving Private Ryan,1998,R,169,War Epic,217049603,24
+120815,Saving Private Ryan,1998,R,169,Drama,217049603,24
+120815,Saving Private Ryan,1998,R,169,War,217049603,24
+120689,The Green Mile,1999,R,189,Period Drama,136801374,25
+120689,The Green Mile,1999,R,189,Prison Drama,136801374,25
+120689,The Green Mile,1999,R,189,Supernatural Fantasy,136801374,25
+120689,The Green Mile,1999,R,189,Tragedy,136801374,25
+120689,The Green Mile,1999,R,189,Crime,136801374,25
+120689,The Green Mile,1999,R,189,Drama,136801374,25
+120689,The Green Mile,1999,R,189,Fantasy,136801374,25
+120689,The Green Mile,1999,R,189,Mystery,136801374,25
+317248,Cidade de Deus,2002,R,130,Caper,7564459,26
+317248,Cidade de Deus,2002,R,130,Coming-of-Age,7564459,26
+317248,Cidade de Deus,2002,R,130,Gangster,7564459,26
+317248,Cidade de Deus,2002,R,130,Crime,7564459,26
+317248,Cidade de Deus,2002,R,130,Drama,7564459,26
+118799,La vita è bella,1997,PG-13,116,Period Drama,57563264,27
+118799,La vita è bella,1997,PG-13,116,Psychological Drama,57563264,27
+118799,La vita è bella,1997,PG-13,116,Romantic Comedy,57563264,27
+118799,La vita è bella,1997,PG-13,116,Tragedy,57563264,27
+118799,La vita è bella,1997,PG-13,116,Tragic Romance,57563264,27
+118799,La vita è bella,1997,PG-13,116,Comedy,57563264,27
+118799,La vita è bella,1997,PG-13,116,Drama,57563264,27
+118799,La vita è bella,1997,PG-13,116,Romance,57563264,27
+118799,La vita è bella,1997,PG-13,116,War,57563264,27
+103064,Terminator 2: Judgment Day,1991,R,137,Action Epic,205881154,28
+103064,Terminator 2: Judgment Day,1991,R,137,Artificial Intelligence,205881154,28
+103064,Terminator 2: Judgment Day,1991,R,137,Cyberpunk,205881154,28
+103064,Terminator 2: Judgment Day,1991,R,137,Dystopian Sci-Fi,205881154,28
+103064,Terminator 2: Judgment Day,1991,R,137,Sci-Fi Epic,205881154,28
+103064,Terminator 2: Judgment Day,1991,R,137,Time Travel,205881154,28
+103064,Terminator 2: Judgment Day,1991,R,137,Action,205881154,28
+103064,Terminator 2: Judgment Day,1991,R,137,Adventure,205881154,28
+103064,Terminator 2: Judgment Day,1991,R,137,Sci-Fi,205881154,28
+76759,Star Wars,1977,PG,121,Action Epic,460998507,29
+76759,Star Wars,1977,PG,121,Adventure Epic,460998507,29
+76759,Star Wars,1977,PG,121,Dystopian Sci-Fi,460998507,29
+76759,Star Wars,1977,PG,121,Epic,460998507,29
+76759,Star Wars,1977,PG,121,Fantasy Epic,460998507,29
+76759,Star Wars,1977,PG,121,Quest,460998507,29
+76759,Star Wars,1977,PG,121,Sci-Fi Epic,460998507,29
+76759,Star Wars,1977,PG,121,Space Sci-Fi,460998507,29
+76759,Star Wars,1977,PG,121,Sword & Sorcery,460998507,29
+76759,Star Wars,1977,PG,121,Action,460998507,29
+88763,Back to the Future,1985,PG,116,High-Concept Comedy,214553307,30
+88763,Back to the Future,1985,PG,116,Teen Adventure,214553307,30
+88763,Back to the Future,1985,PG,116,Teen Comedy,214553307,30
+88763,Back to the Future,1985,PG,116,Time Travel,214553307,30
+88763,Back to the Future,1985,PG,116,Urban Adventure,214553307,30
+88763,Back to the Future,1985,PG,116,Adventure,214553307,30
+88763,Back to the Future,1985,PG,116,Comedy,214553307,30
+88763,Back to the Future,1985,PG,116,Sci-Fi,214553307,30
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Anime,15205725,31
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Coming-of-Age,15205725,31
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Fairy Tale,15205725,31
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Hand-Drawn Animation,15205725,31
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Quest,15205725,31
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Supernatural Fantasy,15205725,31
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Adventure,15205725,31
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Animation,15205725,31
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Family,15205725,31
+245429,Sen to Chihiro no kamikakushi,2001,PG,124,Fantasy,15205725,31
+253474,The Pianist,2002,R,150,Docudrama,32590750,32
+253474,The Pianist,2002,R,150,Epic,32590750,32
+253474,The Pianist,2002,R,150,Period Drama,32590750,32
+253474,The Pianist,2002,R,150,Tragedy,32590750,32
+253474,The Pianist,2002,R,150,War Epic,32590750,32
+253474,The Pianist,2002,R,150,Biography,32590750,32
+253474,The Pianist,2002,R,150,Drama,32590750,32
+253474,The Pianist,2002,R,150,Music,32590750,32
+253474,The Pianist,2002,R,150,War,32590750,32
+172495,Gladiator,2000,R,155,Action Epic,187705427,33
+172495,Gladiator,2000,R,155,Adventure Epic,187705427,33
+172495,Gladiator,2000,R,155,Epic,187705427,33
+172495,Gladiator,2000,R,155,Period Drama,187705427,33
+172495,Gladiator,2000,R,155,Sword & Sandal,187705427,33
+172495,Gladiator,2000,R,155,Action,187705427,33
+172495,Gladiator,2000,R,155,Adventure,187705427,33
+172495,Gladiator,2000,R,155,Drama,187705427,33
+6751668,Gisaengchung,2019,R,132,Dark Comedy,53847897,34
+6751668,Gisaengchung,2019,R,132,Psychological Drama,53847897,34
+6751668,Gisaengchung,2019,R,132,Psychological Thriller,53847897,34
+6751668,Gisaengchung,2019,R,132,Tragedy,53847897,34
+6751668,Gisaengchung,2019,R,132,Drama,53847897,34
+6751668,Gisaengchung,2019,R,132,Thriller,53847897,34
+54215,Psycho,1960,R,109,Dark Comedy,32181230,35
+54215,Psycho,1960,R,109,Psychological Horror,32181230,35
+54215,Psycho,1960,R,109,Psychological Thriller,32181230,35
+54215,Psycho,1960,R,109,Slasher Horror,32181230,35
+54215,Psycho,1960,R,109,Suspense Mystery,32181230,35
+54215,Psycho,1960,R,109,Drama,32181230,35
+54215,Psycho,1960,R,109,Horror,32181230,35
+54215,Psycho,1960,R,109,Mystery,32181230,35
+54215,Psycho,1960,R,109,Thriller,32181230,35
+110357,The Lion King,1994,G,88,Adventure Epic,424979720,36
+110357,The Lion King,1994,G,88,Animal Adventure,424979720,36
+110357,The Lion King,1994,G,88,Coming-of-Age,424979720,36
+110357,The Lion King,1994,G,88,Epic,424979720,36
+110357,The Lion King,1994,G,88,Hand-Drawn Animation,424979720,36
+110357,The Lion King,1994,G,88,Jungle Adventure,424979720,36
+110357,The Lion King,1994,G,88,Adventure,424979720,36
+110357,The Lion King,1994,G,88,Animation,424979720,36
+110357,The Lion King,1994,G,88,Drama,424979720,36
+110357,The Lion King,1994,G,88,Family,424979720,36
+95327,Hotaru no haka,1988,Not Rated,88,Adult Animation,516962,37
+95327,Hotaru no haka,1988,Not Rated,88,Anime,516962,37
+95327,Hotaru no haka,1988,Not Rated,88,Hand-Drawn Animation,516962,37
+95327,Hotaru no haka,1988,Not Rated,88,Period Drama,516962,37
+95327,Hotaru no haka,1988,Not Rated,88,Tragedy,516962,37
+95327,Hotaru no haka,1988,Not Rated,88,Animation,516962,37
+95327,Hotaru no haka,1988,Not Rated,88,Drama,516962,37
+95327,Hotaru no haka,1988,Not Rated,88,War,516962,37
+407887,The Departed,2006,R,151,Cop Drama,132399394,38
+407887,The Departed,2006,R,151,Epic,132399394,38
+407887,The Departed,2006,R,151,Gangster,132399394,38
+407887,The Departed,2006,R,151,Crime,132399394,38
+407887,The Departed,2006,R,151,Drama,132399394,38
+407887,The Departed,2006,R,151,Thriller,132399394,38
+2582802,Whiplash,2014,R,106,Psychological Drama,14003391,39
+2582802,Whiplash,2014,R,106,Drama,14003391,39
+2582802,Whiplash,2014,R,106,Music,14003391,39
+56058,Seppuku,1962,Not Rated,133,Period Drama,,40
+56058,Seppuku,1962,Not Rated,133,Drama,,40
+56058,Seppuku,1962,Not Rated,133,Mystery,,40
+482571,The Prestige,2006,PG-13,130,Period Drama,53089891,41
+482571,The Prestige,2006,PG-13,130,Steampunk,53089891,41
+482571,The Prestige,2006,PG-13,130,Tragedy,53089891,41
+482571,The Prestige,2006,PG-13,130,Drama,53089891,41
+482571,The Prestige,2006,PG-13,130,Mystery,53089891,41
+482571,The Prestige,2006,PG-13,130,Sci-Fi,53089891,41
+482571,The Prestige,2006,PG-13,130,Thriller,53089891,41
+120586,American History X,1998,R,119,Prison Drama,6719864,42
+120586,American History X,1998,R,119,Psychological Drama,6719864,42
+120586,American History X,1998,R,119,Tragedy,6719864,42
+120586,American History X,1998,R,119,Crime,6719864,42
+120586,American History X,1998,R,119,Drama,6719864,42
+110413,Léon,1994,R,110,Gangster,19501238,43
+110413,Léon,1994,R,110,One-Person Army Action,19501238,43
+110413,Léon,1994,R,110,Action,19501238,43
+110413,Léon,1994,R,110,Crime,19501238,43
+110413,Léon,1994,R,110,Drama,19501238,43
+110413,Léon,1994,R,110,Thriller,19501238,43
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Action Epic,381593754,44
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Computer Animation,381593754,44
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Superhero,381593754,44
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Supernatural Fantasy,381593754,44
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Teen Adventure,381593754,44
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Urban Adventure,381593754,44
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Action,381593754,44
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Adventure,381593754,44
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Animation,381593754,44
+9362722,Spider-Man: Across the Spider-Verse,2023,PG,140,Family,381593754,44
+34583,Casablanca,1942,PG,102,Psychological Drama,4219709,45
+34583,Casablanca,1942,PG,102,Drama,4219709,45
+34583,Casablanca,1942,PG,102,Romance,4219709,45
+34583,Casablanca,1942,PG,102,War,4219709,45
+95765,Nuovo Cinema Paradiso,1988,PG,174,Coming-of-Age,12397210,46
+95765,Nuovo Cinema Paradiso,1988,PG,174,Drama,12397210,46
+95765,Nuovo Cinema Paradiso,1988,PG,174,Romance,12397210,46
+1675434,Intouchables,2011,R,112,Buddy Comedy,10198820,47
+1675434,Intouchables,2011,R,112,Docudrama,10198820,47
+1675434,Intouchables,2011,R,112,Comedy,10198820,47
+1675434,Intouchables,2011,R,112,Drama,10198820,47
+114814,The Usual Suspects,1995,R,106,Caper,23341568,48
+114814,The Usual Suspects,1995,R,106,Gangster,23341568,48
+114814,The Usual Suspects,1995,R,106,Heist,23341568,48
+114814,The Usual Suspects,1995,R,106,Psychological Drama,23341568,48
+114814,The Usual Suspects,1995,R,106,Psychological Thriller,23341568,48
+114814,The Usual Suspects,1995,R,106,Suspense Mystery,23341568,48
+114814,The Usual Suspects,1995,R,106,Whodunnit,23341568,48
+114814,The Usual Suspects,1995,R,106,Crime,23341568,48
+114814,The Usual Suspects,1995,R,106,Drama,23341568,48
+114814,The Usual Suspects,1995,R,106,Mystery,23341568,48
+78748,Alien,1979,R,117,Alien Invasion,84206106,49
+78748,Alien,1979,R,117,Body Horror,84206106,49
+78748,Alien,1979,R,117,Cyberpunk,84206106,49
+78748,Alien,1979,R,117,Monster Horror,84206106,49
+78748,Alien,1979,R,117,Space Sci-Fi,84206106,49
+78748,Alien,1979,R,117,Tragedy,84206106,49
+78748,Alien,1979,R,117,Horror,84206106,49
+78748,Alien,1979,R,117,Sci-Fi,84206106,49
+27977,Modern Times,1936,G,87,Romantic Comedy,163577,50
+27977,Modern Times,1936,G,87,Satire,163577,50
+27977,Modern Times,1936,G,87,Slapstick,163577,50
+27977,Modern Times,1936,G,87,Comedy,163577,50
+27977,Modern Times,1936,G,87,Drama,163577,50
+27977,Modern Times,1936,G,87,Romance,163577,50
+47396,Rear Window,1954,PG,112,Psychological Thriller,37622343,51
+47396,Rear Window,1954,PG,112,Suspense Mystery,37622343,51
+47396,Rear Window,1954,PG,112,Drama,37622343,51
+47396,Rear Window,1954,PG,112,Mystery,37622343,51
+47396,Rear Window,1954,PG,112,Thriller,37622343,51
+1853728,Django Unchained,2012,R,165,Dark Comedy,162805434,52
+1853728,Django Unchained,2012,R,165,Epic,162805434,52
+1853728,Django Unchained,2012,R,165,One-Person Army Action,162805434,52
+1853728,Django Unchained,2012,R,165,Period Drama,162805434,52
+1853728,Django Unchained,2012,R,165,Western Epic,162805434,52
+1853728,Django Unchained,2012,R,165,Western,162805434,52
+64116,C'era una volta il West,1968,PG-13,166,Adventure Epic,5321508,53
+64116,C'era una volta il West,1968,PG-13,166,Desert Adventure,5321508,53
+64116,C'era una volta il West,1968,PG-13,166,Epic,5321508,53
+64116,C'era una volta il West,1968,PG-13,166,Period Drama,5321508,53
+64116,C'era una volta il West,1968,PG-13,166,Quest,5321508,53
+64116,C'era una volta il West,1968,PG-13,166,Spaghetti Western,5321508,53
+64116,C'era una volta il West,1968,PG-13,166,Western Epic,5321508,53
+64116,C'era una volta il West,1968,PG-13,166,Drama,5321508,53
+64116,C'era una volta il West,1968,PG-13,166,Western,5321508,53
+21749,City Lights,1931,G,87,Feel-Good Romance,19181,54
+21749,City Lights,1931,G,87,Romantic Comedy,19181,54
+21749,City Lights,1931,G,87,Satire,19181,54
+21749,City Lights,1931,G,87,Slapstick,19181,54
+21749,City Lights,1931,G,87,Comedy,19181,54
+21749,City Lights,1931,G,87,Drama,19181,54
+21749,City Lights,1931,G,87,Romance,19181,54
+78788,Apocalypse Now,1979,R,147,Adventure Epic,96074376,55
+78788,Apocalypse Now,1979,R,147,Epic,96074376,55
+78788,Apocalypse Now,1979,R,147,Hard-boiled Detective,96074376,55
+78788,Apocalypse Now,1979,R,147,Psychological Drama,96074376,55
+78788,Apocalypse Now,1979,R,147,Quest,96074376,55
+78788,Apocalypse Now,1979,R,147,Suspense Mystery,96074376,55
+78788,Apocalypse Now,1979,R,147,War Epic,96074376,55
+78788,Apocalypse Now,1979,R,147,Drama,96074376,55
+78788,Apocalypse Now,1979,R,147,Mystery,96074376,55
+78788,Apocalypse Now,1979,R,147,War,96074376,55
+910970,WALL·E,2008,G,98,Adventure Epic,223808164,56
+910970,WALL·E,2008,G,98,Artificial Intelligence,223808164,56
+910970,WALL·E,2008,G,98,Computer Animation,223808164,56
+910970,WALL·E,2008,G,98,Dystopian Sci-Fi,223808164,56
+910970,WALL·E,2008,G,98,Epic,223808164,56
+910970,WALL·E,2008,G,98,Psychological Drama,223808164,56
+910970,WALL·E,2008,G,98,Sci-Fi Epic,223808164,56
+910970,WALL·E,2008,G,98,Space Sci-Fi,223808164,56
+910970,WALL·E,2008,G,98,Adventure,223808164,56
+910970,WALL·E,2008,G,98,Animation,223808164,56
+209144,Memento,2000,R,113,Psychological Thriller,25544867,57
+209144,Memento,2000,R,113,Suspense Mystery,25544867,57
+209144,Memento,2000,R,113,Drama,25544867,57
+209144,Memento,2000,R,113,Mystery,25544867,57
+209144,Memento,2000,R,113,Thriller,25544867,57
+15239678,Dune: Part Two,2024,PG-13,166,Action Epic,282144358,58
+15239678,Dune: Part Two,2024,PG-13,166,Desert Adventure,282144358,58
+15239678,Dune: Part Two,2024,PG-13,166,Epic,282144358,58
+15239678,Dune: Part Two,2024,PG-13,166,Sci-Fi Epic,282144358,58
+15239678,Dune: Part Two,2024,PG-13,166,Space Sci-Fi,282144358,58
+15239678,Dune: Part Two,2024,PG-13,166,Action,282144358,58
+15239678,Dune: Part Two,2024,PG-13,166,Adventure,282144358,58
+15239678,Dune: Part Two,2024,PG-13,166,Drama,282144358,58
+15239678,Dune: Part Two,2024,PG-13,166,Sci-Fi,282144358,58
+82971,Raiders of the Lost Ark,1981,PG,115,Action Epic,248159971,59
+82971,Raiders of the Lost Ark,1981,PG,115,Adventure Epic,248159971,59
+82971,Raiders of the Lost Ark,1981,PG,115,Desert Adventure,248159971,59
+82971,Raiders of the Lost Ark,1981,PG,115,Epic,248159971,59
+82971,Raiders of the Lost Ark,1981,PG,115,Globetrotting Adventure,248159971,59
+82971,Raiders of the Lost Ark,1981,PG,115,Quest,248159971,59
+82971,Raiders of the Lost Ark,1981,PG,115,Action,248159971,59
+82971,Raiders of the Lost Ark,1981,PG,115,Adventure,248159971,59
+4154756,Avengers: Infinity War,2018,PG-13,149,Space Sci-Fi,678815482,60
+4154756,Avengers: Infinity War,2018,PG-13,149,Superhero,678815482,60
+4154756,Avengers: Infinity War,2018,PG-13,149,Action,678815482,60
+4154756,Avengers: Infinity War,2018,PG-13,149,Adventure,678815482,60
+4154756,Avengers: Infinity War,2018,PG-13,149,Sci-Fi,678815482,60
+405094,Das Leben der Anderen,2006,R,137,Political Thriller,11286112,61
+405094,Das Leben der Anderen,2006,R,137,Psychological Drama,11286112,61
+405094,Das Leben der Anderen,2006,R,137,Spy,11286112,61
+405094,Das Leben der Anderen,2006,R,137,Drama,11286112,61
+405094,Das Leben der Anderen,2006,R,137,Mystery,11286112,61
+405094,Das Leben der Anderen,2006,R,137,Thriller,11286112,61
+43014,Sunset Blvd.,1950,Approved,110,Dark Comedy,299645,62
+43014,Sunset Blvd.,1950,Approved,110,Film Noir,299645,62
+43014,Sunset Blvd.,1950,Approved,110,Psychological Drama,299645,62
+43014,Sunset Blvd.,1950,Approved,110,Showbiz Drama,299645,62
+43014,Sunset Blvd.,1950,Approved,110,Tragedy,299645,62
+43014,Sunset Blvd.,1950,Approved,110,Drama,299645,62
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Coming-of-Age,190241310,63
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Computer Animation,190241310,63
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Quirky Comedy,190241310,63
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Superhero,190241310,63
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Supernatural Fantasy,190241310,63
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Teen Adventure,190241310,63
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Teen Comedy,190241310,63
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Teen Drama,190241310,63
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Urban Adventure,190241310,63
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,Action,190241310,63
+51201,Witness for the Prosecution,1957,Approved,116,Legal Drama,,64
+51201,Witness for the Prosecution,1957,Approved,116,Legal Thriller,,64
+51201,Witness for the Prosecution,1957,Approved,116,Whodunnit,,64
+51201,Witness for the Prosecution,1957,Approved,116,Crime,,64
+51201,Witness for the Prosecution,1957,Approved,116,Drama,,64
+51201,Witness for the Prosecution,1957,Approved,116,Mystery,,64
+51201,Witness for the Prosecution,1957,Approved,116,Thriller,,64
+50825,Paths of Glory,1957,Approved,88,Epic,,65
+50825,Paths of Glory,1957,Approved,88,Legal Drama,,65
+50825,Paths of Glory,1957,Approved,88,Period Drama,,65
+50825,Paths of Glory,1957,Approved,88,Political Drama,,65
+50825,Paths of Glory,1957,Approved,88,Psychological Drama,,65
+50825,Paths of Glory,1957,Approved,88,Tragedy,,65
+50825,Paths of Glory,1957,Approved,88,War Epic,,65
+50825,Paths of Glory,1957,Approved,88,Drama,,65
+50825,Paths of Glory,1957,Approved,88,War,,65
+81505,The Shining,1980,R,146,Psychological Drama,45634352,66
+81505,The Shining,1980,R,146,Psychological Horror,45634352,66
+81505,The Shining,1980,R,146,Supernatural Horror,45634352,66
+81505,The Shining,1980,R,146,Drama,45634352,66
+81505,The Shining,1980,R,146,Horror,45634352,66
+32553,The Great Dictator,1940,G,125,Dark Comedy,,67
+32553,The Great Dictator,1940,G,125,Parody,,67
+32553,The Great Dictator,1940,G,125,Political Drama,,67
+32553,The Great Dictator,1940,G,125,Satire,,67
+32553,The Great Dictator,1940,G,125,Slapstick,,67
+32553,The Great Dictator,1940,G,125,Comedy,,67
+32553,The Great Dictator,1940,G,125,Drama,,67
+32553,The Great Dictator,1940,G,125,War,,67
+361748,Inglourious Basterds,2009,R,153,Dark Comedy,120540719,68
+361748,Inglourious Basterds,2009,R,153,Period Drama,120540719,68
+361748,Inglourious Basterds,2009,R,153,Adventure,120540719,68
+361748,Inglourious Basterds,2009,R,153,Drama,120540719,68
+361748,Inglourious Basterds,2009,R,153,War,120540719,68
+23849204,12th Fail,2023,,147,Docudrama,,69
+23849204,12th Fail,2023,,147,Biography,,69
+23849204,12th Fail,2023,,147,Drama,,69
+90605,Aliens,1986,R,137,Alien Invasion,85160248,70
+90605,Aliens,1986,R,137,Cyberpunk,85160248,70
+90605,Aliens,1986,R,137,Monster Horror,85160248,70
+90605,Aliens,1986,R,137,Space Sci-Fi,85160248,70
+90605,Aliens,1986,R,137,Survival,85160248,70
+90605,Aliens,1986,R,137,Tragedy,85160248,70
+90605,Aliens,1986,R,137,Action,85160248,70
+90605,Aliens,1986,R,137,Adventure,85160248,70
+90605,Aliens,1986,R,137,Horror,85160248,70
+90605,Aliens,1986,R,137,Sci-Fi,85160248,70
+1345836,The Dark Knight Rises,2012,PG-13,164,Action Epic,448149584,71
+1345836,The Dark Knight Rises,2012,PG-13,164,Epic,448149584,71
+1345836,The Dark Knight Rises,2012,PG-13,164,Superhero,448149584,71
+1345836,The Dark Knight Rises,2012,PG-13,164,Action,448149584,71
+1345836,The Dark Knight Rises,2012,PG-13,164,Crime,448149584,71
+1345836,The Dark Knight Rises,2012,PG-13,164,Drama,448149584,71
+1345836,The Dark Knight Rises,2012,PG-13,164,Thriller,448149584,71
+2380307,Coco,2017,PG,105,Computer Animation,210460015,72
+2380307,Coco,2017,PG,105,Dark Comedy,210460015,72
+2380307,Coco,2017,PG,105,Supernatural Fantasy,210460015,72
+2380307,Coco,2017,PG,105,Adventure,210460015,72
+2380307,Coco,2017,PG,105,Animation,210460015,72
+2380307,Coco,2017,PG,105,Drama,210460015,72
+2380307,Coco,2017,PG,105,Family,210460015,72
+2380307,Coco,2017,PG,105,Fantasy,210460015,72
+2380307,Coco,2017,PG,105,Music,210460015,72
+2380307,Coco,2017,PG,105,Mystery,210460015,72
+86879,Amadeus,1984,PG,160,Costume Drama,51973029,73
+86879,Amadeus,1984,PG,160,Epic,51973029,73
+86879,Amadeus,1984,PG,160,Period Drama,51973029,73
+86879,Amadeus,1984,PG,160,Tragedy,51973029,73
+86879,Amadeus,1984,PG,160,Biography,51973029,73
+86879,Amadeus,1984,PG,160,Drama,51973029,73
+86879,Amadeus,1984,PG,160,Music,51973029,73
+4154796,Avengers: Endgame,2019,PG-13,181,Space Sci-Fi,858373000,74
+4154796,Avengers: Endgame,2019,PG-13,181,Superhero,858373000,74
+4154796,Avengers: Endgame,2019,PG-13,181,Time Travel,858373000,74
+4154796,Avengers: Endgame,2019,PG-13,181,Tragedy,858373000,74
+4154796,Avengers: Endgame,2019,PG-13,181,Action,858373000,74
+4154796,Avengers: Endgame,2019,PG-13,181,Adventure,858373000,74
+4154796,Avengers: Endgame,2019,PG-13,181,Sci-Fi,858373000,74
+119217,Good Will Hunting,1997,R,126,Coming-of-Age,138433435,75
+119217,Good Will Hunting,1997,R,126,Psychological Drama,138433435,75
+119217,Good Will Hunting,1997,R,126,Drama,138433435,75
+119217,Good Will Hunting,1997,R,126,Romance,138433435,75
+57565,Tengoku to jigoku,1963,Not Rated,143,Police Procedural,46808,76
+57565,Tengoku to jigoku,1963,Not Rated,143,Crime,46808,76
+57565,Tengoku to jigoku,1963,Not Rated,143,Drama,46808,76
+57565,Tengoku to jigoku,1963,Not Rated,143,Mystery,46808,76
+57565,Tengoku to jigoku,1963,Not Rated,143,Thriller,46808,76
+114709,Toy Story,1995,G,81,Buddy Comedy,227540220,77
+114709,Toy Story,1995,G,81,Computer Animation,227540220,77
+114709,Toy Story,1995,G,81,Supernatural Fantasy,227540220,77
+114709,Toy Story,1995,G,81,Urban Adventure,227540220,77
+114709,Toy Story,1995,G,81,Adventure,227540220,77
+114709,Toy Story,1995,G,81,Animation,227540220,77
+114709,Toy Story,1995,G,81,Comedy,227540220,77
+114709,Toy Story,1995,G,81,Family,227540220,77
+114709,Toy Story,1995,G,81,Fantasy,227540220,77
+364569,Oldeuboi,2003,R,120,Dark Comedy,2458200,78
+364569,Oldeuboi,2003,R,120,One-Person Army Action,2458200,78
+364569,Oldeuboi,2003,R,120,Psychological Drama,2458200,78
+364569,Oldeuboi,2003,R,120,Psychological Thriller,2458200,78
+364569,Oldeuboi,2003,R,120,Action,2458200,78
+364569,Oldeuboi,2003,R,120,Drama,2458200,78
+364569,Oldeuboi,2003,R,120,Mystery,2458200,78
+364569,Oldeuboi,2003,R,120,Thriller,2458200,78
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Dark Comedy,9440272,79
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Farce,9440272,79
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Political Drama,9440272,79
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Quirky Comedy,9440272,79
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Satire,9440272,79
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Tragedy,9440272,79
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Comedy,9440272,79
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,War,9440272,79
+82096,Das Boot,1981,,149,Epic,11487676,80
+82096,Das Boot,1981,,149,War Epic,11487676,80
+82096,Das Boot,1981,,149,Drama,11487676,80
+82096,Das Boot,1981,,149,War,11487676,80
+112573,Braveheart,1995,R,178,Action Epic,75609945,81
+112573,Braveheart,1995,R,178,Costume Drama,75609945,81
+112573,Braveheart,1995,R,178,Epic,75609945,81
+112573,Braveheart,1995,R,178,Period Drama,75609945,81
+112573,Braveheart,1995,R,178,War Epic,75609945,81
+112573,Braveheart,1995,R,178,Biography,75609945,81
+112573,Braveheart,1995,R,178,Drama,75609945,81
+112573,Braveheart,1995,R,178,War,75609945,81
+5311514,Kimi no Na wa.,2016,,106,Anime,5017246,82
+5311514,Kimi no Na wa.,2016,,106,Hand-Drawn Animation,5017246,82
+5311514,Kimi no Na wa.,2016,,106,Psychological Drama,5017246,82
+5311514,Kimi no Na wa.,2016,,106,Shōjo,5017246,82
+5311514,Kimi no Na wa.,2016,,106,Animation,5017246,82
+5311514,Kimi no Na wa.,2016,,106,Drama,5017246,82
+5311514,Kimi no Na wa.,2016,,106,Fantasy,5017246,82
+5311514,Kimi no Na wa.,2016,,106,Romance,5017246,82
+119698,Mononoke-hime,1997,PG-13,133,Action Epic,11696687,83
+119698,Mononoke-hime,1997,PG-13,133,Adult Animation,11696687,83
+119698,Mononoke-hime,1997,PG-13,133,Adventure Epic,11696687,83
+119698,Mononoke-hime,1997,PG-13,133,Anime,11696687,83
+119698,Mononoke-hime,1997,PG-13,133,Dark Fantasy,11696687,83
+119698,Mononoke-hime,1997,PG-13,133,Epic,11696687,83
+119698,Mononoke-hime,1997,PG-13,133,Fantasy Epic,11696687,83
+119698,Mononoke-hime,1997,PG-13,133,Hand-Drawn Animation,11696687,83
+119698,Mononoke-hime,1997,PG-13,133,Quest,11696687,83
+119698,Mononoke-hime,1997,PG-13,133,Supernatural Fantasy,11696687,83
+169547,American Beauty,1999,R,122,Psychological Drama,130096601,84
+169547,American Beauty,1999,R,122,Tragedy,130096601,84
+169547,American Beauty,1999,R,122,Drama,130096601,84
+1187043,3 Idiots,2009,PG-13,170,Buddy Comedy,6532874,85
+1187043,3 Idiots,2009,PG-13,170,Coming-of-Age,6532874,85
+1187043,3 Idiots,2009,PG-13,170,Quirky Comedy,6532874,85
+1187043,3 Idiots,2009,PG-13,170,Satire,6532874,85
+1187043,3 Idiots,2009,PG-13,170,Comedy,6532874,85
+1187043,3 Idiots,2009,PG-13,170,Drama,6532874,85
+7286456,Joker,2019,R,122,Psychological Drama,335477657,86
+7286456,Joker,2019,R,122,Psychological Thriller,335477657,86
+7286456,Joker,2019,R,122,Tragedy,335477657,86
+7286456,Joker,2019,R,122,Crime,335477657,86
+7286456,Joker,2019,R,122,Drama,335477657,86
+7286456,Joker,2019,R,122,Thriller,335477657,86
+8267604,Capharnaüm,2018,R,126,Coming-of-Age,1661096,87
+8267604,Capharnaüm,2018,R,126,Legal Drama,1661096,87
+8267604,Capharnaüm,2018,R,126,Psychological Drama,1661096,87
+8267604,Capharnaüm,2018,R,126,Drama,1661096,87
+87843,Once Upon a Time in America,1984,R,229,Dark Comedy,5321508,88
+87843,Once Upon a Time in America,1984,R,229,Epic,5321508,88
+87843,Once Upon a Time in America,1984,R,229,Gangster,5321508,88
+87843,Once Upon a Time in America,1984,R,229,Period Drama,5321508,88
+87843,Once Upon a Time in America,1984,R,229,Crime,5321508,88
+87843,Once Upon a Time in America,1984,R,229,Drama,5321508,88
+45152,Singin' in the Rain,1952,G,103,Classic Musical,1884537,89
+45152,Singin' in the Rain,1952,G,103,Feel-Good Romance,1884537,89
+45152,Singin' in the Rain,1952,G,103,Jukebox Musical,1884537,89
+45152,Singin' in the Rain,1952,G,103,Romantic Comedy,1884537,89
+45152,Singin' in the Rain,1952,G,103,Satire,1884537,89
+45152,Singin' in the Rain,1952,G,103,Comedy,1884537,89
+45152,Singin' in the Rain,1952,G,103,Musical,1884537,89
+45152,Singin' in the Rain,1952,G,103,Romance,1884537,89
+91251,Idi i smotri,1985,Not Rated,142,Epic,71909,90
+91251,Idi i smotri,1985,Not Rated,142,Period Drama,71909,90
+91251,Idi i smotri,1985,Not Rated,142,Psychological Drama,71909,90
+91251,Idi i smotri,1985,Not Rated,142,Tragedy,71909,90
+91251,Idi i smotri,1985,Not Rated,142,War Epic,71909,90
+91251,Idi i smotri,1985,Not Rated,142,Drama,71909,90
+91251,Idi i smotri,1985,Not Rated,142,Thriller,71909,90
+91251,Idi i smotri,1985,Not Rated,142,War,71909,90
+180093,Requiem for a Dream,2000,NC-17,102,Psychological Drama,3635482,91
+180093,Requiem for a Dream,2000,NC-17,102,Tragedy,3635482,91
+180093,Requiem for a Dream,2000,NC-17,102,Drama,3635482,91
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Action Epic,316566101,92
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Adventure Epic,316566101,92
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Dark Fantasy,316566101,92
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Dystopian Sci-Fi,316566101,92
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Epic,316566101,92
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Fantasy Epic,316566101,92
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Globetrotting Adventure,316566101,92
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Quest,316566101,92
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Sci-Fi Epic,316566101,92
+86190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,Space Sci-Fi,316566101,92
+435761,Toy Story 3,2010,G,103,Computer Animation,415004880,93
+435761,Toy Story 3,2010,G,103,Psychological Drama,415004880,93
+435761,Toy Story 3,2010,G,103,Supernatural Fantasy,415004880,93
+435761,Toy Story 3,2010,G,103,Urban Adventure,415004880,93
+435761,Toy Story 3,2010,G,103,Adventure,415004880,93
+435761,Toy Story 3,2010,G,103,Animation,415004880,93
+435761,Toy Story 3,2010,G,103,Comedy,415004880,93
+435761,Toy Story 3,2010,G,103,Family,415004880,93
+435761,Toy Story 3,2010,G,103,Fantasy,415004880,93
+2106476,Jagten,2012,R,115,Psychological Drama,613308,94
+2106476,Jagten,2012,R,115,Tragedy,613308,94
+2106476,Jagten,2012,R,115,Drama,613308,94
+44741,Ikiru,1952,Not Rated,143,Psychological Drama,60239,95
+44741,Ikiru,1952,Not Rated,143,Tragedy,60239,95
+44741,Ikiru,1952,Not Rated,143,Drama,60239,95
+338013,Eternal Sunshine of the Spotless Mind,2004,R,108,Dark Romance,34400301,96
+338013,Eternal Sunshine of the Spotless Mind,2004,R,108,Psychological Drama,34400301,96
+338013,Eternal Sunshine of the Spotless Mind,2004,R,108,Drama,34400301,96
+338013,Eternal Sunshine of the Spotless Mind,2004,R,108,Romance,34400301,96
+338013,Eternal Sunshine of the Spotless Mind,2004,R,108,Sci-Fi,34400301,96
+1255953,Incendies,2010,R,131,Suspense Mystery,2071334,97
+1255953,Incendies,2010,R,131,Drama,2071334,97
+1255953,Incendies,2010,R,131,Mystery,2071334,97
+1255953,Incendies,2010,R,131,War,2071334,97
+53604,The Apartment,1960,Approved,125,Dark Comedy,18600000,98
+53604,The Apartment,1960,Approved,125,Farce,18600000,98
+53604,The Apartment,1960,Approved,125,Feel-Good Romance,18600000,98
+53604,The Apartment,1960,Approved,125,Holiday Comedy,18600000,98
+53604,The Apartment,1960,Approved,125,Holiday Romance,18600000,98
+53604,The Apartment,1960,Approved,125,Quirky Comedy,18600000,98
+53604,The Apartment,1960,Approved,125,Romantic Comedy,18600000,98
+53604,The Apartment,1960,Approved,125,Satire,18600000,98
+53604,The Apartment,1960,Approved,125,Workplace Drama,18600000,98
+53604,The Apartment,1960,Approved,125,Comedy,18600000,98
+56172,Lawrence of Arabia,1962,PG,227,Adventure Epic,45306425,99
+56172,Lawrence of Arabia,1962,PG,227,Desert Adventure,45306425,99
+56172,Lawrence of Arabia,1962,PG,227,Epic,45306425,99
+56172,Lawrence of Arabia,1962,PG,227,Tragedy,45306425,99
+56172,Lawrence of Arabia,1962,PG,227,War Epic,45306425,99
+56172,Lawrence of Arabia,1962,PG,227,Adventure,45306425,99
+56172,Lawrence of Arabia,1962,PG,227,Biography,45306425,99
+56172,Lawrence of Arabia,1962,PG,227,Drama,45306425,99
+56172,Lawrence of Arabia,1962,PG,227,War,45306425,99
+62622,2001: A Space Odyssey,1968,G,149,Adventure Epic,60481243,100
+62622,2001: A Space Odyssey,1968,G,149,Artificial Intelligence,60481243,100
+62622,2001: A Space Odyssey,1968,G,149,Epic,60481243,100
+62622,2001: A Space Odyssey,1968,G,149,Psychological Drama,60481243,100
+62622,2001: A Space Odyssey,1968,G,149,Sci-Fi Epic,60481243,100
+62622,2001: A Space Odyssey,1968,G,149,Space Sci-Fi,60481243,100
+62622,2001: A Space Odyssey,1968,G,149,Adventure,60481243,100
+62622,2001: A Space Odyssey,1968,G,149,Sci-Fi,60481243,100
+105236,Reservoir Dogs,1992,R,99,Gangster,2832029,101
+105236,Reservoir Dogs,1992,R,99,Heist,2832029,101
+105236,Reservoir Dogs,1992,R,99,Crime,2832029,101
+105236,Reservoir Dogs,1992,R,99,Thriller,2832029,101
+86250,Scarface,1983,R,170,Drug Crime,45967303,102
+86250,Scarface,1983,R,170,Epic,45967303,102
+86250,Scarface,1983,R,170,Gangster,45967303,102
+86250,Scarface,1983,R,170,Tragedy,45967303,102
+86250,Scarface,1983,R,170,Crime,45967303,102
+86250,Scarface,1983,R,170,Drama,45967303,102
+113277,Heat,1995,R,170,Action Epic,67436818,103
+113277,Heat,1995,R,170,Cop Drama,67436818,103
+113277,Heat,1995,R,170,Epic,67436818,103
+113277,Heat,1995,R,170,Gangster,67436818,103
+113277,Heat,1995,R,170,Heist,67436818,103
+113277,Heat,1995,R,170,Action,67436818,103
+113277,Heat,1995,R,170,Crime,67436818,103
+113277,Heat,1995,R,170,Drama,67436818,103
+36775,Double Indemnity,1944,Approved,107,Film Noir,,104
+36775,Double Indemnity,1944,Approved,107,Hard-boiled Detective,,104
+36775,Double Indemnity,1944,Approved,107,Crime,,104
+36775,Double Indemnity,1944,Approved,107,Drama,,104
+36775,Double Indemnity,1944,Approved,107,Mystery,,104
+36775,Double Indemnity,1944,Approved,107,Thriller,,104
+53125,North by Northwest,1959,Approved,136,Spy,66728,105
+53125,North by Northwest,1959,Approved,136,Adventure,66728,105
+53125,North by Northwest,1959,Approved,136,Drama,66728,105
+53125,North by Northwest,1959,Approved,136,Mystery,66728,105
+53125,North by Northwest,1959,Approved,136,Thriller,66728,105
+1049413,Up,2009,PG,96,Buddy Comedy,293004164,106
+1049413,Up,2009,PG,96,Coming-of-Age,293004164,106
+1049413,Up,2009,PG,96,Computer Animation,293004164,106
+1049413,Up,2009,PG,96,Globetrotting Adventure,293004164,106
+1049413,Up,2009,PG,96,Quest,293004164,106
+1049413,Up,2009,PG,96,Adventure,293004164,106
+1049413,Up,2009,PG,96,Animation,293004164,106
+1049413,Up,2009,PG,96,Comedy,293004164,106
+1049413,Up,2009,PG,96,Drama,293004164,106
+1049413,Up,2009,PG,96,Family,293004164,106
+22100,M - Eine Stadt sucht einen Mörder,1931,Passed,99,Psychological Thriller,35566,107
+22100,M - Eine Stadt sucht einen Mörder,1931,Passed,99,Serial Killer,35566,107
+22100,M - Eine Stadt sucht einen Mörder,1931,Passed,99,Suspense Mystery,35566,107
+22100,M - Eine Stadt sucht einen Mörder,1931,Passed,99,Crime,35566,107
+22100,M - Eine Stadt sucht einen Mörder,1931,Passed,99,Mystery,35566,107
+22100,M - Eine Stadt sucht einen Mörder,1931,Passed,99,Thriller,35566,107
+33467,Citizen Kane,1941,PG,119,Epic,1627530,108
+33467,Citizen Kane,1941,PG,119,Period Drama,1627530,108
+33467,Citizen Kane,1941,PG,119,Tragedy,1627530,108
+33467,Citizen Kane,1941,PG,119,Drama,1627530,108
+33467,Citizen Kane,1941,PG,119,Mystery,1627530,108
+93058,Full Metal Jacket,1987,R,116,Dark Comedy,46357676,109
+93058,Full Metal Jacket,1987,R,116,Period Drama,46357676,109
+93058,Full Metal Jacket,1987,R,116,Psychological Drama,46357676,109
+93058,Full Metal Jacket,1987,R,116,Drama,46357676,109
+93058,Full Metal Jacket,1987,R,116,War,46357676,109
+52357,Vertigo,1958,PG,128,Conspiracy Thriller,7863310,110
+52357,Vertigo,1958,PG,128,Dark Romance,7863310,110
+52357,Vertigo,1958,PG,128,Psychological Thriller,7863310,110
+52357,Vertigo,1958,PG,128,Suspense Mystery,7863310,110
+52357,Vertigo,1958,PG,128,Tragedy,7863310,110
+52357,Vertigo,1958,PG,128,Mystery,7863310,110
+52357,Vertigo,1958,PG,128,Romance,7863310,110
+52357,Vertigo,1958,PG,128,Thriller,7863310,110
+211915,Le fabuleux destin d'Amélie Poulain,2001,R,122,Feel-Good Romance,33712444,111
+211915,Le fabuleux destin d'Amélie Poulain,2001,R,122,Quirky Comedy,33712444,111
+211915,Le fabuleux destin d'Amélie Poulain,2001,R,122,Romantic Comedy,33712444,111
+211915,Le fabuleux destin d'Amélie Poulain,2001,R,122,Comedy,33712444,111
+211915,Le fabuleux destin d'Amélie Poulain,2001,R,122,Romance,33712444,111
+986264,Taare Zameen Par,2007,PG,162,Coming-of-Age,1223869,112
+986264,Taare Zameen Par,2007,PG,162,Drama,1223869,112
+986264,Taare Zameen Par,2007,PG,162,Family,1223869,112
+1832382,Jodaeiye Nader az Simin,2011,PG-13,123,Legal Drama,7099055,113
+1832382,Jodaeiye Nader az Simin,2011,PG-13,123,Psychological Drama,7099055,113
+1832382,Jodaeiye Nader az Simin,2011,PG-13,123,Drama,7099055,113
+56592,To Kill a Mockingbird,1962,Approved,129,Legal Drama,592237,114
+56592,To Kill a Mockingbird,1962,Approved,129,Period Drama,592237,114
+56592,To Kill a Mockingbird,1962,Approved,129,Crime,592237,114
+56592,To Kill a Mockingbird,1962,Approved,129,Drama,592237,114
+95016,Die Hard,1988,R,132,Dark Comedy,85892546,115
+95016,Die Hard,1988,R,132,Disaster,85892546,115
+95016,Die Hard,1988,R,132,One-Person Army Action,85892546,115
+95016,Die Hard,1988,R,132,Action,85892546,115
+95016,Die Hard,1988,R,132,Holiday,85892546,115
+95016,Die Hard,1988,R,132,Thriller,85892546,115
+70735,The Sting,1973,PG,129,Caper,156000000,116
+70735,The Sting,1973,PG,129,Comedy,156000000,116
+70735,The Sting,1973,PG,129,Crime,156000000,116
+70735,The Sting,1973,PG,129,Drama,156000000,116
+97576,Indiana Jones and the Last Crusade,1989,PG-13,127,Action Epic,197171806,117
+97576,Indiana Jones and the Last Crusade,1989,PG-13,127,Adventure Epic,197171806,117
+97576,Indiana Jones and the Last Crusade,1989,PG-13,127,Desert Adventure,197171806,117
+97576,Indiana Jones and the Last Crusade,1989,PG-13,127,Epic,197171806,117
+97576,Indiana Jones and the Last Crusade,1989,PG-13,127,Globetrotting Adventure,197171806,117
+97576,Indiana Jones and the Last Crusade,1989,PG-13,127,Quest,197171806,117
+97576,Indiana Jones and the Last Crusade,1989,PG-13,127,Action,197171806,117
+97576,Indiana Jones and the Last Crusade,1989,PG-13,127,Adventure,197171806,117
+66921,A Clockwork Orange,1971,R,136,Dark Comedy,26617553,118
+66921,A Clockwork Orange,1971,R,136,Dystopian Sci-Fi,26617553,118
+66921,A Clockwork Orange,1971,R,136,Crime,26617553,118
+66921,A Clockwork Orange,1971,R,136,Sci-Fi,26617553,118
+17136,Metropolis,1927,Not Rated,153,Dystopian Sci-Fi,1236166,119
+17136,Metropolis,1927,Not Rated,153,Epic,1236166,119
+17136,Metropolis,1927,Not Rated,153,Sci-Fi Epic,1236166,119
+17136,Metropolis,1927,Not Rated,153,Steampunk,1236166,119
+17136,Metropolis,1927,Not Rated,153,Drama,1236166,119
+17136,Metropolis,1927,Not Rated,153,Sci-Fi,1236166,119
+208092,Snatch,2000,R,102,Caper,30328156,120
+208092,Snatch,2000,R,102,Dark Comedy,30328156,120
+208092,Snatch,2000,R,102,Gangster,30328156,120
+208092,Snatch,2000,R,102,Comedy,30328156,120
+208092,Snatch,2000,R,102,Crime,30328156,120
+8579674,1917,2019,R,119,Epic,159227644,121
+8579674,1917,2019,R,119,Period Drama,159227644,121
+8579674,1917,2019,R,119,War Epic,159227644,121
+8579674,1917,2019,R,119,Action,159227644,121
+8579674,1917,2019,R,119,Drama,159227644,121
+8579674,1917,2019,R,119,War,159227644,121
+15398776,Oppenheimer,2023,R,180,Docudrama,330078895,122
+15398776,Oppenheimer,2023,R,180,Epic,330078895,122
+15398776,Oppenheimer,2023,R,180,Historical Epic,330078895,122
+15398776,Oppenheimer,2023,R,180,Period Drama,330078895,122
+15398776,Oppenheimer,2023,R,180,Psychological Drama,330078895,122
+15398776,Oppenheimer,2023,R,180,Biography,330078895,122
+15398776,Oppenheimer,2023,R,180,Drama,330078895,122
+15398776,Oppenheimer,2023,R,180,History,330078895,122
+119488,L.A. Confidential,1997,R,138,Conspiracy Thriller,64616940,123
+119488,L.A. Confidential,1997,R,138,Cop Drama,64616940,123
+119488,L.A. Confidential,1997,R,138,Hard-boiled Detective,64616940,123
+119488,L.A. Confidential,1997,R,138,Period Drama,64616940,123
+119488,L.A. Confidential,1997,R,138,Police Procedural,64616940,123
+119488,L.A. Confidential,1997,R,138,Suspense Mystery,64616940,123
+119488,L.A. Confidential,1997,R,138,Whodunnit,64616940,123
+119488,L.A. Confidential,1997,R,138,Crime,64616940,123
+119488,L.A. Confidential,1997,R,138,Drama,64616940,123
+119488,L.A. Confidential,1997,R,138,Mystery,64616940,123
+363163,Der Untergang,2004,R,156,Docudrama,5509040,124
+363163,Der Untergang,2004,R,156,Political Drama,5509040,124
+363163,Der Untergang,2004,R,156,Tragedy,5509040,124
+363163,Der Untergang,2004,R,156,Biography,5509040,124
+363163,Der Untergang,2004,R,156,Drama,5509040,124
+363163,Der Untergang,2004,R,156,History,5509040,124
+363163,Der Untergang,2004,R,156,War,5509040,124
+40522,Ladri di biciclette,1948,Not Rated,89,Psychological Drama,371111,125
+40522,Ladri di biciclette,1948,Not Rated,89,Quest,371111,125
+40522,Ladri di biciclette,1948,Not Rated,89,Tragedy,371111,125
+40522,Ladri di biciclette,1948,Not Rated,89,Drama,371111,125
+40522,Ladri di biciclette,1948,Not Rated,89,Financial Drama,371111,125
+5074352,Dangal,2016,Not Rated,161,Coming-of-Age,12391761,126
+5074352,Dangal,2016,Not Rated,161,Martial Arts,12391761,126
+5074352,Dangal,2016,Not Rated,161,Action,12391761,126
+5074352,Dangal,2016,Not Rated,161,Biography,12391761,126
+5074352,Dangal,2016,Not Rated,161,Drama,12391761,126
+5074352,Dangal,2016,Not Rated,161,Sport,12391761,126
+993846,The Wolf of Wall Street,2013,R,180,Dark Comedy,116900694,127
+993846,The Wolf of Wall Street,2013,R,180,Docudrama,116900694,127
+993846,The Wolf of Wall Street,2013,R,180,Epic,116900694,127
+993846,The Wolf of Wall Street,2013,R,180,Raunchy Comedy,116900694,127
+993846,The Wolf of Wall Street,2013,R,180,Satire,116900694,127
+993846,The Wolf of Wall Street,2013,R,180,True Crime,116900694,127
+993846,The Wolf of Wall Street,2013,R,180,Biography,116900694,127
+993846,The Wolf of Wall Street,2013,R,180,Comedy,116900694,127
+993846,The Wolf of Wall Street,2013,R,180,Crime,116900694,127
+993846,The Wolf of Wall Street,2013,R,180,Drama,116900694,127
+6966692,Green Book,2018,PG-13,130,Docudrama,85080171,128
+6966692,Green Book,2018,PG-13,130,Period Drama,85080171,128
+6966692,Green Book,2018,PG-13,130,Road Trip,85080171,128
+6966692,Green Book,2018,PG-13,130,Biography,85080171,128
+6966692,Green Book,2018,PG-13,130,Comedy,85080171,128
+6966692,Green Book,2018,PG-13,130,Drama,85080171,128
+6966692,Green Book,2018,PG-13,130,Holiday,85080171,128
+6966692,Green Book,2018,PG-13,130,Music,85080171,128
+120382,The Truman Show,1998,PG,103,Dark Comedy,125618201,129
+120382,The Truman Show,1998,PG,103,High-Concept Comedy,125618201,129
+120382,The Truman Show,1998,PG,103,Psychological Drama,125618201,129
+120382,The Truman Show,1998,PG,103,Satire,125618201,129
+120382,The Truman Show,1998,PG,103,Showbiz Drama,125618201,129
+120382,The Truman Show,1998,PG,103,Comedy,125618201,129
+120382,The Truman Show,1998,PG,103,Drama,125618201,129
+8503618,Hamilton,2020,PG-13,160,Epic,15697148,130
+8503618,Hamilton,2020,PG-13,160,Historical Epic,15697148,130
+8503618,Hamilton,2020,PG-13,160,Biography,15697148,130
+8503618,Hamilton,2020,PG-13,160,Drama,15697148,130
+8503618,Hamilton,2020,PG-13,160,History,15697148,130
+8503618,Hamilton,2020,PG-13,160,Musical,15697148,130
+75314,Taxi Driver,1976,R,114,Psychological Drama,28262574,131
+75314,Taxi Driver,1976,R,114,Crime,28262574,131
+75314,Taxi Driver,1976,R,114,Drama,28262574,131
+372784,Batman Begins,2005,PG-13,140,Action Epic,206863479,132
+372784,Batman Begins,2005,PG-13,140,Epic,206863479,132
+372784,Batman Begins,2005,PG-13,140,Superhero,206863479,132
+372784,Batman Begins,2005,PG-13,140,Tragedy,206863479,132
+372784,Batman Begins,2005,PG-13,140,Action,206863479,132
+372784,Batman Begins,2005,PG-13,140,Crime,206863479,132
+372784,Batman Begins,2005,PG-13,140,Drama,206863479,132
+372784,Batman Begins,2005,PG-13,140,Thriller,206863479,132
+252488,Hababam Sinifi: Sinifta Kaldi,1975,,95,Satire,,133
+252488,Hababam Sinifi: Sinifta Kaldi,1975,,95,Comedy,,133
+59578,Per qualche dollaro in più,1965,R,132,One-Person Army Action,15000000,134
+59578,Per qualche dollaro in più,1965,R,132,Period Drama,15000000,134
+59578,Per qualche dollaro in più,1965,R,132,Quest,15000000,134
+59578,Per qualche dollaro in più,1965,R,132,Spaghetti Western,15000000,134
+59578,Per qualche dollaro in più,1965,R,132,Drama,15000000,134
+59578,Per qualche dollaro in più,1965,R,132,Western,15000000,134
+55031,Judgment at Nuremberg,1961,Approved,179,Legal Drama,,135
+55031,Judgment at Nuremberg,1961,Approved,179,Drama,,135
+55031,Judgment at Nuremberg,1961,Approved,179,History,,135
+55031,Judgment at Nuremberg,1961,Approved,179,War,,135
+1130884,Shutter Island,2010,R,138,Psychological Thriller,128012934,136
+1130884,Shutter Island,2010,R,138,Suspense Mystery,128012934,136
+1130884,Shutter Island,2010,R,138,Drama,128012934,136
+1130884,Shutter Island,2010,R,138,Mystery,128012934,136
+1130884,Shutter Island,2010,R,138,Thriller,128012934,136
+53291,Some Like It Hot,1959,Approved,121,Buddy Comedy,,137
+53291,Some Like It Hot,1959,Approved,121,Farce,,137
+53291,Some Like It Hot,1959,Approved,121,Romantic Comedy,,137
+53291,Some Like It Hot,1959,Approved,121,Satire,,137
+53291,Some Like It Hot,1959,Approved,121,Screwball Comedy,,137
+53291,Some Like It Hot,1959,Approved,121,Comedy,,137
+53291,Some Like It Hot,1959,Approved,121,Music,,137
+53291,Some Like It Hot,1959,Approved,121,Romance,,137
+107290,Jurassic Park,1993,PG-13,127,Dinosaur Adventure,407185075,138
+107290,Jurassic Park,1993,PG-13,127,Jungle Adventure,407185075,138
+107290,Jurassic Park,1993,PG-13,127,Action,407185075,138
+107290,Jurassic Park,1993,PG-13,127,Adventure,407185075,138
+107290,Jurassic Park,1993,PG-13,127,Sci-Fi,407185075,138
+107290,Jurassic Park,1993,PG-13,127,Thriller,407185075,138
+12349,The Kid,1921,Passed,68,Buddy Comedy,,139
+12349,The Kid,1921,Passed,68,Farce,,139
+12349,The Kid,1921,Passed,68,Slapstick,,139
+12349,The Kid,1921,Passed,68,Comedy,,139
+12349,The Kid,1921,Passed,68,Drama,,139
+12349,The Kid,1921,Passed,68,Family,,139
+10272386,The Father,2020,PG-13,97,Psychological Drama,2122771,140
+10272386,The Father,2020,PG-13,97,Drama,2122771,140
+10272386,The Father,2020,PG-13,97,Mystery,2122771,140
+469494,There Will Be Blood,2007,R,158,Epic,40222514,141
+469494,There Will Be Blood,2007,R,158,Period Drama,40222514,141
+469494,There Will Be Blood,2007,R,158,Psychological Drama,40222514,141
+469494,There Will Be Blood,2007,R,158,Tragedy,40222514,141
+469494,There Will Be Blood,2007,R,158,Drama,40222514,141
+42192,All About Eve,1950,Approved,138,Showbiz Drama,63463,142
+42192,All About Eve,1950,Approved,138,Drama,63463,142
+167404,The Sixth Sense,1999,PG-13,107,Psychological Drama,293506292,143
+167404,The Sixth Sense,1999,PG-13,107,Psychological Thriller,293506292,143
+167404,The Sixth Sense,1999,PG-13,107,Suspense Mystery,293506292,143
+167404,The Sixth Sense,1999,PG-13,107,Drama,293506292,143
+167404,The Sixth Sense,1999,PG-13,107,Mystery,293506292,143
+167404,The Sixth Sense,1999,PG-13,107,Thriller,293506292,143
+89881,Ran,1985,R,160,Epic,4314927,144
+89881,Ran,1985,R,160,Period Drama,4314927,144
+89881,Ran,1985,R,160,Samurai,4314927,144
+89881,Ran,1985,R,160,Tragedy,4314927,144
+89881,Ran,1985,R,160,War Epic,4314927,144
+89881,Ran,1985,R,160,Action,4314927,144
+89881,Ran,1985,R,160,Drama,4314927,144
+89881,Ran,1985,R,160,War,4314927,144
+112641,Casino,1995,R,178,Docudrama,42512375,145
+112641,Casino,1995,R,178,Epic,42512375,145
+112641,Casino,1995,R,178,Gangster,42512375,145
+112641,Casino,1995,R,178,True Crime,42512375,145
+112641,Casino,1995,R,178,Crime,42512375,145
+112641,Casino,1995,R,178,Drama,42512375,145
+1745960,Top Gun: Maverick,2022,PG-13,130,Action Epic,718732821,146
+1745960,Top Gun: Maverick,2022,PG-13,130,Epic,718732821,146
+1745960,Top Gun: Maverick,2022,PG-13,130,Action,718732821,146
+1745960,Top Gun: Maverick,2022,PG-13,130,Drama,718732821,146
+477348,No Country for Old Men,2007,R,122,Contemporary Western,74283625,147
+477348,No Country for Old Men,2007,R,122,Psychological Thriller,74283625,147
+477348,No Country for Old Men,2007,R,122,Serial Killer,74283625,147
+477348,No Country for Old Men,2007,R,122,Crime,74283625,147
+477348,No Country for Old Men,2007,R,122,Drama,74283625,147
+477348,No Country for Old Men,2007,R,122,Thriller,74283625,147
+84787,The Thing,1982,R,109,Alien Invasion,20063820,148
+84787,The Thing,1982,R,109,Body Horror,20063820,148
+84787,The Thing,1982,R,109,Monster Horror,20063820,148
+84787,The Thing,1982,R,109,Psychological Horror,20063820,148
+84787,The Thing,1982,R,109,Supernatural Horror,20063820,148
+84787,The Thing,1982,R,109,Suspense Mystery,20063820,148
+84787,The Thing,1982,R,109,Tragedy,20063820,148
+84787,The Thing,1982,R,109,Horror,20063820,148
+84787,The Thing,1982,R,109,Mystery,20063820,148
+84787,The Thing,1982,R,109,Sci-Fi,20063820,148
+105695,Unforgiven,1992,R,130,Period Drama,101167799,149
+105695,Unforgiven,1992,R,130,Tragedy,101167799,149
+105695,Unforgiven,1992,R,130,Drama,101167799,149
+105695,Unforgiven,1992,R,130,Western,101167799,149
+457430,El laberinto del fauno,2006,R,118,Coming-of-Age,37646380,150
+457430,El laberinto del fauno,2006,R,118,Dark Fantasy,37646380,150
+457430,El laberinto del fauno,2006,R,118,Fairy Tale,37646380,150
+457430,El laberinto del fauno,2006,R,118,Period Drama,37646380,150
+457430,El laberinto del fauno,2006,R,118,Supernatural Fantasy,37646380,150
+457430,El laberinto del fauno,2006,R,118,Teen Fantasy,37646380,150
+457430,El laberinto del fauno,2006,R,118,Tragedy,37646380,150
+457430,El laberinto del fauno,2006,R,118,Drama,37646380,150
+457430,El laberinto del fauno,2006,R,118,Fantasy,37646380,150
+457430,El laberinto del fauno,2006,R,118,War,37646380,150
+266697,Kill Bill: Vol. 1,2003,R,111,Kung Fu,70099045,151
+266697,Kill Bill: Vol. 1,2003,R,111,Martial Arts,70099045,151
+266697,Kill Bill: Vol. 1,2003,R,111,One-Person Army Action,70099045,151
+266697,Kill Bill: Vol. 1,2003,R,111,Action,70099045,151
+266697,Kill Bill: Vol. 1,2003,R,111,Crime,70099045,151
+266697,Kill Bill: Vol. 1,2003,R,111,Thriller,70099045,151
+268978,A Beautiful Mind,2001,PG-13,135,Docudrama,170742341,152
+268978,A Beautiful Mind,2001,PG-13,135,Period Drama,170742341,152
+268978,A Beautiful Mind,2001,PG-13,135,Psychological Drama,170742341,152
+268978,A Beautiful Mind,2001,PG-13,135,Biography,170742341,152
+268978,A Beautiful Mind,2001,PG-13,135,Drama,170742341,152
+268978,A Beautiful Mind,2001,PG-13,135,Mystery,170742341,152
+1392214,Prisoners,2013,R,153,Psychological Thriller,61002302,153
+1392214,Prisoners,2013,R,153,Suspense Mystery,61002302,153
+1392214,Prisoners,2013,R,153,Crime,61002302,153
+1392214,Prisoners,2013,R,153,Drama,61002302,153
+1392214,Prisoners,2013,R,153,Mystery,61002302,153
+1392214,Prisoners,2013,R,153,Thriller,61002302,153
+40897,The Treasure of the Sierra Madre,1948,Approved,126,Tragedy,5014000,154
+40897,The Treasure of the Sierra Madre,1948,Approved,126,Adventure,5014000,154
+40897,The Treasure of the Sierra Madre,1948,Approved,126,Drama,5014000,154
+40897,The Treasure of the Sierra Madre,1948,Approved,126,Western,5014000,154
+266543,Finding Nemo,2003,G,100,Animal Adventure,380843261,155
+266543,Finding Nemo,2003,G,100,Buddy Comedy,380843261,155
+266543,Finding Nemo,2003,G,100,Computer Animation,380843261,155
+266543,Finding Nemo,2003,G,100,Quest,380843261,155
+266543,Finding Nemo,2003,G,100,Sea Adventure,380843261,155
+266543,Finding Nemo,2003,G,100,Adventure,380843261,155
+266543,Finding Nemo,2003,G,100,Animation,380843261,155
+266543,Finding Nemo,2003,G,100,Comedy,380843261,155
+266543,Finding Nemo,2003,G,100,Family,380843261,155
+347149,Hauru no ugoku shiro,2004,PG,119,Adventure Epic,9173958,156
+347149,Hauru no ugoku shiro,2004,PG,119,Anime,9173958,156
+347149,Hauru no ugoku shiro,2004,PG,119,Hand-Drawn Animation,9173958,156
+347149,Hauru no ugoku shiro,2004,PG,119,Supernatural Fantasy,9173958,156
+347149,Hauru no ugoku shiro,2004,PG,119,Adventure,9173958,156
+347149,Hauru no ugoku shiro,2004,PG,119,Animation,9173958,156
+347149,Hauru no ugoku shiro,2004,PG,119,Family,9173958,156
+347149,Hauru no ugoku shiro,2004,PG,119,Fantasy,9173958,156
+55630,Yôjinbô,1961,Not Rated,110,One-Person Army Action,46808,157
+55630,Yôjinbô,1961,Not Rated,110,Period Drama,46808,157
+55630,Yôjinbô,1961,Not Rated,110,Samurai,46808,157
+55630,Yôjinbô,1961,Not Rated,110,Action,46808,157
+55630,Yôjinbô,1961,Not Rated,110,Drama,46808,157
+55630,Yôjinbô,1961,Not Rated,110,Thriller,46808,157
+346336,La meglio gioventù,2003,R,374,Epic,274024,158
+346336,La meglio gioventù,2003,R,374,Drama,274024,158
+346336,La meglio gioventù,2003,R,374,Romance,274024,158
+57115,The Great Escape,1963,Approved,172,Epic,,159
+57115,The Great Escape,1963,Approved,172,Period Drama,,159
+57115,The Great Escape,1963,Approved,172,Prison Drama,,159
+57115,The Great Escape,1963,Approved,172,War Epic,,159
+57115,The Great Escape,1963,Approved,172,Adventure,,159
+57115,The Great Escape,1963,Approved,172,Drama,,159
+57115,The Great Escape,1963,Approved,172,Thriller,,159
+57115,The Great Escape,1963,Approved,172,War,,159
+71853,Monty Python and the Holy Grail,1975,PG,91,Farce,2562392,160
+71853,Monty Python and the Holy Grail,1975,PG,91,Parody,2562392,160
+71853,Monty Python and the Holy Grail,1975,PG,91,Quest,2562392,160
+71853,Monty Python and the Holy Grail,1975,PG,91,Satire,2562392,160
+71853,Monty Python and the Holy Grail,1975,PG,91,Sketch Comedy,2562392,160
+71853,Monty Python and the Holy Grail,1975,PG,91,Slapstick,2562392,160
+71853,Monty Python and the Holy Grail,1975,PG,91,Sword & Sorcery,2562392,160
+71853,Monty Python and the Holy Grail,1975,PG,91,Adventure,2562392,160
+71853,Monty Python and the Holy Grail,1975,PG,91,Comedy,2562392,160
+71853,Monty Python and the Holy Grail,1975,PG,91,Fantasy,2562392,160
+80678,The Elephant Man,1980,PG,124,Docudrama,26010864,161
+80678,The Elephant Man,1980,PG,124,Period Drama,26010864,161
+80678,The Elephant Man,1980,PG,124,Tragedy,26010864,161
+80678,The Elephant Man,1980,PG,124,Biography,26010864,161
+80678,The Elephant Man,1980,PG,124,Drama,26010864,161
+4729430,Klaus,2019,PG,96,Hand-Drawn Animation,,162
+4729430,Klaus,2019,PG,96,Holiday Animation,,162
+4729430,Klaus,2019,PG,96,Holiday Comedy,,162
+4729430,Klaus,2019,PG,96,Holiday Family,,162
+4729430,Klaus,2019,PG,96,Adventure,,162
+4729430,Klaus,2019,PG,96,Animation,,162
+4729430,Klaus,2019,PG,96,Comedy,,162
+4729430,Klaus,2019,PG,96,Family,,162
+4729430,Klaus,2019,PG,96,Fantasy,,162
+4729430,Klaus,2019,PG,96,Holiday,,162
+46912,Dial M for Murder,1954,PG,105,Crime,24845,163
+46912,Dial M for Murder,1954,PG,105,Drama,24845,163
+46912,Dial M for Murder,1954,PG,105,Mystery,24845,163
+46912,Dial M for Murder,1954,PG,105,Thriller,24845,163
+31381,Gone with the Wind,1939,G,238,Costume Drama,200882193,164
+31381,Gone with the Wind,1939,G,238,Epic,200882193,164
+31381,Gone with the Wind,1939,G,238,Period Drama,200882193,164
+31381,Gone with the Wind,1939,G,238,Romantic Epic,200882193,164
+31381,Gone with the Wind,1939,G,238,Tragic Romance,200882193,164
+31381,Gone with the Wind,1939,G,238,War Epic,200882193,164
+31381,Gone with the Wind,1939,G,238,Drama,200882193,164
+31381,Gone with the Wind,1939,G,238,Romance,200882193,164
+31381,Gone with the Wind,1939,G,238,War,200882193,164
+1305806,El secreto de sus ojos,2009,R,129,Dark Romance,6391436,165
+1305806,El secreto de sus ojos,2009,R,129,Erotic Thriller,6391436,165
+1305806,El secreto de sus ojos,2009,R,129,Legal Thriller,6391436,165
+1305806,El secreto de sus ojos,2009,R,129,Period Drama,6391436,165
+1305806,El secreto de sus ojos,2009,R,129,Psychological Drama,6391436,165
+1305806,El secreto de sus ojos,2009,R,129,Psychological Thriller,6391436,165
+1305806,El secreto de sus ojos,2009,R,129,Suspense Mystery,6391436,165
+1305806,El secreto de sus ojos,2009,R,129,Tragedy,6391436,165
+1305806,El secreto de sus ojos,2009,R,129,Whodunnit,6391436,165
+1305806,El secreto de sus ojos,2009,R,129,Drama,6391436,165
+71315,Chinatown,1974,R,130,Conspiracy Thriller,29200000,166
+71315,Chinatown,1974,R,130,Hard-boiled Detective,29200000,166
+71315,Chinatown,1974,R,130,Period Drama,29200000,166
+71315,Chinatown,1974,R,130,Psychological Drama,29200000,166
+71315,Chinatown,1974,R,130,Psychological Thriller,29200000,166
+71315,Chinatown,1974,R,130,Tragedy,29200000,166
+71315,Chinatown,1974,R,130,Drama,29200000,166
+71315,Chinatown,1974,R,130,Mystery,29200000,166
+71315,Chinatown,1974,R,130,Thriller,29200000,166
+120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,Dark Comedy,3753929,167
+120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,Farce,3753929,167
+120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,Gangster,3753929,167
+120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,Heist,3753929,167
+120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,Comedy,3753929,167
+120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,Crime,3753929,167
+434409,V for Vendetta,2005,R,132,Action Epic,70511035,168
+434409,V for Vendetta,2005,R,132,Dystopian Sci-Fi,70511035,168
+434409,V for Vendetta,2005,R,132,Epic,70511035,168
+434409,V for Vendetta,2005,R,132,Political Drama,70511035,168
+434409,V for Vendetta,2005,R,132,Political Thriller,70511035,168
+434409,V for Vendetta,2005,R,132,Superhero,70511035,168
+434409,V for Vendetta,2005,R,132,Action,70511035,168
+434409,V for Vendetta,2005,R,132,Drama,70511035,168
+434409,V for Vendetta,2005,R,132,Sci-Fi,70511035,168
+434409,V for Vendetta,2005,R,132,Thriller,70511035,168
+42876,Rashômon,1950,Not Rated,88,Period Drama,46808,169
+42876,Rashômon,1950,Not Rated,88,Crime,46808,169
+42876,Rashômon,1950,Not Rated,88,Drama,46808,169
+42876,Rashômon,1950,Not Rated,88,Mystery,46808,169
+2096673,Inside Out,2015,PG,95,Coming-of-Age,356461711,170
+2096673,Inside Out,2015,PG,95,Computer Animation,356461711,170
+2096673,Inside Out,2015,PG,95,Farce,356461711,170
+2096673,Inside Out,2015,PG,95,High-Concept Comedy,356461711,170
+2096673,Inside Out,2015,PG,95,Psychological Drama,356461711,170
+2096673,Inside Out,2015,PG,95,Adventure,356461711,170
+2096673,Inside Out,2015,PG,95,Animation,356461711,170
+2096673,Inside Out,2015,PG,95,Comedy,356461711,170
+2096673,Inside Out,2015,PG,95,Drama,356461711,170
+2096673,Inside Out,2015,PG,95,Family,356461711,170
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,Dark Comedy,54513740,171
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,Satire,54513740,171
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,Comedy,54513740,171
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,Crime,54513740,171
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,Drama,54513740,171
+264464,Catch Me If You Can,2002,PG-13,141,Caper,164615351,172
+264464,Catch Me If You Can,2002,PG-13,141,Coming-of-Age,164615351,172
+264464,Catch Me If You Can,2002,PG-13,141,Docudrama,164615351,172
+264464,Catch Me If You Can,2002,PG-13,141,Globetrotting Adventure,164615351,172
+264464,Catch Me If You Can,2002,PG-13,141,Period Drama,164615351,172
+264464,Catch Me If You Can,2002,PG-13,141,True Crime,164615351,172
+264464,Catch Me If You Can,2002,PG-13,141,Biography,164615351,172
+264464,Catch Me If You Can,2002,PG-13,141,Crime,164615351,172
+264464,Catch Me If You Can,2002,PG-13,141,Drama,164615351,172
+117951,Trainspotting,1996,R,93,Dark Comedy,16491080,173
+117951,Trainspotting,1996,R,93,Drug Crime,16491080,173
+117951,Trainspotting,1996,R,93,Psychological Drama,16491080,173
+117951,Trainspotting,1996,R,93,Crime,16491080,173
+117951,Trainspotting,1996,R,93,Drama,16491080,173
+50212,The Bridge on the River Kwai,1957,PG,161,Jungle Adventure,27200000,174
+50212,The Bridge on the River Kwai,1957,PG,161,War Epic,27200000,174
+50212,The Bridge on the River Kwai,1957,PG,161,Adventure,27200000,174
+50212,The Bridge on the River Kwai,1957,PG,161,Drama,27200000,174
+50212,The Bridge on the River Kwai,1957,PG,161,War,27200000,174
+81398,Raging Bull,1980,R,129,Boxing,23383987,175
+81398,Raging Bull,1980,R,129,Docudrama,23383987,175
+81398,Raging Bull,1980,R,129,Period Drama,23383987,175
+81398,Raging Bull,1980,R,129,Biography,23383987,175
+81398,Raging Bull,1980,R,129,Drama,23383987,175
+81398,Raging Bull,1980,R,129,Sport,23383987,175
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Action Epic,381447587,176
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Dark Fantasy,381447587,176
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Fantasy Epic,381447587,176
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Teen Adventure,381447587,176
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Teen Fantasy,381447587,176
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Tragedy,381447587,176
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Adventure,381447587,176
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Family,381447587,176
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Fantasy,381447587,176
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,Mystery,381447587,176
+116282,Fargo,1996,R,98,Cop Drama,24611975,177
+116282,Fargo,1996,R,98,Dark Comedy,24611975,177
+116282,Fargo,1996,R,98,Police Procedural,24611975,177
+116282,Fargo,1996,R,98,Tragedy,24611975,177
+116282,Fargo,1996,R,98,Crime,24611975,177
+116282,Fargo,1996,R,98,Drama,24611975,177
+116282,Fargo,1996,R,98,Thriller,24611975,177
+29623480,The Wild Robot,2024,PG,102,Animal Adventure,143901945,178
+29623480,The Wild Robot,2024,PG,102,Artificial Intelligence,143901945,178
+29623480,The Wild Robot,2024,PG,102,Computer Animation,143901945,178
+29623480,The Wild Robot,2024,PG,102,Survival,143901945,178
+29623480,The Wild Robot,2024,PG,102,Adventure,143901945,178
+29623480,The Wild Robot,2024,PG,102,Animation,143901945,178
+29623480,The Wild Robot,2024,PG,102,Family,143901945,178
+29623480,The Wild Robot,2024,PG,102,Sci-Fi,143901945,178
+1291584,Warrior,2011,PG-13,140,Boxing,13657115,179
+1291584,Warrior,2011,PG-13,140,Action,13657115,179
+1291584,Warrior,2011,PG-13,140,Drama,13657115,179
+1291584,Warrior,2011,PG-13,140,Sport,13657115,179
+97165,Dead Poets Society,1989,PG,128,Coming-of-Age,95860116,180
+97165,Dead Poets Society,1989,PG,128,Teen Drama,95860116,180
+97165,Dead Poets Society,1989,PG,128,Comedy,95860116,180
+97165,Dead Poets Society,1989,PG,128,Drama,95860116,180
+405159,Million Dollar Baby,2004,PG-13,132,Boxing,100492203,181
+405159,Million Dollar Baby,2004,PG-13,132,Psychological Drama,100492203,181
+405159,Million Dollar Baby,2004,PG-13,132,Tragedy,100492203,181
+405159,Million Dollar Baby,2004,PG-13,132,Drama,100492203,181
+405159,Million Dollar Baby,2004,PG-13,132,Sport,100492203,181
+52618,Ben-Hur,1959,G,212,Adventure Epic,74432704,182
+52618,Ben-Hur,1959,G,212,Epic,74432704,182
+52618,Ben-Hur,1959,G,212,Period Drama,74432704,182
+52618,Ben-Hur,1959,G,212,Sword & Sandal,74432704,182
+52618,Ben-Hur,1959,G,212,Adventure,74432704,182
+52618,Ben-Hur,1959,G,212,Drama,74432704,182
+1205489,Gran Torino,2008,R,116,Dark Comedy,148095302,183
+1205489,Gran Torino,2008,R,116,Psychological Drama,148095302,183
+1205489,Gran Torino,2008,R,116,Drama,148095302,183
+1392190,Mad Max: Fury Road,2015,R,120,Action Epic,154280290,184
+1392190,Mad Max: Fury Road,2015,R,120,Adventure Epic,154280290,184
+1392190,Mad Max: Fury Road,2015,R,120,Car Action,154280290,184
+1392190,Mad Max: Fury Road,2015,R,120,Desert Adventure,154280290,184
+1392190,Mad Max: Fury Road,2015,R,120,Dystopian Sci-Fi,154280290,184
+1392190,Mad Max: Fury Road,2015,R,120,Epic,154280290,184
+1392190,Mad Max: Fury Road,2015,R,120,Quest,154280290,184
+1392190,Mad Max: Fury Road,2015,R,120,Road Trip,154280290,184
+1392190,Mad Max: Fury Road,2015,R,120,Action,154280290,184
+1392190,Mad Max: Fury Road,2015,R,120,Adventure,154280290,184
+72684,Barry Lyndon,1975,PG,185,Adventure Epic,,185
+72684,Barry Lyndon,1975,PG,185,Costume Drama,,185
+72684,Barry Lyndon,1975,PG,185,Dark Comedy,,185
+72684,Barry Lyndon,1975,PG,185,Epic,,185
+72684,Barry Lyndon,1975,PG,185,Globetrotting Adventure,,185
+72684,Barry Lyndon,1975,PG,185,Period Drama,,185
+72684,Barry Lyndon,1975,PG,185,Political Drama,,185
+72684,Barry Lyndon,1975,PG,185,Psychological Drama,,185
+72684,Barry Lyndon,1975,PG,185,Tragedy,,185
+72684,Barry Lyndon,1975,PG,185,Adventure,,185
+96283,Tonari no Totoro,1988,G,86,Anime,2250213,186
+96283,Tonari no Totoro,1988,G,86,Fairy Tale,2250213,186
+96283,Tonari no Totoro,1988,G,86,Hand-Drawn Animation,2250213,186
+96283,Tonari no Totoro,1988,G,86,Iyashikei,2250213,186
+96283,Tonari no Totoro,1988,G,86,Adventure,2250213,186
+96283,Tonari no Totoro,1988,G,86,Animation,2250213,186
+96283,Tonari no Totoro,1988,G,86,Comedy,2250213,186
+96283,Tonari no Totoro,1988,G,86,Family,2250213,186
+96283,Tonari no Totoro,1988,G,86,Fantasy,2250213,186
+118849,Bacheha-ye aseman,1997,PG,89,Drama,933933,187
+118849,Bacheha-ye aseman,1997,PG,89,Family,933933,187
+118849,Bacheha-ye aseman,1997,PG,89,Sport,933933,187
+2119532,Hacksaw Ridge,2016,R,139,Docudrama,67209615,188
+2119532,Hacksaw Ridge,2016,R,139,Epic,67209615,188
+2119532,Hacksaw Ridge,2016,R,139,Period Drama,67209615,188
+2119532,Hacksaw Ridge,2016,R,139,War Epic,67209615,188
+2119532,Hacksaw Ridge,2016,R,139,Biography,67209615,188
+2119532,Hacksaw Ridge,2016,R,139,Drama,67209615,188
+2119532,Hacksaw Ridge,2016,R,139,History,67209615,188
+2119532,Hacksaw Ridge,2016,R,139,War,67209615,188
+2278388,The Grand Budapest Hotel,2014,R,99,Quirky Comedy,59301324,189
+2278388,The Grand Budapest Hotel,2014,R,99,Comedy,59301324,189
+2278388,The Grand Budapest Hotel,2014,R,99,Drama,59301324,189
+2024544,12 Years a Slave,2013,R,134,Costume Drama,56671993,190
+2024544,12 Years a Slave,2013,R,134,Docudrama,56671993,190
+2024544,12 Years a Slave,2013,R,134,Epic,56671993,190
+2024544,12 Years a Slave,2013,R,134,Period Drama,56671993,190
+2024544,12 Years a Slave,2013,R,134,Psychological Drama,56671993,190
+2024544,12 Years a Slave,2013,R,134,Tragedy,56671993,190
+2024544,12 Years a Slave,2013,R,134,Biography,56671993,190
+2024544,12 Years a Slave,2013,R,134,Drama,56671993,190
+2024544,12 Years a Slave,2013,R,134,History,56671993,190
+112471,Before Sunrise,1995,R,101,Comedy,5535405,191
+112471,Before Sunrise,1995,R,101,Drama,5535405,191
+112471,Before Sunrise,1995,R,101,Romance,5535405,191
+10872600,Spider-Man: No Way Home,2021,PG-13,148,Superhero,814866759,192
+10872600,Spider-Man: No Way Home,2021,PG-13,148,Supernatural Fantasy,814866759,192
+10872600,Spider-Man: No Way Home,2021,PG-13,148,Urban Adventure,814866759,192
+10872600,Spider-Man: No Way Home,2021,PG-13,148,Action,814866759,192
+10872600,Spider-Man: No Way Home,2021,PG-13,148,Adventure,814866759,192
+10872600,Spider-Man: No Way Home,2021,PG-13,148,Fantasy,814866759,192
+10872600,Spider-Man: No Way Home,2021,PG-13,148,Sci-Fi,814866759,192
+83658,Blade Runner,1982,R,117,Artificial Intelligence,32914489,193
+83658,Blade Runner,1982,R,117,Cyber Thriller,32914489,193
+83658,Blade Runner,1982,R,117,Cyberpunk,32914489,193
+83658,Blade Runner,1982,R,117,Dystopian Sci-Fi,32914489,193
+83658,Blade Runner,1982,R,117,Action,32914489,193
+83658,Blade Runner,1982,R,117,Drama,32914489,193
+83658,Blade Runner,1982,R,117,Sci-Fi,32914489,193
+83658,Blade Runner,1982,R,117,Thriller,32914489,193
+353969,Salinui chueok,2003,Not Rated,132,Dark Comedy,15357,194
+353969,Salinui chueok,2003,Not Rated,132,Police Procedural,15357,194
+353969,Salinui chueok,2003,Not Rated,132,Serial Killer,15357,194
+353969,Salinui chueok,2003,Not Rated,132,True Crime,15357,194
+353969,Salinui chueok,2003,Not Rated,132,Crime,15357,194
+353969,Salinui chueok,2003,Not Rated,132,Drama,15357,194
+353969,Salinui chueok,2003,Not Rated,132,Mystery,15357,194
+353969,Salinui chueok,2003,Not Rated,132,Thriller,15357,194
+382932,Ratatouille,2007,G,111,Animal Adventure,206445654,195
+382932,Ratatouille,2007,G,111,Buddy Comedy,206445654,195
+382932,Ratatouille,2007,G,111,Computer Animation,206445654,195
+382932,Ratatouille,2007,G,111,Satire,206445654,195
+382932,Ratatouille,2007,G,111,Adventure,206445654,195
+382932,Ratatouille,2007,G,111,Animation,206445654,195
+382932,Ratatouille,2007,G,111,Comedy,206445654,195
+382932,Ratatouille,2007,G,111,Family,206445654,195
+382932,Ratatouille,2007,G,111,Fantasy,206445654,195
+2267998,Gone Girl,2014,R,149,Erotic Thriller,167767189,196
+2267998,Gone Girl,2014,R,149,Psychological Drama,167767189,196
+2267998,Gone Girl,2014,R,149,Psychological Thriller,167767189,196
+2267998,Gone Girl,2014,R,149,Suspense Mystery,167767189,196
+2267998,Gone Girl,2014,R,149,Tragedy,167767189,196
+2267998,Gone Girl,2014,R,149,Whodunnit,167767189,196
+2267998,Gone Girl,2014,R,149,Drama,167767189,196
+2267998,Gone Girl,2014,R,149,Mystery,167767189,196
+2267998,Gone Girl,2014,R,149,Thriller,167767189,196
+892769,How to Train Your Dragon,2010,PG,98,Action Epic,217581231,197
+892769,How to Train Your Dragon,2010,PG,98,Computer Animation,217581231,197
+892769,How to Train Your Dragon,2010,PG,98,Sword & Sorcery,217581231,197
+892769,How to Train Your Dragon,2010,PG,98,Teen Adventure,217581231,197
+892769,How to Train Your Dragon,2010,PG,98,Teen Fantasy,217581231,197
+892769,How to Train Your Dragon,2010,PG,98,Action,217581231,197
+892769,How to Train Your Dragon,2010,PG,98,Adventure,217581231,197
+892769,How to Train Your Dragon,2010,PG,98,Animation,217581231,197
+892769,How to Train Your Dragon,2010,PG,98,Family,217581231,197
+892769,How to Train Your Dragon,2010,PG,98,Fantasy,217581231,197
+198781,"Monsters, Inc.",2001,G,92,Buddy Comedy,290642256,198
+198781,"Monsters, Inc.",2001,G,92,Computer Animation,290642256,198
+198781,"Monsters, Inc.",2001,G,92,Farce,290642256,198
+198781,"Monsters, Inc.",2001,G,92,Satire,290642256,198
+198781,"Monsters, Inc.",2001,G,92,Supernatural Fantasy,290642256,198
+198781,"Monsters, Inc.",2001,G,92,Urban Adventure,290642256,198
+198781,"Monsters, Inc.",2001,G,92,Adventure,290642256,198
+198781,"Monsters, Inc.",2001,G,92,Animation,290642256,198
+198781,"Monsters, Inc.",2001,G,92,Comedy,290642256,198
+198781,"Monsters, Inc.",2001,G,92,Family,290642256,198
+73195,Jaws,1975,PG,124,Monster Horror,280080815,199
+73195,Jaws,1975,PG,124,Sea Adventure,280080815,199
+73195,Jaws,1975,PG,124,Survival,280080815,199
+73195,Jaws,1975,PG,124,Adventure,280080815,199
+73195,Jaws,1975,PG,124,Holiday,280080815,199
+73195,Jaws,1975,PG,124,Horror,280080815,199
+73195,Jaws,1975,PG,124,Thriller,280080815,199
+107207,In the Name of the Father,1993,R,133,Docudrama,25096862,200
+107207,In the Name of the Father,1993,R,133,Legal Drama,25096862,200
+107207,In the Name of the Father,1993,R,133,Period Drama,25096862,200
+107207,In the Name of the Father,1993,R,133,Prison Drama,25096862,200
+107207,In the Name of the Father,1993,R,133,Tragedy,25096862,200
+107207,In the Name of the Father,1993,R,133,True Crime,25096862,200
+107207,In the Name of the Father,1993,R,133,Biography,25096862,200
+107207,In the Name of the Father,1993,R,133,Crime,25096862,200
+107207,In the Name of the Father,1993,R,133,Drama,25096862,200
+3011894,Relatos salvajes,2014,R,122,Dark Comedy,3106530,201
+3011894,Relatos salvajes,2014,R,122,Comedy,3106530,201
+3011894,Relatos salvajes,2014,R,122,Drama,3106530,201
+3011894,Relatos salvajes,2014,R,122,Thriller,3106530,201
+15864,The Gold Rush,1925,Approved,95,Farce,,202
+15864,The Gold Rush,1925,Approved,95,Feel-Good Romance,,202
+15864,The Gold Rush,1925,Approved,95,Romantic Comedy,,202
+15864,The Gold Rush,1925,Approved,95,Satire,,202
+15864,The Gold Rush,1925,Approved,95,Slapstick,,202
+15864,The Gold Rush,1925,Approved,95,Adventure,,202
+15864,The Gold Rush,1925,Approved,95,Comedy,,202
+15864,The Gold Rush,1925,Approved,95,Drama,,202
+15864,The Gold Rush,1925,Approved,95,Romance,,202
+15864,The Gold Rush,1925,Approved,95,Western,,202
+1950186,Ford v Ferrari,2019,PG-13,152,Car Action,117624357,203
+1950186,Ford v Ferrari,2019,PG-13,152,Docudrama,117624357,203
+1950186,Ford v Ferrari,2019,PG-13,152,Motorsport,117624357,203
+1950186,Ford v Ferrari,2019,PG-13,152,Period Drama,117624357,203
+1950186,Ford v Ferrari,2019,PG-13,152,Action,117624357,203
+1950186,Ford v Ferrari,2019,PG-13,152,Biography,117624357,203
+1950186,Ford v Ferrari,2019,PG-13,152,Drama,117624357,203
+1950186,Ford v Ferrari,2019,PG-13,152,Sport,117624357,203
+15324,Sherlock Jr.,1924,Passed,45,Bumbling Detective,,204
+15324,Sherlock Jr.,1924,Passed,45,Farce,,204
+15324,Sherlock Jr.,1924,Passed,45,Feel-Good Romance,,204
+15324,Sherlock Jr.,1924,Passed,45,Romantic Comedy,,204
+15324,Sherlock Jr.,1924,Passed,45,Slapstick,,204
+15324,Sherlock Jr.,1924,Passed,45,Action,,204
+15324,Sherlock Jr.,1924,Passed,45,Comedy,,204
+15324,Sherlock Jr.,1924,Passed,45,Romance,,204
+978762,Mary and Max.,2009,Not Rated,92,Adult Animation,,205
+978762,Mary and Max.,2009,Not Rated,92,Coming-of-Age,,205
+978762,Mary and Max.,2009,Not Rated,92,Dark Comedy,,205
+978762,Mary and Max.,2009,Not Rated,92,Psychological Drama,,205
+978762,Mary and Max.,2009,Not Rated,92,Stop Motion Animation,,205
+978762,Mary and Max.,2009,Not Rated,92,Animation,,205
+978762,Mary and Max.,2009,Not Rated,92,Comedy,,205
+978762,Mary and Max.,2009,Not Rated,92,Drama,,205
+77416,The Deer Hunter,1978,R,183,Epic,48979328,206
+77416,The Deer Hunter,1978,R,183,War Epic,48979328,206
+77416,The Deer Hunter,1978,R,183,Drama,48979328,206
+77416,The Deer Hunter,1978,R,183,War,48979328,206
+17925,The General,1926,Passed,78,Farce,,207
+17925,The General,1926,Passed,78,Slapstick,,207
+17925,The General,1926,Passed,78,Action,,207
+17925,The General,1926,Passed,78,Adventure,,207
+17925,The General,1926,Passed,78,Comedy,,207
+17925,The General,1926,Passed,78,Drama,,207
+17925,The General,1926,Passed,78,War,,207
+46268,Le salaire de la peur,1953,Not Rated,156,Psychological Drama,21228,208
+46268,Le salaire de la peur,1953,Not Rated,156,Survival,21228,208
+46268,Le salaire de la peur,1953,Not Rated,156,Adventure,21228,208
+46268,Le salaire de la peur,1953,Not Rated,156,Drama,21228,208
+46268,Le salaire de la peur,1953,Not Rated,156,Thriller,21228,208
+31679,Mr. Smith Goes to Washington,1939,Approved,129,Political Drama,144738,209
+31679,Mr. Smith Goes to Washington,1939,Approved,129,Comedy,144738,209
+31679,Mr. Smith Goes to Washington,1939,Approved,129,Drama,144738,209
+3315342,Logan,2017,R,137,Dystopian Sci-Fi,226277068,210
+3315342,Logan,2017,R,137,Road Trip,226277068,210
+3315342,Logan,2017,R,137,Superhero,226277068,210
+3315342,Logan,2017,R,137,Action,226277068,210
+3315342,Logan,2017,R,137,Drama,226277068,210
+3315342,Logan,2017,R,137,Sci-Fi,226277068,210
+3315342,Logan,2017,R,137,Thriller,226277068,210
+47296,On the Waterfront,1954,Approved,108,Legal Drama,,211
+47296,On the Waterfront,1954,Approved,108,Legal Thriller,,211
+47296,On the Waterfront,1954,Approved,108,Tragedy,,211
+47296,On the Waterfront,1954,Approved,108,Crime,,211
+47296,On the Waterfront,1954,Approved,108,Drama,,211
+47296,On the Waterfront,1954,Approved,108,Thriller,,211
+75148,Rocky,1976,PG,120,Boxing,117235147,212
+75148,Rocky,1976,PG,120,Drama,117235147,212
+75148,Rocky,1976,PG,120,Sport,117235147,212
+50986,Smultronstället,1957,Not Rated,92,Psychological Drama,,213
+50986,Smultronstället,1957,Not Rated,92,Drama,,213
+50986,Smultronstället,1957,Not Rated,92,Romance,,213
+46438,Tôkyô monogatari,1953,Not Rated,137,Psychological Drama,,214
+46438,Tôkyô monogatari,1953,Not Rated,137,Drama,,214
+41959,The Third Man,1949,Approved,104,Film Noir,1067364,215
+41959,The Third Man,1949,Approved,104,Hard-boiled Detective,1067364,215
+41959,The Third Man,1949,Approved,104,Spy,1067364,215
+41959,The Third Man,1949,Approved,104,Whodunnit,1067364,215
+41959,The Third Man,1949,Approved,104,Drama,1067364,215
+41959,The Third Man,1949,Approved,104,Mystery,1067364,215
+41959,The Third Man,1949,Approved,104,Thriller,1067364,215
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Adult Animation,84792742,216
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Anime,84792742,216
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Dark Fantasy,84792742,216
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Hand-Drawn Animation,84792742,216
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Shōnen,84792742,216
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Supernatural Fantasy,84792742,216
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Sword & Sorcery,84792742,216
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Action,84792742,216
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Adventure,84792742,216
+32820897,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,R,155,Animation,84792742,216
+1895587,Spotlight,2015,R,129,Docudrama,45055776,217
+1895587,Spotlight,2015,R,129,Legal Drama,45055776,217
+1895587,Spotlight,2015,R,129,Period Drama,45055776,217
+1895587,Spotlight,2015,R,129,True Crime,45055776,217
+1895587,Spotlight,2015,R,129,Workplace Drama,45055776,217
+1895587,Spotlight,2015,R,129,Biography,45055776,217
+1895587,Spotlight,2015,R,129,Crime,45055776,217
+1895587,Spotlight,2015,R,129,Drama,45055776,217
+26548265,Maharaja,2024,,141,One-Person Army Action,,218
+26548265,Maharaja,2024,,141,Action,,218
+26548265,Maharaja,2024,,141,Crime,,218
+26548265,Maharaja,2024,,141,Drama,,218
+26548265,Maharaja,2024,,141,Thriller,,218
+325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,Sea Adventure,305413918,219
+325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,Supernatural Fantasy,305413918,219
+325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,Swashbuckler,305413918,219
+325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,Sword & Sandal,305413918,219
+325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,Action,305413918,219
+325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,Adventure,305413918,219
+325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,Fantasy,305413918,219
+88247,The Terminator,1984,R,107,Artificial Intelligence,38371200,220
+88247,The Terminator,1984,R,107,Cyberpunk,38371200,220
+88247,The Terminator,1984,R,107,Dystopian Sci-Fi,38371200,220
+88247,The Terminator,1984,R,107,Time Travel,38371200,220
+88247,The Terminator,1984,R,107,Urban Adventure,38371200,220
+88247,The Terminator,1984,R,107,Action,38371200,220
+88247,The Terminator,1984,R,107,Adventure,38371200,220
+88247,The Terminator,1984,R,107,Sci-Fi,38371200,220
+113247,La haine,1995,Not Rated,98,Gangster,280859,221
+113247,La haine,1995,Not Rated,98,Psychological Drama,280859,221
+113247,La haine,1995,Not Rated,98,Crime,280859,221
+113247,La haine,1995,Not Rated,98,Drama,280859,221
+118715,The Big Lebowski,1998,R,117,Buddy Comedy,19488923,222
+118715,The Big Lebowski,1998,R,117,Drug Crime,19488923,222
+118715,The Big Lebowski,1998,R,117,Satire,19488923,222
+118715,The Big Lebowski,1998,R,117,Stoner Comedy,19488923,222
+118715,The Big Lebowski,1998,R,117,Comedy,19488923,222
+118715,The Big Lebowski,1998,R,117,Crime,19488923,222
+15097216,Jai Bhim,2021,Approved,164,Legal Drama,,223
+15097216,Jai Bhim,2021,Approved,164,Crime,,223
+15097216,Jai Bhim,2021,Approved,164,Drama,,223
+50976,Det sjunde inseglet,1957,Not Rated,96,Psychological Drama,,224
+50976,Det sjunde inseglet,1957,Not Rated,96,Drama,,224
+50976,Det sjunde inseglet,1957,Not Rated,96,Fantasy,,224
+3170832,Room,2015,R,118,Psychological Drama,14677654,225
+3170832,Room,2015,R,118,Drama,14677654,225
+3170832,Room,2015,R,118,Thriller,14677654,225
+395169,Hotel Rwanda,2004,PG-13,121,Docudrama,23530892,226
+395169,Hotel Rwanda,2004,PG-13,121,Epic,23530892,226
+395169,Hotel Rwanda,2004,PG-13,121,Biography,23530892,226
+395169,Hotel Rwanda,2004,PG-13,121,Drama,23530892,226
+395169,Hotel Rwanda,2004,PG-13,121,History,23530892,226
+395169,Hotel Rwanda,2004,PG-13,121,War,23530892,226
+91763,Platoon,1986,R,120,Drama,138530565,227
+91763,Platoon,1986,R,120,War,138530565,227
+36868,The Best Years of Our Lives,1946,Approved,170,Epic,23650000,228
+36868,The Best Years of Our Lives,1946,Approved,170,Feel-Good Romance,23650000,228
+36868,The Best Years of Our Lives,1946,Approved,170,Drama,23650000,228
+36868,The Best Years of Our Lives,1946,Approved,170,Romance,23650000,228
+36868,The Best Years of Our Lives,1946,Approved,170,War,23650000,228
+381681,Before Sunset,2004,R,80,Feel-Good Romance,5820649,229
+381681,Before Sunset,2004,R,80,Drama,5820649,229
+381681,Before Sunset,2004,R,80,Romance,5820649,229
+59742,The Sound of Music,1965,G,174,Classic Musical,160888776,230
+59742,The Sound of Music,1965,G,174,Epic,160888776,230
+59742,The Sound of Music,1965,G,174,Period Drama,160888776,230
+59742,The Sound of Music,1965,G,174,Biography,160888776,230
+59742,The Sound of Music,1965,G,174,Drama,160888776,230
+59742,The Sound of Music,1965,G,174,Family,160888776,230
+59742,The Sound of Music,1965,G,174,Musical,160888776,230
+59742,The Sound of Music,1965,G,174,Romance,160888776,230
+70047,The Exorcist,1973,R,122,Body Horror,233005644,231
+70047,The Exorcist,1973,R,122,Psychological Drama,233005644,231
+70047,The Exorcist,1973,R,122,Psychological Horror,233005644,231
+70047,The Exorcist,1973,R,122,Supernatural Horror,233005644,231
+70047,The Exorcist,1973,R,122,Tragedy,233005644,231
+70047,The Exorcist,1973,R,122,Horror,233005644,231
+317705,The Incredibles,2004,PG,115,Computer Animation,261441092,232
+317705,The Incredibles,2004,PG,115,Superhero,261441092,232
+317705,The Incredibles,2004,PG,115,Action,261441092,232
+317705,The Incredibles,2004,PG,115,Adventure,261441092,232
+317705,The Incredibles,2004,PG,115,Animation,261441092,232
+317705,The Incredibles,2004,PG,115,Family,261441092,232
+1028532,Hachi: A Dog's Tale,2009,G,93,Animal Adventure,,233
+1028532,Hachi: A Dog's Tale,2009,G,93,Biography,,233
+1028532,Hachi: A Dog's Tale,2009,G,93,Drama,,233
+1028532,Hachi: A Dog's Tale,2009,G,93,Family,,233
+1979320,Rush,2013,R,123,Docudrama,26947624,234
+1979320,Rush,2013,R,123,Motorsport,26947624,234
+1979320,Rush,2013,R,123,Period Drama,26947624,234
+1979320,Rush,2013,R,123,Biography,26947624,234
+1979320,Rush,2013,R,123,Drama,26947624,234
+1979320,Rush,2013,R,123,Sport,26947624,234
+32138,The Wizard of Oz,1939,G,102,Adventure Epic,24668669,235
+32138,The Wizard of Oz,1939,G,102,Classic Musical,24668669,235
+32138,The Wizard of Oz,1939,G,102,Fairy Tale,24668669,235
+32138,The Wizard of Oz,1939,G,102,Fantasy Epic,24668669,235
+32138,The Wizard of Oz,1939,G,102,Quest,24668669,235
+32138,The Wizard of Oz,1939,G,102,Adventure,24668669,235
+32138,The Wizard of Oz,1939,G,102,Family,24668669,235
+32138,The Wizard of Oz,1939,G,102,Fantasy,24668669,235
+32138,The Wizard of Oz,1939,G,102,Musical,24668669,235
+5323662,Koe no Katachi,2016,Not Rated,130,Adult Animation,1079689,236
+5323662,Koe no Katachi,2016,Not Rated,130,Anime,1079689,236
+5323662,Koe no Katachi,2016,Not Rated,130,Coming-of-Age,1079689,236
+5323662,Koe no Katachi,2016,Not Rated,130,Hand-Drawn Animation,1079689,236
+5323662,Koe no Katachi,2016,Not Rated,130,Psychological Drama,1079689,236
+5323662,Koe no Katachi,2016,Not Rated,130,Shōnen,1079689,236
+5323662,Koe no Katachi,2016,Not Rated,130,Slice of Life,1079689,236
+5323662,Koe no Katachi,2016,Not Rated,130,Animation,1079689,236
+5323662,Koe no Katachi,2016,Not Rated,130,Drama,1079689,236
+19254,La passion de Jeanne d'Arc,1928,Passed,114,Costume Drama,21877,237
+19254,La passion de Jeanne d'Arc,1928,Passed,114,Legal Drama,21877,237
+19254,La passion de Jeanne d'Arc,1928,Passed,114,Period Drama,21877,237
+19254,La passion de Jeanne d'Arc,1928,Passed,114,Psychological Drama,21877,237
+19254,La passion de Jeanne d'Arc,1928,Passed,114,Tragedy,21877,237
+19254,La passion de Jeanne d'Arc,1928,Passed,114,Biography,21877,237
+19254,La passion de Jeanne d'Arc,1928,Passed,114,Drama,21877,237
+19254,La passion de Jeanne d'Arc,1928,Passed,114,History,21877,237
+92005,Stand by Me,1986,R,89,Coming-of-Age,52287414,238
+92005,Stand by Me,1986,R,89,Dark Comedy,52287414,238
+92005,Stand by Me,1986,R,89,Quest,52287414,238
+92005,Stand by Me,1986,R,89,Adventure,52287414,238
+92005,Stand by Me,1986,R,89,Comedy,52287414,238
+92005,Stand by Me,1986,R,89,Drama,52287414,238
+129167,The Iron Giant,1999,PG,86,Alien Invasion,23315035,239
+129167,The Iron Giant,1999,PG,86,Artificial Intelligence,23315035,239
+129167,The Iron Giant,1999,PG,86,Buddy Comedy,23315035,239
+129167,The Iron Giant,1999,PG,86,Hand-Drawn Animation,23315035,239
+129167,The Iron Giant,1999,PG,86,High-Concept Comedy,23315035,239
+129167,The Iron Giant,1999,PG,86,Kaiju,23315035,239
+129167,The Iron Giant,1999,PG,86,Space Sci-Fi,23315035,239
+129167,The Iron Giant,1999,PG,86,Action,23315035,239
+129167,The Iron Giant,1999,PG,86,Adventure,23315035,239
+129167,The Iron Giant,1999,PG,86,Animation,23315035,239
+476735,Babam ve Oglum,2005,Not Rated,112,Coming-of-Age,,240
+476735,Babam ve Oglum,2005,Not Rated,112,Political Drama,,240
+476735,Babam ve Oglum,2005,Not Rated,112,Drama,,240
+476735,Babam ve Oglum,2005,Not Rated,112,Family,,240
+4016934,Ah-ga-ssi,2016,Not Rated,145,Dark Romance,2006788,241
+4016934,Ah-ga-ssi,2016,Not Rated,145,Erotic Thriller,2006788,241
+4016934,Ah-ga-ssi,2016,Not Rated,145,Psychological Thriller,2006788,241
+4016934,Ah-ga-ssi,2016,Not Rated,145,Steamy Romance,2006788,241
+4016934,Ah-ga-ssi,2016,Not Rated,145,Drama,2006788,241
+4016934,Ah-ga-ssi,2016,Not Rated,145,Romance,2006788,241
+4016934,Ah-ga-ssi,2016,Not Rated,145,Thriller,2006788,241
+74958,Network,1976,R,121,Dark Comedy,23689877,242
+74958,Network,1976,R,121,Workplace Drama,23689877,242
+74958,Network,1976,R,121,Drama,23689877,242
+58946,La battaglia di Algeri,1966,Not Rated,121,Docudrama,879794,243
+58946,La battaglia di Algeri,1966,Not Rated,121,Political Drama,879794,243
+58946,La battaglia di Algeri,1966,Not Rated,121,Drama,879794,243
+58946,La battaglia di Algeri,1966,Not Rated,121,War,879794,243
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Adult Animation,49888550,244
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Anime,49888550,244
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Dark Fantasy,49888550,244
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Hand-Drawn Animation,49888550,244
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Shōnen,49888550,244
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Superhero,49888550,244
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Supernatural Fantasy,49888550,244
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Sword & Sorcery,49888550,244
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Action,49888550,244
+11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,2020,TV-MA,117,Adventure,49888550,244
+32551,The Grapes of Wrath,1940,Approved,129,Period Drama,,245
+32551,The Grapes of Wrath,1940,Approved,129,Tragedy,,245
+32551,The Grapes of Wrath,1940,Approved,129,Drama,,245
+35446,To Be or Not to Be,1942,Approved,99,Screwball Comedy,3270000,246
+35446,To Be or Not to Be,1942,Approved,99,Comedy,3270000,246
+35446,To Be or Not to Be,1942,Approved,99,Romance,3270000,246
+35446,To Be or Not to Be,1942,Approved,99,War,3270000,246
+1954470,Gangs of Wasseypur,2012,Not Rated,321,Gangster,,247
+1954470,Gangs of Wasseypur,2012,Not Rated,321,Satire,,247
+1954470,Gangs of Wasseypur,2012,Not Rated,321,True Crime,,247
+1954470,Gangs of Wasseypur,2012,Not Rated,321,Action,,247
+1954470,Gangs of Wasseypur,2012,Not Rated,321,Comedy,,247
+1954470,Gangs of Wasseypur,2012,Not Rated,321,Crime,,247
+1954470,Gangs of Wasseypur,2012,Not Rated,321,Drama,,247
+1954470,Gangs of Wasseypur,2012,Not Rated,321,Thriller,,247
+758758,Into the Wild,2007,R,148,Coming-of-Age,18354356,248
+758758,Into the Wild,2007,R,148,Docudrama,18354356,248
+758758,Into the Wild,2007,R,148,Road Trip,18354356,248
+758758,Into the Wild,2007,R,148,Survival,18354356,248
+758758,Into the Wild,2007,R,148,Tragedy,18354356,248
+758758,Into the Wild,2007,R,148,Adventure,18354356,248
+758758,Into the Wild,2007,R,148,Biography,18354356,248
+758758,Into the Wild,2007,R,148,Drama,18354356,248
+16492678,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,2021,,87,Anime,,249
+16492678,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,2021,,87,Hand-Drawn Animation,,249
+16492678,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,2021,,87,Supernatural Fantasy,,249
+16492678,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,2021,,87,Action,,249
+16492678,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,2021,,87,Animation,,249
+16492678,Kimetsu no Yaiba: Tsuzumi Yashiki-hen,2021,,87,Fantasy,,249
+1454029,The Help,2011,PG-13,146,Period Drama,169708112,250
+1454029,The Help,2011,PG-13,146,Drama,169708112,250
